@@ -1,0 +1,12 @@
+﻿Metric,Count (n),Share (%),Base (n)
+Websites scraped (all records),1457,100.0,1457
+Unique domains among scraped records,1457,,1457
+Duplicate domain rows among scraped records,0,0.0,1457
+Records classified as 'valid_candidate',907,62.25,1457
+Records classified as 'invalid',496,34.04,1457
+Records classified as 'needs_review',54,3.71,1457
+Valid records analysed in this report,907,62.25,1457
+Unique domains among analysed records,907,,907
+Duplicate domain rows among analysed records,0,0.0,907
+Analysed records with data in every assessed dimension,521,57.44,907
+Analysed records missing at least one assessed dimension,386,42.56,907

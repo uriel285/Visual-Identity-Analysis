@@ -1,0 +1,7 @@
+﻿From level,To level,Transitions (n),Transitions (%),Base transitions (n)
+H3,H3,8759,50.45,17362
+H2,H2,6854,39.48,17362
+H2,H3,682,3.93,17362
+H1,H2,637,3.67,17362
+H1,H1,416,2.4,17362
+H1,H3,14,0.08,17362

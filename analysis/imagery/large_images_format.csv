@@ -1,0 +1,9 @@
+format,asset_count,site_count,asset_percentage,site_percentage
+jpeg,6089,516,49.75,56.89
+unknown,2471,202,20.19,22.27
+webp,1689,208,13.8,22.93
+png,1348,293,11.01,32.3
+avif,317,28,2.59,3.09
+svg,193,55,1.58,6.06
+gif,130,33,1.06,3.64
+tiff,1,1,0.01,0.11

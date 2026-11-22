@@ -1,0 +1,16 @@
+﻿Component A,Component B,Sites with both (n),Sites with both (%),Sites with A (n),Sites with B (n),Base (n)
+Cards,Buttons,537,59.21,559,844,907
+Cards,Navigation links,428,47.19,559,664,907
+Cards,Search (any signal),363,40.02,559,569,907
+Cards,Header detected,459,50.61,559,727,907
+Cards,Hero detected,475,52.37,559,705,907
+Buttons,Navigation links,627,69.13,844,664,907
+Buttons,Search (any signal),552,60.86,844,569,907
+Buttons,Header detected,689,75.96,844,727,907
+Buttons,Hero detected,672,74.09,844,705,907
+Navigation links,Search (any signal),435,47.96,664,569,907
+Navigation links,Header detected,570,62.84,664,727,907
+Navigation links,Hero detected,546,60.2,664,705,907
+Search (any signal),Header detected,466,51.38,569,727,907
+Search (any signal),Hero detected,446,49.17,569,705,907
+Header detected,Hero detected,615,67.81,727,705,907

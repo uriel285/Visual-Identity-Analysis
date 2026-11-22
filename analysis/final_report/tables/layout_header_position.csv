@@ -1,0 +1,7 @@
+﻿Header position,Sites (n),Sites (% of all),Sites (% of detected),Base (n)
+static,249,27.45,34.25,907
+relative,200,22.05,27.51,907
+not_found,180,19.85,,907
+fixed,130,14.33,17.88,907
+sticky,96,10.58,13.2,907
+absolute,52,5.73,7.15,907

@@ -1,0 +1,6 @@
+﻿Metric,Sites (n),Sites (%),Base (n)
+Search reported present by scraper,569,62.73,907
+Search reported absent by scraper,338,37.27,907
+Search flag not reported,0,0.0,907
+Parsed search inputs detected,569,62.73,907
+Any search signal,569,62.73,907

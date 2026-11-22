@@ -1,0 +1,8 @@
+﻿Metric,Valid values (n),Missing (n),Values > 0 (n),Values > 0 (%),Mean,Median,Std. dev.,Min,P25,P75,P90,Max
+Navigation links per site,664,0,664,100.0,32.67,10.0,67.48,1.0,4.0,34.25,78.0,842.0
+Internal navigation links per site (internal + relative),664,0,624,93.98,31.35,8.0,66.96,0.0,3.0,33.0,75.7,842.0
+External navigation links per site,664,0,54,8.13,1.32,0.0,11.76,0.0,0.0,0.0,0.0,251.0
+Internal share of navigation links per site (%),664,0,624,93.98,93.91,100.0,23.81,0.0,100.0,100.0,100.0,100.0
+External share of navigation links per site (%),664,0,54,8.13,6.09,0.0,23.81,0.0,0.0,0.0,0.0,100.0
+Unique navigation destinations per site,664,0,664,100.0,26.33,9.0,43.44,1.0,4.0,32.0,66.0,334.0
+Navigation links without anchor text per site (%),664,0,664,100.0,100.0,100.0,0.0,100.0,100.0,100.0,100.0,100.0

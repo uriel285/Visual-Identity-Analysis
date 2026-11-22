@@ -1,0 +1,17 @@
+﻿Metric,Sites (n),Base (n),Sites (%)
+Hero container detected,705,907,77.73
+Hero with 'hero' keyword in class,111,907,12.24
+Hero with an image URL captured,19,907,2.09
+Hero container tag: <main>,527,705,74.75
+Hero container tag: <div>,95,705,13.48
+Hero container tag: <section>,59,705,8.37
+Hero container tag: <body>,8,705,1.13
+Hero container tag: <header>,7,705,0.99
+Hero container tag: <img>,2,705,0.28
+Hero container tag: <h1>,1,705,0.14
+Hero container tag: <style>,1,705,0.14
+Hero container tag: <span>,1,705,0.14
+Hero container tag: <button>,1,705,0.14
+Hero container tag: <figure>,1,705,0.14
+Hero container tag: <a>,1,705,0.14
+Hero container tag: <html>,1,705,0.14

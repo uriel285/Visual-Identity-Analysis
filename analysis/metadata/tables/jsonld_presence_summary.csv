@@ -1,0 +1,4 @@
+metric,count,percentage
+json_ld_present,907,100.0
+json_ld_missing,0,0.0
+json_ld_with_detected_type,0,0.0

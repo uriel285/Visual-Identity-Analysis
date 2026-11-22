@@ -1,0 +1,4 @@
+﻿Asset type,Assets (n),Assets with dimensions (n),Assets with dimensions (%),Median width (px),P25 width,P75 width,Median height (px),Median aspect ratio (W/H),P25 aspect ratio,P75 aspect ratio
+General images,48418,44396,91.69,264.0,70.0,520.0,171.0,1.29,1.0,1.69
+Large images,12238,12226,99.9,532.0,360.0,985.0,404.0,1.49,1.0,1.78
+Logo candidates,5751,5750,99.98,67.0,21.0,160.0,32.0,1.13,1.0,2.5

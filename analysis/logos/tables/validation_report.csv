@@ -1,0 +1,25 @@
+﻿Dimension,Item,Status,Detail,n
+Inventory,Column 'domain',OK,1352 of 1352 rows contain data.,1352.0
+Inventory,Column 'asset_type',OK,1352 of 1352 rows contain data.,1352.0
+Inventory,Column 'format_detected',OK,1259 of 1352 rows contain data.,1259.0
+Inventory,Column 'source_url',OK,1073 of 1352 rows contain data.,1073.0
+Inventory,Column 'local_path',OK,1259 of 1352 rows contain data.,1259.0
+Inventory,Column 'selector',OK,1352 of 1352 rows contain data.,1352.0
+Inventory,Column 'alt_text',OK,302 of 1352 rows contain data.,302.0
+Inventory,Column 'width',OK,1352 of 1352 rows contain data.,1352.0
+Inventory,Column 'height',OK,1352 of 1352 rows contain data.,1352.0
+Inventory,Column 'confidence_score',OK,1352 of 1352 rows contain data.,1352.0
+Inventory,Column 'file_size_bytes',OK,1352 of 1352 rows contain data.,1352.0
+Inventory,Column 'sha256',OK,980 of 1352 rows contain data.,980.0
+Inventory,Column 'download_status',OK,1352 of 1352 rows contain data.,1352.0
+Inventory,Files on disk without metadata row,INFO,270 files are not referenced in logos_metadata.csv.,270.0
+Inventory,Assets with analysis status 'load_failed',PARTIAL,Excluded from OpenCV features.,524.0
+Inventory,Assets with analysis status 'empty_mask',PARTIAL,Excluded from OpenCV features.,1.0
+Inventory,Sites without a usable logo,PARTIAL,118 sites have no analysable logo.,118.0
+Inventory,Sites using a variant as representative logo,INFO,26 sites.,26.0
+Composition,Market segments,EMPTY,market_classification_template.csv has no filled segments.,
+Inventory,Sites not included in the analysis,PARTIAL,118 of 189 sites; see tables/inventory_site_status.csv for the reason of each.,118.0
+Composition,Manual composition labels,MISSING,analysis\logos\manual_labels.csv not found; heuristic accuracy cannot be reported. Use manual_labels_template.csv.,
+SVG structure,SVG rendering,UNAVAILABLE,"cairosvg is not installed (pip install cairosvg): SVG logos are not rasterised, so OpenCV features are skipped for them; SVG structure is still analysed.",
+Composition,Composition classification,INFO,Heuristic based on connected components and spatial grouping; check contact_sheet_composition_overlays.png and provide manual labels.,71.0
+Color,Palette extraction,INFO,"k-means in Lab on eroded foreground pixels, similar clusters merged; colors below the share threshold are dropped.",71.0

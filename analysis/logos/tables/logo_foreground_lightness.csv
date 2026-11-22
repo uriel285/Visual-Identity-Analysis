@@ -1,0 +1,4 @@
+﻿Foreground lightness class,Logos (n),Logos (%),Base (n)
+Light foreground (L* >= 65),29,40.85,71
+Dark foreground (L* < 35),22,30.99,71
+Mid-tone foreground,20,28.17,71

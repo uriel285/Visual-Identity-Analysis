@@ -1,0 +1,5 @@
+﻿Metric,Logos (n),Logos (%),Base (n)
+Achromatic logos (black / white / grey),25,35.21,71
+Gradient detected,19,26.76,71
+Dominant color contrast on white >= 4.5 (WCAG AA text),31,43.66,71
+Dominant color contrast on black >= 4.5 (WCAG AA text),40,56.34,71

@@ -1,0 +1,68 @@
+﻿Research dimension,Item,Status,Detail,Records with data (n)
+A. Dataset overview,Column 'domain',OK,907 of 907 records contain data.,907
+A. Dataset overview,Column 'original_url',OK,907 of 907 records contain data.,907
+A. Dataset overview,Column 'final_url',OK,907 of 907 records contain data.,907
+A. Dataset overview,Column 'http_status',PARTIAL,1224 of 1457 records contain data.,1224
+A. Dataset overview,Column 'http_class',OK,1457 of 1457 records contain data.,1457
+A. Dataset overview,Column 'content_quality',OK,1457 of 1457 records contain data.,1457
+A. Dataset overview,Column 'review_reasons',PARTIAL,763 of 1457 records contain data.,763
+B. Visual identity,Column 'background_colors',PARTIAL,904 of 907 records contain data.,904
+B. Visual identity,Column 'text_colors',PARTIAL,906 of 907 records contain data.,906
+B. Visual identity,Column 'border_colors',PARTIAL,906 of 907 records contain data.,906
+B. Visual identity,Column 'font_families',PARTIAL,906 of 907 records contain data.,906
+B. Visual identity,Column 'loaded_fonts',PARTIAL,879 of 907 records contain data.,879
+C. UI components and UX patterns,Column 'card_candidate_count',OK,907 of 907 records contain data.,907
+C. UI components and UX patterns,Column 'button_count',OK,907 of 907 records contain data.,907
+C. UI components and UX patterns,Column 'nav_links',PARTIAL,664 of 907 records contain data.,664
+C. UI components and UX patterns,Column 'search_present',OK,907 of 907 records contain data.,907
+C. UI components and UX patterns,Column 'search_inputs',PARTIAL,569 of 907 records contain data.,569
+C. UI components and UX patterns,Column 'header_position',OK,907 of 907 records contain data.,907
+C. UI components and UX patterns,Column 'hero',PARTIAL,705 of 907 records contain data.,705
+C. UI components and UX patterns,Column 'sticky_elements',OK,907 of 907 records contain data.,907
+C. UI components and UX patterns,Column 'grid_elements',OK,907 of 907 records contain data.,907
+C. UI components and UX patterns,Column 'flex_elements',OK,907 of 907 records contain data.,907
+C. UI components and UX patterns,Column 'video_count',OK,907 of 907 records contain data.,907
+C. UI components and UX patterns,Column 'svg_count',OK,907 of 907 records contain data.,907
+D. Images and graphical resources,Column 'images',PARTIAL,894 of 907 records contain data.,894
+D. Images and graphical resources,Column 'large_images',PARTIAL,777 of 907 records contain data.,777
+D. Images and graphical resources,Column 'logo_candidates',PARTIAL,821 of 907 records contain data.,821
+D. Images and graphical resources,Column 'image_count',OK,907 of 907 records contain data.,907
+D. Images and graphical resources,Column 'large_image_count',OK,907 of 907 records contain data.,907
+D. Images and graphical resources,Column 'logo_candidate_count',OK,907 of 907 records contain data.,907
+D. Images and graphical resources,Column 'hero',PARTIAL,705 of 907 records contain data.,705
+D. Images and graphical resources,Column 'favicon',PARTIAL,828 of 907 records contain data.,828
+D. Images and graphical resources,Column 'og_image',PARTIAL,596 of 907 records contain data.,596
+E. Digital identity and metadata,Column 'title',PARTIAL,901 of 907 records contain data.,901
+E. Digital identity and metadata,Column 'description',PARTIAL,830 of 907 records contain data.,830
+E. Digital identity and metadata,Column 'keywords',PARTIAL,177 of 907 records contain data.,177
+E. Digital identity and metadata,Column 'language',PARTIAL,867 of 907 records contain data.,867
+E. Digital identity and metadata,Column 'canonical',PARTIAL,775 of 907 records contain data.,775
+E. Digital identity and metadata,Column 'robots',PARTIAL,430 of 907 records contain data.,430
+E. Digital identity and metadata,Column 'robots_status',OK,907 of 907 records contain data.,907
+E. Digital identity and metadata,Column 'og_title',PARTIAL,688 of 907 records contain data.,688
+E. Digital identity and metadata,Column 'og_description',PARTIAL,643 of 907 records contain data.,643
+E. Digital identity and metadata,Column 'og_image',PARTIAL,596 of 907 records contain data.,596
+E. Digital identity and metadata,Column 'og_type',PARTIAL,597 of 907 records contain data.,597
+E. Digital identity and metadata,Column 'twitter_card',PARTIAL,511 of 907 records contain data.,511
+E. Digital identity and metadata,Column 'favicon',PARTIAL,828 of 907 records contain data.,828
+E. Digital identity and metadata,Column 'viewport',PARTIAL,893 of 907 records contain data.,893
+E. Digital identity and metadata,Column 'json_ld',PARTIAL,578 of 907 records contain data.,578
+F. Content architecture and navigation,Column 'headings',OK,907 of 907 records contain data.,907
+F. Content architecture and navigation,Column 'nav_links',PARTIAL,664 of 907 records contain data.,664
+F. Content architecture and navigation,Column 'body_text_length',OK,907 of 907 records contain data.,907
+F. Content architecture and navigation,Column 'body_text_length_num',OK,907 of 907 records contain data.,907
+F. Content architecture and navigation,Column 'final_url',OK,907 of 907 records contain data.,907
+F. Content architecture and navigation,Column 'domain',OK,907 of 907 records contain data.,907
+F. Content architecture and navigation,Column 'domain_clean',OK,907 of 907 records contain data.,907
+B. Visual identity,Color values discarded (Background: transparent),PARTIAL,22 color values could not be normalised to HEX and were excluded.,22
+B. Visual identity,Color values discarded (Background: unsupported_format),PARTIAL,103 color values could not be normalised to HEX and were excluded.,103
+B. Visual identity,Color values discarded (Text: transparent),PARTIAL,19 color values could not be normalised to HEX and were excluded.,19
+B. Visual identity,Color values discarded (Text: unsupported_format),PARTIAL,71 color values could not be normalised to HEX and were excluded.,71
+B. Visual identity,Color values discarded (Border: transparent),PARTIAL,34 color values could not be normalised to HEX and were excluded.,34
+B. Visual identity,Color values discarded (Border: unsupported_format),PARTIAL,102 color values could not be normalised to HEX and were excluded.,102
+B. Visual identity,Icon fonts excluded from typography,INFO,1621 icon/auxiliary font observations excluded (notebook rule).,1621
+B. Visual identity,Font classification coverage,PARTIAL,97.91% of distinct primary font families are 'Unknown / Custom' because classification relies on the notebook's curated dictionaries.,892
+D. Images and graphical resources,Image format classification,PARTIAL,22.54% of image assets have unknown/invalid format (attribute not captured).,66407
+D. Images and graphical resources,Image orientation classification,PARTIAL,6.08% of image assets have unknown/invalid orientation (attribute not captured).,66407
+D. Images and graphical resources,Image size class classification,PARTIAL,6.08% of image assets have unknown/invalid size class (attribute not captured).,66407
+D. Images and graphical resources,Image origin classification,PARTIAL,3.52% of image assets have unknown/invalid origin (attribute not captured).,66407

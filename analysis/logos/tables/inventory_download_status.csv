@@ -1,0 +1,10 @@
+﻿Download status,Logos (n),Logos (%),Base (n)
+success,1259,93.12,1352
+http_403,50,3.7,1352
+invalid_image_content,17,1.26,1352
+invalid_url,14,1.04,1352
+not_an_image,4,0.3,1352
+Remote end closed connection without response,3,0.22,1352
+http_404,2,0.15,1352
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>,2,0.15,1352
+"<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'media.celebrity.cn.edgesuite.net'. (_ssl.c:1000)>",1,0.07,1352

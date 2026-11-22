@@ -1,0 +1,12 @@
+﻿Metric,Valid (n),Missing (n),Mean,Median,Std. dev.,Min,P25,P75,P90,Max
+Major visual groups per logo,71,0,1.82,1.0,1.55,1.0,1.0,2.0,3.0,8.0
+Text-like groups,71,0,0.82,1.0,0.82,0.0,0.0,1.0,2.0,4.0
+Symbol-like groups,71,0,1.0,1.0,1.43,0.0,0.0,1.0,1.0,8.0
+Connected components,71,0,15.56,11.0,14.65,1.0,4.5,21.0,35.0,65.0
+Symbol share of (symbol + text) area,21,50,0.43,0.35,0.21,0.22,0.29,0.46,0.82,0.89
+Symbol height / wordmark height,21,50,1.61,1.13,1.06,0.63,0.93,1.86,3.73,4.12
+Gap between symbol and wordmark / logo height,21,50,0.31,0.19,0.54,0.0,0.14,0.23,0.36,2.62
+Letter components in wordmark,44,27,14.23,10.0,10.68,2.0,6.0,19.5,25.7,47.0
+Wordmark baseline deviation / height,44,27,0.16,0.18,0.11,0.0,0.02,0.25,0.3,0.34
+Median letter gap / wordmark height,44,27,0.02,0.0,0.03,0.0,0.0,0.04,0.06,0.17
+Letter height variation (CV),44,27,0.39,0.33,0.31,0.0,0.15,0.59,0.72,1.48

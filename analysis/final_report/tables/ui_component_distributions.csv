@@ -1,0 +1,5 @@
+﻿Metric,Valid values (n),Missing (n),Values > 0 (n),Values > 0 (%),Mean,Median,Std. dev.,Min,P25,P75,P90,Max
+Card candidates per site,907,0,559,61.63,49.33,6.0,119.49,0.0,0.0,48.5,138.0,1955.0
+Buttons per site,907,0,844,93.05,17.64,11.0,54.73,0.0,4.0,20.0,33.0,1511.0
+Navigation links per site,664,243,664,100.0,32.67,10.0,67.48,1.0,4.0,34.25,78.0,842.0
+Search inputs per site,907,0,569,62.73,1.45,1.0,1.66,0.0,0.0,2.0,4.0,10.0

@@ -1,0 +1,9 @@
+﻿HTTP response class,Websites (n),Websites (%),Base (n)
+http_200,968,66.44,1457
+no_response,233,15.99,1457
+forbidden,213,14.62,1457
+server_error,14,0.96,1457
+rate_limited,10,0.69,1457
+other_success,8,0.55,1457
+client_error,8,0.55,1457
+method_not_allowed,3,0.21,1457

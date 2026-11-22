@@ -1,0 +1,5 @@
+﻿Metric,Sites (n),Base (n),Sites (%)
+Sites with more than one analysable logo version,31,71,43.66
+Sites with versions differing in foreground lightness by >= 40 L*,16,71,22.54
+Sites with at least one SVG logo version,0,71,0.0
+Sites with versions in different color modes,15,71,21.13

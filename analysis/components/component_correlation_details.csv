@@ -1,0 +1,7 @@
+variable_1,variable_2,spearman_rho,valid_pairs
+card_candidate_count,button_count,0.23477455572734418,907
+card_candidate_count,nav_link_count,0.11304593367832198,907
+card_candidate_count,search_input_count,0.03930104445968726,907
+button_count,nav_link_count,0.05489266702433373,907
+button_count,search_input_count,0.19428952696512694,907
+nav_link_count,search_input_count,0.07688831981282769,907

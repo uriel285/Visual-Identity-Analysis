@@ -1,0 +1,21 @@
+{
+    "total_sites": 1457,
+    "http_distribution": {
+        "http_200": 968,
+        "no_response": 233,
+        "forbidden": 213,
+        "server_error": 14,
+        "rate_limited": 10,
+        "other_success": 8,
+        "client_error": 8,
+        "method_not_allowed": 3
+    },
+    "content_quality": {
+        "valid_candidate": 907,
+        "invalid": 496,
+        "needs_review": 54
+    },
+    "valid_candidates": 907,
+    "needs_review": 54,
+    "invalid": 496
+}

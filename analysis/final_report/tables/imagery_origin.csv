@@ -1,0 +1,12 @@
+﻿Asset type,Origin,Assets (n),Assets (%),Sites (n),Sites (%),Base assets (n),Base sites (n)
+General images,internal,31057,64.14,722,79.6,48418,907
+General images,external,13376,27.63,531,58.54,48418,907
+General images,embedded,3973,8.21,186,20.51,48418,907
+General images,relative_or_unknown,12,0.02,1,0.11,48418,907
+Large images,internal,7566,61.82,545,60.09,12238,907
+Large images,external,3895,31.83,276,30.43,12238,907
+Large images,embedded,777,6.35,69,7.61,12238,907
+Logo candidates,internal,2372,41.25,535,58.99,5751,907
+Logo candidates,unknown,2338,40.65,476,52.48,5751,907
+Logo candidates,external,855,14.87,202,22.27,5751,907
+Logo candidates,embedded,186,3.23,65,7.17,5751,907

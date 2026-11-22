@@ -1,0 +1,10 @@
+﻿Property,Logos (n),Logos (%),Base SVG logos (n)
+Contains outlined paths,388,84.9,457
+"Contains basic shapes (circle, rect...)",104,22.76,457
+Contains live text elements,2,0.44,457
+Contains gradients,15,3.28,457
+Uses clip paths or masks,53,11.6,457
+Embeds a raster image,8,1.75,457
+Depends on CSS classes or style blocks,240,52.52,457
+Uses currentColor,109,23.85,457
+Declares a viewBox,389,85.12,457

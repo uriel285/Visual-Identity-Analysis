@@ -1,0 +1,4 @@
+﻿Metric,Sites (n),Base (n),Sites (%)
+URL has query string,5,907,0.55
+URL has fragment,1,907,0.11
+URL path is not the site root,213,907,23.48

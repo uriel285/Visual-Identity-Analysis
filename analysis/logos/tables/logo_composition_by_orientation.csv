@@ -1,0 +1,12 @@
+﻿Composition type,Aspect class,Row share (%),Logos (n),Row base (n)
+Combination (symbol + wordmark),Landscape (1.25-2),4.76,1,21
+Combination (symbol + wordmark),Wide (2-3.5),23.81,5,21
+Combination (symbol + wordmark),Very wide (> 3.5),71.43,15,21
+Symbol / emblem only,Vertical (< 0.8),11.11,3,27
+Symbol / emblem only,Near-square (0.8-1.25),59.26,16,27
+Symbol / emblem only,Landscape (1.25-2),18.52,5,27
+Symbol / emblem only,Wide (2-3.5),7.41,2,27
+Symbol / emblem only,Very wide (> 3.5),3.7,1,27
+Wordmark only,Landscape (1.25-2),13.04,3,23
+Wordmark only,Wide (2-3.5),43.48,10,23
+Wordmark only,Very wide (> 3.5),43.48,10,23

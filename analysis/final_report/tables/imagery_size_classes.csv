@@ -1,0 +1,16 @@
+﻿Asset type,Size class,Assets (n),Assets (%),Sites (n),Sites (%),Base assets (n),Base sites (n)
+General images,small,21395,44.19,836,92.17,48418,907
+General images,medium,14469,29.88,764,84.23,48418,907
+General images,large,5178,10.69,644,71.0,48418,907
+General images,invalid,4022,8.31,379,41.79,48418,907
+General images,very_large,3354,6.93,522,57.55,48418,907
+Large images,medium,6141,50.18,540,59.54,12238,907
+Large images,large,3196,26.12,541,59.65,12238,907
+Large images,very_large,1905,15.57,443,48.84,12238,907
+Large images,small,984,8.04,100,11.03,12238,907
+Large images,invalid,12,0.1,2,0.22,12238,907
+Logo candidates,small,5190,90.25,809,89.2,5751,907
+Logo candidates,medium,387,6.73,115,12.68,5751,907
+Logo candidates,large,127,2.21,47,5.18,5751,907
+Logo candidates,very_large,46,0.8,17,1.87,5751,907
+Logo candidates,invalid,1,0.02,1,0.11,5751,907

@@ -1,0 +1,13 @@
+﻿Asset type,Orientation,Assets (n),Assets (%),Sites (n),Sites (%),Base assets (n),Base sites (n)
+General images,landscape,22061,45.56,874,96.36,48418,907
+General images,square,19566,40.41,810,89.31,48418,907
+General images,invalid,4022,8.31,379,41.79,48418,907
+General images,portrait,2769,5.72,375,41.35,48418,907
+Large images,landscape,7906,64.6,734,80.93,12238,907
+Large images,square,3442,28.13,400,44.1,12238,907
+Large images,portrait,878,7.17,150,16.54,12238,907
+Large images,invalid,12,0.1,2,0.22,12238,907
+Logo candidates,square,2821,49.05,581,64.06,5751,907
+Logo candidates,landscape,2744,47.71,749,82.58,5751,907
+Logo candidates,portrait,185,3.22,76,8.38,5751,907
+Logo candidates,invalid,1,0.02,1,0.11,5751,907

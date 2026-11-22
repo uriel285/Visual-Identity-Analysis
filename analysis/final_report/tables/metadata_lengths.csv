@@ -1,0 +1,6 @@
+﻿Field,Sites with field (n),Mean characters,Median characters,Std. dev. characters,Min characters,P25 characters,P75 characters,Max characters,Mean words,Base (n)
+title,901,52.37,54.0,21.29,3,41.0,63.0,226,7.41,907
+description,830,149.77,148.0,53.38,4,130.0,161.0,513,23.02,907
+og_title,688,45.97,49.5,23.15,3,29.75,61.0,240,6.61,907
+og_description,643,147.68,148.0,53.98,17,127.0,160.5,475,22.82,907
+keywords,177,160.54,122.0,197.87,5,58.0,200.0,2042,22.22,907

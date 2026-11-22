@@ -1,0 +1,13 @@
+﻿Asset type,Attribute,Assets (n),Assets with attribute captured (n),Assets with attribute (n),Assets with attribute (% of captured)
+General images,Non-empty alt text,48418,48418,34347,70.94
+General images,srcset present,48418,0,0,
+General images,loading = lazy,48418,48418,22851,47.2
+General images,loading = eager,48418,48418,1314,2.71
+Large images,Non-empty alt text,12238,12238,8972,73.31
+Large images,srcset present,12238,0,0,
+Large images,loading = lazy,12238,12238,6938,56.69
+Large images,loading = eager,12238,12238,631,5.16
+Logo candidates,Non-empty alt text,5751,5751,2772,48.2
+Logo candidates,srcset present,5751,0,0,
+Logo candidates,loading = lazy,5751,0,0,
+Logo candidates,loading = eager,5751,0,0,

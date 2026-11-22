@@ -1,0 +1,2 @@
+metric,valid_sites,missing_sites,sites_with_value,adoption_percentage,mean,median,std,min,p25,p50,p75,p90,max
+nav_link_count,907,0,664,73.20837927232635,23.919514884233738,5.0,59.51304534107475,0.0,0.0,5.0,21.5,65.0,842.0

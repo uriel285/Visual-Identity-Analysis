@@ -1,0 +1,8 @@
+﻿Metric,Count (n),Base (n),Share (%)
+Asset rows in metadata,1352,1352.0,100.0
+Distinct sites (domains),189,,
+Distinct brands,188,,
+Rows with successful download,1259,1352.0,93.12
+Assets analysed with OpenCV,734,1352.0,54.29
+Sites with a usable representative logo,71,189.0,37.57
+Brands in the analysis basis,71,188.0,37.77

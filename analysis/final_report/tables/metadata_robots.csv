@@ -1,0 +1,9 @@
+﻿Robots directive,Sites (n),Sites (% of all),Sites (% of sites with robots meta),Base all (n),Base with robots meta (n)
+index,351,38.7,81.63,907,430
+follow,339,37.38,78.84,907,430
+noindex,5,0.55,1.16,907,430
+nofollow,2,0.22,0.47,907,430
+noarchive,1,0.11,0.23,907,430
+nosnippet,0,0.0,0.0,907,430
+noimageindex,0,0.0,0.0,907,430
+max-image-preview:large,173,19.07,40.23,907,430

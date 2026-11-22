@@ -1,0 +1,190 @@
+﻿Domain,Brand,Outcome,Logo rows (n),Primary logo status,Used variant instead of primary
+celebritycruises.com,celebritycruises,"All logo downloads failed (<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'media.celebrity.cn.edgesuite.net'. (_ssl.c:1000)>)",1,"<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'media.celebrity.cn.edgesuite.net'. (_ssl.c:1000)>",False
+tui.com,tui,All logo downloads failed (<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>),1,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>,False
+ana.co.jp,ana,All logo downloads failed (Remote end closed connection without response),1,Remote end closed connection without response,False
+flydenver.com,flydenver,All logo downloads failed (http_403),1,http_403,False
+aucklandairport.co.nz,aucklandairport,All logo downloads failed (http_403),6,http_403,False
+atl.com,atl,All logo downloads failed (http_403),1,http_403,False
+flylax.com,flylax,All logo downloads failed (http_403),4,http_403,False
+flynas.com,flynas,All logo downloads failed (http_403),1,http_403,False
+balearia.com,balearia,All logo downloads failed (http_403),1,http_403,False
+123milhas.com,123milhas,"All logo downloads failed (invalid_image_content, invalid_url)",2,invalid_image_content,False
+bengaluruairport.com,bengaluruairport,All logo downloads failed (invalid_url),4,invalid_url,False
+aeroflot.ru,aeroflot,All logo downloads failed (not_an_image),1,not_an_image,False
+istairport.com,istairport,Included,4,success,True
+itchotels.com,itchotels,Included,6,success,False
+enterprise.com,enterprise,Included,4,success,False
+yvr.ca,yvr,Included,1,success,False
+irishrail.ie,irishrail,Included,6,success,True
+dubaiairports.ae,dubaiairports,Included,6,success,True
+easemytrip.com,easemytrip,Included,2,success,False
+irishferries.com,irishferries,Included,1,success,False
+ttc.ca,ttc,Included,6,success,False
+efteling.com,efteling,Included,4,success,True
+jet2holidays.com,jet2holidays,Included,6,success,True
+jetcost.com,jetcost,Included,2,success,True
+ita-airways.com,ita-airways,Included,2,success,True
+seaworld.com,seaworld,Included,6,success,True
+etrain.info,etrain,Included,1,success,False
+hertz.com,hertz,Included,6,success,False
+heathrow.com,heathrow,Included,5,success,False
+greyhound.com,greyhound,Included,2,success,False
+snow-forecast.com,snow-forecast,Included,6,success,True
+southeasternrailway.co.uk,southeasternrailway,Included,6,success,True
+stanstedairport.com,stanstedairport,Included,4,success,False
+gatwickairport.com,gatwickairport,Included,6,success,True
+epicpass.com,epicpass,Included,2,success,False
+flysfo.com,flysfo,Included,6,success,False
+flightcentre.com,flightcentre,Included,6,success,False
+sixflags.com,sixflags,Included,6,success,False
+secretflying.com,secretflying,Included,2,success,False
+ferryhopper.com,ferryhopper,Included,6,success,True
+ikonpass.com,ikonpass,Included,5,success,False
+confirmtkt.com,confirmtkt,Included,2,success,False
+swedavia.com,swedavia,Included,1,success,False
+flixbus.com,flixbus,Included,6,success,False
+riu.com,riu,Included,6,success,True
+chollometro.com,chollometro,Included,6,success,False
+lner.co.uk,lner,Included,1,success,False
+webjet.com.au,webjet,Included,6,success,False
+munich-airport.de,munich-airport,Included,6,success,True
+nationalrail.co.uk,nationalrail,Included,6,success,True
+westjet.com,westjet,Included,1,success,False
+newdelhiairport.in,newdelhiairport,Included,6,success,False
+whistlerblackcomb.com,whistlerblackcomb,Included,3,success,False
+alamo.com,alamo,Included,1,success,False
+nps.gov,nps,Included,4,success,False
+airbaltic.com,airbaltic,Included,6,success,True
+railyatri.in,railyatri,Included,6,success,True
+adr.it,adr,Included,6,success,True
+oberoihotels.com,oberoihotels,Included,2,success,False
+wikiloc.com,wikiloc,Included,3,success,True
+radissonhotels.com,radissonhotels,Included,1,success,False
+princess.com,princess,Included,6,success,False
+urlaubspiraten.de,urlaubspiraten,Included,6,success,True
+ritzcarlton.com,ritzcarlton,Included,1,success,False
+waze.com,waze,Included,3,success,False
+avis.com,avis,Included,6,success,True
+holidaypirates.com,holidaypirates,Included,6,success,True
+vail.com,vail,Included,1,success,False
+manchesterairport.co.uk,manchesterairport,Included,3,success,False
+changiairport.com,changiairport,Included,4,success,True
+cedarpoint.com,cedarpoint,Included,6,success,False
+viajerospiratas.es,viajerospiratas,Included,6,success,True
+miami-airport.com,miami-airport,Included,3,success,False
+carnival.com,carnival,Included,4,success,True
+viarail.ca,viarail,Included,2,success,False
+budget.com,budget,Included,2,success,False
+mavcsoport.hu,mavcsoport,Included,4,success,False
+vietnamairlines.com,vietnamairlines,Included,4,success,False
+maxmilhas.com.br,maxmilhas,Included,4,success,False
+bcferries.com,bcferries,Included,1,success,False
+azul.com.br,azul,Included,1,success,False
+buser.com.br,buser,Included,6,success,True
+hongkongairport.com,hongkongairport,Included,1,success,False
+hyatt.com,hyatt,No logo candidate detected,0,none,False
+opodo.com,opodo,No logo candidate detected,0,none,False
+sutochno.ru,sutochno,No logo candidate detected,0,none,False
+cheapflights.com,cheapflights,No logo candidate detected,0,none,False
+ado.com.mx,ado,No logo candidate detected,0,none,False
+airasia.com,airasia,No logo candidate detected,0,none,False
+airport.kr,airport,No logo candidate detected,0,none,False
+all.accor.com,accor,No logo candidate detected,0,none,False
+almosafer.com,almosafer,No logo candidate detected,0,none,False
+wego.com,wego,No logo candidate detected,0,none,False
+volaris.com,volaris,No logo candidate detected,0,none,False
+sj.se,sj,No logo candidate detected,0,none,False
+cleartrip.com,cleartrip,No logo candidate detected,0,none,False
+universalstudioshollywood.com,universalstudioshollywood,No logo candidate detected,0,none,False
+universalorlando.com,universalorlando,No logo candidate detected,0,none,False
+oyorooms.com,oyorooms,No logo candidate detected,0,none,False
+frankfurt-airport.com,frankfurt-airport,No logo candidate detected,0,none,False
+tfl.gov.uk,tfl,No logo candidate detected,0,none,False
+finnair.com,finnair,No logo candidate detected,0,none,False
+pegasusairlines.com,pegasusairlines,No logo candidate detected,0,none,False
+edreams.com,edreams,No logo candidate detected,0,none,False
+melbourneairport.com.au,melbourneairport,"Not analysable (empty_mask, load_failed)",6,success,False
+schiphol.nl,schiphol,Not analysable (load_failed),6,success,False
+pobeda.aero,pobeda,Not analysable (load_failed),4,success,False
+wyndhamhotels.com,wyndhamhotels,Not analysable (load_failed),6,success,False
+portaventuraworld.com,portaventuraworld,Not analysable (load_failed),6,success,False
+wsdot.wa.gov,wa,Not analysable (load_failed),2,success,False
+wmata.com,wmata,Not analysable (load_failed),1,success,False
+stenaline.com,stenaline,Not analysable (load_failed),6,success,False
+sunwing.ca,sunwing,Not analysable (load_failed),1,success,False
+recreation.gov,recreation,Not analysable (load_failed),6,success,False
+regiojet.com,regiojet,Not analysable (load_failed),6,success,False
+rentalcars.com,rentalcars,Not analysable (load_failed),6,success,False
+vr.fi,vr,Not analysable (load_failed),6,success,False
+sydneyairport.com.au,sydneyairport,Not analysable (load_failed),2,success,False
+vikingline.com,vikingline,Not analysable (load_failed),6,success,False
+viennaairport.com,viennaairport,Not analysable (load_failed),6,success,False
+tapairportugal.com,tapairportugal,Not analysable (load_failed),3,success,False
+thrifty.com,thrifty,Not analysable (load_failed),6,success,False
+roadsurfer.com,roadsurfer,Not analysable (load_failed),2,success,False
+rome2rio.com,rome2rio,Not analysable (load_failed),1,success,False
+rvshare.com,rvshare,Not analysable (load_failed),4,invalid_url,False
+sas.dk,sas,Not analysable (load_failed),6,success,False
+translink.ca,translink,Not analysable (load_failed),4,success,False
+tutu.ru,tutu,Not analysable (load_failed),1,success,False
+sixt.com,sixt,Not analysable (load_failed),6,success,False
+iryo.eu,iryo,Not analysable (load_failed),1,success,False
+outdooractive.com,outdooractive,Not analysable (load_failed),1,success,False
+disneylandparis.com,disneylandparis,Not analysable (load_failed),5,success,False
+discovercars.com,discovercars,Not analysable (load_failed),4,success,False
+directferries.com,directferries,Not analysable (load_failed),6,success,False
+dfds.com,dfds,Not analysable (load_failed),6,success,False
+destinia.com,destinia,Not analysable (load_failed),6,success,False
+cvc.com.br,cvc,Not analysable (load_failed),6,success,False
+cruiseamerica.com,cruiseamerica,Not analysable (load_failed),2,success,False
+colorline.com,colorline,Not analysable (load_failed),3,success,False
+clickbus.com.br,clickbus,Not analysable (load_failed),6,success,False
+check24.de,check24,Not analysable (load_failed),2,success,False
+cd.cz,cd,Not analysable (load_failed),2,success,False
+buquebus.com,buquebus,Not analysable (load_failed),5,success,False
+dohahamadairport.com,dohahamadairport,Not analysable (load_failed),1,success,False
+brittany-ferries.co.uk,brittany-ferries,Not analysable (load_failed),1,success,False
+bergfex.com,bergfex,Not analysable (load_failed),1,success,False
+aviasales.ru,aviasales,Not analysable (load_failed),6,success,False
+avantiwestcoast.co.uk,avantiwestcoast,Not analysable (load_failed),6,success,False
+aspensnowmass.com,aspensnowmass,Not analysable (load_failed),6,success,False
+amtrak.com,amtrak,Not analysable (load_failed),4,success,False
+alsa.es,alsa,Not analysable (load_failed),1,success,False
+alltrails.com,alltrails,Not analysable (load_failed),6,success,False
+alaskaair.com,alaskaair,Not analysable (load_failed),1,success,False
+admtl.com,admtl,Not analysable (load_failed),2,success,False
+accor.com,accor,Not analysable (load_failed),6,success,False
+abhibus.com,abhibus,Not analysable (load_failed),6,success,False
+2gis.ru,2gis,Not analysable (load_failed),5,success,False
+blablacar.com,blablacar,Not analysable (load_failed),1,success,False
+outdoorsy.com,outdoorsy,Not analysable (load_failed),3,success,False
+dsb.dk,dsb,Not analysable (load_failed),6,success,False
+europcar.com,europcar,Not analysable (load_failed),6,success,False
+ouigo.com,ouigo,Not analysable (load_failed),6,success,False
+ostrovok.ru,ostrovok,Not analysable (load_failed),6,success,False
+onthesnow.com,onthesnow,Not analysable (load_failed),6,success,False
+onetwotrip.com,onetwotrip,Not analysable (load_failed),4,success,False
+oebb.at,oebb,Not analysable (load_failed),2,success,False
+ns.nl,ns,Not analysable (load_failed),1,success,False
+ncl.com,ncl,Not analysable (load_failed),1,success,False
+nationalcar.com,nationalcar,Not analysable (load_failed),2,success,False
+moovitapp.com,moovitapp,Not analysable (load_failed),1,success,False
+momondo.com,momondo,Not analysable (load_failed),6,success,False
+legoland.com,legoland,Not analysable (load_failed),1,success,False
+latamairlines.com,latamairlines,Not analysable (load_failed),1,success,False
+europapark.de,europapark,Not analysable (load_failed),6,success,False
+lastminute.com,lastminute,Not analysable (load_failed),6,success,False
+jfkairport.com,jfkairport,Not analysable (load_failed),2,success,False
+jetblue.com,jetblue,Not analysable (load_failed),6,success,False
+indiecampers.com,indiecampers,Not analysable (load_failed),6,success,False
+idealo.de,idealo,Not analysable (load_failed),1,success,False
+iberia.com,iberia,Not analysable (load_failed),2,success,False
+hurtigruten.com,hurtigruten,Not analysable (load_failed),4,success,False
+hollandamerica.com,hollandamerica,Not analysable (load_failed),2,success,False
+greateranglia.co.uk,greateranglia,Not analysable (load_failed),1,success,False
+gotransit.com,gotransit,Not analysable (load_failed),6,success,False
+going.com,going,Not analysable (load_failed),1,success,False
+finavia.fi,finavia,Not analysable (load_failed),4,success,False
+eurostar.com,eurostar,Not analysable (load_failed),4,success,False
+komoot.com,komoot,Not analysable (load_failed),6,success,False
+zurich-airport.com,zurich-airport,Not analysable (load_failed),4,success,False

@@ -1,0 +1,2 @@
+metric,valid_sites,missing_sites,sites_with_value,adoption_percentage,mean,median,std,min,p25,p50,p75,p90,max
+search_input_count,907,0,569,62.73428886438809,1.454244762954796,1.0,1.655431610307309,0.0,0.0,1.0,2.0,4.0,10.0

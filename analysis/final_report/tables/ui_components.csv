@@ -1,0 +1,10 @@
+﻿Component,Detection basis,Sites detected (n),Sites detected (%),Base (n)
+Cards,card_candidate_count > 0,559,61.63,907
+Buttons,button_count > 0,844,93.05,907
+Navigation links,at least one parsed nav link,664,73.21,907
+Search (any signal),scraper flag OR parsed search input,569,62.73,907
+Search (scraper flag only),search_present reported true,569,62.73,907
+Search (parsed input detected),at least one parsed search input,569,62.73,907
+Header detected,header_position not 'not_found',727,80.15,907
+Hero container detected,hero object present,705,77.73,907
+Hero container with 'hero' class keyword,class name contains 'hero',111,12.24,907

@@ -1,0 +1,909 @@
+domain,header_position,viewport,image_count,large_image_count,video_count,svg_count,sticky_elements,grid_elements,flex_elements,visual_signal_count,body_text_length_num,content_quality,header_detected,hero_container_detected,hero_keyword_detected,responsive_viewport
+agoda.com,static,"width=device-width, initial-scale=1.0",26.0,0.0,5.0,16.0,0.0,0.0,119.0,8,1847.0,valid_candidate,True,True,False,True
+airbnb.com,static,"width=device-width, initial-scale=1, viewport-fit=cover",0.0,0.0,7.0,29.0,2.0,7.0,125.0,6,3589.0,valid_candidate,True,True,False,True
+ryanair.com,static,"width=device-width,initial-scale=1",26.0,2.0,1.0,30.0,3.0,3.0,115.0,7,2971.0,valid_candidate,True,True,False,True
+flightradar24.com,static,"shrink-to-fit=no,initial-scale=1,width=device-width,user-scalable=yes,maximum-scale=5.0",16.0,0.0,6.0,53.0,1.0,0.0,99.0,8,698.0,valid_candidate,True,True,False,True
+flightaware.com,sticky,"width=device-width, initial-scale=1, maximum-scale=1",20.0,13.0,1.0,20.0,1.0,11.0,49.0,7,1477.0,valid_candidate,True,True,False,True
+skyscanner.com,static,"width=device-width, initial-scale=1, viewport-fit=cover",5.0,0.0,2.0,78.0,0.0,3.0,93.0,8,1855.0,valid_candidate,True,True,False,True
+bahn.de,relative,"width=device-width, initial-scale=1.0",19.0,12.0,0.0,0.0,0.0,3.0,81.0,8,2671.0,valid_candidate,True,True,False,True
+traveloka.com,not_found,width=device-width,99.0,15.0,1.0,76.0,2.0,1.0,1004.0,6,6644.0,valid_candidate,False,False,False,True
+kayak.com,relative,"width=device-width, initial-scale=1, minimum-scale=1",7.0,0.0,9.0,77.0,1.0,2.0,201.0,8,2511.0,valid_candidate,True,True,False,True
+thetrainline.com,relative,"width=device-width, initial-scale=1",17.0,1.0,3.0,48.0,3.0,2.0,73.0,8,3750.0,valid_candidate,True,True,False,True
+priceline.com,sticky,"width=device-width, initial-scale=1",26.0,1.0,2.0,7.0,3.0,5.0,73.0,8,1547.0,valid_candidate,True,False,False,True
+qantas.com,static,"width=device-width, initial-scale=1",10.0,0.0,0.0,0.0,0.0,0.0,0.0,2,5368.0,valid_candidate,True,True,False,True
+ana.co.jp,relative,"width=device-width,user-scalable=yes",150.0,11.0,2.0,0.0,0.0,1.0,120.0,7,2382.0,valid_candidate,True,True,True,True
+jetblue.com,sticky,"width=device-width, initial-scale=1",18.0,7.0,0.0,43.0,4.0,3.0,181.0,8,2531.0,valid_candidate,True,True,False,True
+gol.com.br,not_found,"width=device-width, initial-scale=1",1.0,1.0,1.0,0.0,0.0,0.0,4.0,5,555.0,valid_candidate,False,True,False,True
+azul.com.br,static,"width=device-width, user-scalable=no, shrink-to-fit=no",8.0,0.0,2.0,28.0,1.0,0.0,171.0,8,868.0,valid_candidate,True,False,False,True
+tapairportugal.com,fixed,"width=device-width, initial-scale=1.0",12.0,7.0,1.0,32.0,2.0,2.0,86.0,8,3898.0,valid_candidate,True,True,False,True
+finnair.com,not_found,"width=device-width, initial-scale=1",1.0,1.0,0.0,5.0,0.0,1.0,118.0,7,864.0,valid_candidate,False,True,False,True
+elal.com,relative,"width=device-width, initial-scale=1",25.0,8.0,5.0,0.0,1.0,1.0,120.0,7,1558.0,valid_candidate,True,True,True,True
+vietnamairlines.com,not_found,"width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",150.0,0.0,4.0,39.0,3.0,3.0,154.0,7,3130.0,valid_candidate,False,True,False,True
+malaysiaairlines.com,not_found,"width=device-width, initial-scale=1",28.0,6.0,1.0,154.0,4.0,0.0,115.0,7,1915.0,valid_candidate,False,True,False,True
+philippineairlines.com,absolute,"width=device-width, initial-scale=1",23.0,3.0,2.0,30.0,0.0,8.0,93.0,8,1945.0,valid_candidate,True,False,False,True
+airasia.com,not_found,"width=device-width, initial-scale=1",22.0,3.0,0.0,13.0,4.0,0.0,629.0,5,2193.0,valid_candidate,False,False,False,True
+spicejet.com,not_found,"width=device-width,initial-scale=1,user-scalable=0",31.0,5.0,1.0,46.0,6.0,1.0,484.0,6,6113.0,valid_candidate,False,False,False,True
+akasaair.com,fixed,"width=device-width, initial-scale=1, maximum-scale=5",65.0,14.0,0.0,14.0,1.0,4.0,207.0,8,4792.0,valid_candidate,True,True,False,True
+omanair.com,static,"width=device-width, initial-scale=1",80.0,4.0,2.0,6.0,2.0,1.0,86.0,8,2127.0,valid_candidate,True,True,False,True
+royalairmaroc.com,not_found,"initial-scale=1.0, width=device-width",73.0,8.0,1.0,3.0,3.0,0.0,202.0,8,2635.0,valid_candidate,False,True,True,True
+kenya-airways.com,sticky,"width=device-width,initial-scale=1.0",37.0,10.0,1.0,3.0,4.0,1.0,143.0,8,3805.0,valid_candidate,True,True,False,True
+flysaa.com,relative,"initial-scale=1.0, width=device-width",41.0,11.0,0.0,0.0,0.0,1.0,112.0,8,1602.0,valid_candidate,True,True,True,True
+wyndhamhotels.com,fixed,"width=device-width,initial-scale=1.0,maximum-scale=2.0,user-scalable=yes",66.0,50.0,6.0,70.0,1.0,0.0,371.0,8,21065.0,valid_candidate,True,True,True,True
+accor.com,relative,"width=device-width, initial-scale=1",62.0,10.0,0.0,127.0,5.0,36.0,171.0,8,3985.0,valid_candidate,True,True,False,True
+bestwestern.com,static,"width=device-width, initial-scale=1",92.0,42.0,2.0,114.0,1.0,23.0,592.0,8,8127.0,valid_candidate,True,True,True,True
+mandarinoriental.com,fixed,"width=device-width, initial-scale=1",105.0,4.0,2.0,5.0,3.0,0.0,59.0,8,2287.0,valid_candidate,True,True,False,True
+ritzcarlton.com,not_found,"width=device-width, initial-scale=1",47.0,17.0,4.0,5.0,0.0,0.0,61.0,7,4016.0,valid_candidate,False,True,True,True
+riu.com,not_found,"width=device-width, initial-scale=1",28.0,23.0,6.0,0.0,1.0,0.0,308.0,7,3907.0,valid_candidate,False,True,False,True
+citizenm.com,relative,"width=device-width, initial-scale=1.0",37.0,22.0,1.0,39.0,0.0,12.0,270.0,8,5408.0,valid_candidate,True,True,False,True
+slh.com,absolute,"width=device-width, initial-scale=1",56.0,27.0,2.0,11.0,4.0,2.0,216.0,8,4039.0,valid_candidate,True,True,False,True
+carnival.com,relative,width=1200,29.0,3.0,3.0,20.0,1.0,5.0,254.0,7,5426.0,valid_candidate,True,True,True,False
+ncl.com,static,"width=device-width, initial-scale=1",45.0,15.0,1.0,5.0,2.0,0.0,133.0,7,3795.0,valid_candidate,True,True,False,True
+princess.com,static,"width=device-width, initial-scale=1.0",72.0,18.0,2.0,161.0,0.0,3.0,205.0,8,4774.0,valid_candidate,True,True,False,True
+hollandamerica.com,relative,"width=device-width, initial-scale=1",42.0,7.0,7.0,5.0,1.0,0.0,148.0,8,3477.0,valid_candidate,True,True,False,True
+azamara.com,not_found,"width=device-width, initial-scale=1",27.0,1.0,4.0,83.0,2.0,1.0,77.0,8,3083.0,valid_candidate,False,True,False,True
+silversea.com,relative,"width=device-width, initial-scale=1, shrink-to-fit=no",81.0,29.0,1.0,59.0,0.0,3.0,274.0,8,5242.0,valid_candidate,True,True,False,True
+seabourn.com,relative,"width=device-width, initial-scale=1",49.0,16.0,7.0,5.0,1.0,0.0,173.0,8,3373.0,valid_candidate,True,True,False,True
+enterprise.com,static,"width=device-width, initial-scale=1, minimum-scale=1",45.0,20.0,4.0,171.0,2.0,0.0,89.0,8,4747.0,valid_candidate,True,False,False,True
+avis.com,relative,"width=device-width, initial-scale=1",25.0,10.0,5.0,34.0,2.0,11.0,127.0,8,3520.0,valid_candidate,True,True,False,True
+budget.com,not_found,"width=device-width, initial-scale=1.0",10.0,2.0,8.0,28.0,7.0,0.0,4.0,7,4032.0,valid_candidate,False,True,False,True
+alamo.com,relative,"width=device-width, viewport-fit=cover, initial-scale=1.0",12.0,3.0,3.0,4.0,2.0,0.0,49.0,8,2793.0,valid_candidate,True,False,False,True
+nationalcar.com,static,"width=device-width, initial-scale=1",17.0,4.0,3.0,6.0,6.0,0.0,33.0,8,3750.0,valid_candidate,True,True,False,True
+sixt.com,relative,"width=device-width, initial-scale=1, shrink-to-fit=no",16.0,13.0,1.0,55.0,0.0,3.0,169.0,6,3601.0,valid_candidate,True,False,False,True
+thrifty.com,static,"width=device-width, initial-scale=1",43.0,19.0,3.0,2.0,0.0,100.0,89.0,7,3733.0,valid_candidate,True,True,False,True
+europcar.com,absolute,"width=device-width, initial-scale=1",23.0,0.0,1.0,20.0,1.0,7.0,120.0,8,4637.0,valid_candidate,True,True,False,True
+rentalcars.com,static,"width=device-width, initial-scale=1",20.0,0.0,5.0,30.0,1.0,0.0,72.0,7,2661.0,valid_candidate,True,True,False,True
+discovercars.com,relative,"width=device-width, initial-scale=1",150.0,5.0,0.0,713.0,0.0,8.0,1042.0,7,25497.0,valid_candidate,True,True,False,True
+amtrak.com,static,"width=device-width, initial-scale=1.0",51.0,9.0,5.0,8.0,7.0,0.0,101.0,8,3303.0,valid_candidate,True,True,False,True
+eurostar.com,static,width=device-width,36.0,14.0,3.0,5.0,2.0,2.0,167.0,6,6316.0,valid_candidate,True,True,False,True
+trenitalia.com,relative,"width=device-width, initial-scale=1",135.0,8.0,2.0,4.0,2.0,0.0,116.0,8,6447.0,valid_candidate,True,True,False,True
+renfe.com,not_found,"width=device-width, initial-scale=1",0.0,0.0,2.0,3.0,1.0,4.0,23.0,5,2221.0,valid_candidate,False,True,True,True
+waze.com,fixed,"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5",31.0,12.0,1.0,57.0,2.0,2.0,101.0,8,1830.0,valid_candidate,True,True,False,True
+flixbus.com,static,"width=device-width,minimum-scale=1",80.0,4.0,1.0,7.0,0.0,7.0,102.0,8,5147.0,valid_candidate,True,True,False,True
+greyhound.com,static,"width=device-width,minimum-scale=1",32.0,4.0,0.0,7.0,0.0,7.0,99.0,8,4713.0,valid_candidate,True,True,False,True
+nationalrail.co.uk,static,"width=device-width, initial-scale=1",16.0,10.0,9.0,23.0,3.0,3.0,116.0,8,4681.0,valid_candidate,True,True,False,True
+railyatri.in,sticky,"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",48.0,1.0,7.0,1.0,3.0,0.0,95.0,7,4649.0,valid_candidate,True,True,False,True
+confirmtkt.com,sticky,"width=device-width, initial-scale=1, viewport-fit=cover",54.0,2.0,0.0,23.0,1.0,5.0,58.0,7,14327.0,valid_candidate,True,True,True,True
+12go.asia,absolute,"width=device-width, initial-scale=1",16.0,4.0,0.0,14.0,0.0,1.0,52.0,7,13809.0,valid_candidate,True,False,False,True
+kiwitaxi.com,static,"width=device-width, initial-scale=1.0",54.0,4.0,1.0,12.0,1.0,0.0,478.0,8,13321.0,valid_candidate,True,True,False,True
+suntransfers.com,static,"width=device-width, initial-scale=1",34.0,9.0,2.0,65.0,1.0,7.0,225.0,8,7055.0,valid_candidate,True,True,False,True
+hostelworld.com,static,"width=device-width, initial-scale=1",94.0,5.0,0.0,96.0,1.0,24.0,346.0,8,5863.0,valid_candidate,True,True,False,True
+couchsurfing.com,not_found,"width=device-width, initial-scale=1",36.0,2.0,1.0,78.0,4.0,6.0,238.0,7,4016.0,valid_candidate,False,True,False,True
+homestay.com,static,"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",7.0,0.0,3.0,0.0,2.0,0.0,0.0,8,2452.0,valid_candidate,True,True,True,True
+misterbandb.com,relative,"width=device-width, initial-scale=1",62.0,6.0,1.0,10.0,3.0,0.0,260.0,8,13550.0,valid_candidate,True,True,False,True
+headout.com,sticky,width=device-width,150.0,6.0,0.0,115.0,1.0,11.0,938.0,7,8435.0,valid_candidate,True,True,False,True
+civitatis.com,relative,"width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=5.0,user-scalable=yes",19.0,17.0,1.0,4.0,2.0,0.0,105.0,7,4882.0,valid_candidate,True,True,False,True
+tiqets.com,relative,"width=device-width, initial-scale=1, shrink-to-fit=no",54.0,26.0,0.0,69.0,1.0,7.0,184.0,7,7078.0,valid_candidate,True,True,False,True
+musement.com,fixed,"width=device-width, initial-scale=1",137.0,61.0,0.0,300.0,2.0,0.0,833.0,7,21894.0,valid_candidate,True,True,False,True
+tourradar.com,relative,"width=device-width,initial-scale=1,maximum-scale=5",146.0,5.0,0.0,240.0,1.0,14.0,487.0,6,10268.0,valid_candidate,True,True,False,True
+intrepidtravel.com,static,"width=device-width, initial-scale=1",61.0,31.0,3.0,155.0,1.0,9.0,282.0,8,6226.0,valid_candidate,True,True,False,True
+gadventures.com,absolute,"width=device-width, initial-scale=1, maximum-scale=1",37.0,18.0,5.0,72.0,5.0,51.0,141.0,8,4490.0,valid_candidate,True,True,False,True
+exoticca.com,absolute,"initial-scale=1.0, width=device-width",150.0,125.0,7.0,214.0,0.0,99.0,1133.0,7,17847.0,valid_candidate,True,True,False,True
+secretescapes.com,static,"width=device-width, initial-scale=1",30.0,29.0,2.0,3.0,3.0,0.0,10.0,6,6513.0,valid_candidate,True,True,True,True
+hopper.com,not_found,"width=device-width, initial-scale=1",4.0,2.0,2.0,79.0,1.0,1.0,89.0,6,1099.0,valid_candidate,False,False,False,True
+skift.com,sticky,"width=device-width, initial-scale=1",44.0,10.0,7.0,24.0,2.0,11.0,136.0,8,11173.0,valid_candidate,True,True,False,True
+lonelyplanet.com,relative,"width=device-width,initial-scale=1",122.0,54.0,5.0,537.0,0.0,5.0,239.0,8,6647.0,valid_candidate,True,True,False,True
+roughguides.com,absolute,"width=device-width, initial-scale=1, user-scalable=0",58.0,11.0,0.0,95.0,0.0,1.0,138.0,8,8062.0,valid_candidate,True,True,True,True
+frommers.com,relative,"width=device-width, initial-scale=1, shrink-to-fit=no",73.0,11.0,8.0,58.0,0.0,9.0,66.0,8,5504.0,valid_candidate,True,True,False,True
+atlasobscura.com,static,"width=device-width, initial-scale=1.0",102.0,13.0,6.0,79.0,1.0,11.0,159.0,8,4200.0,valid_candidate,True,True,False,True
+timeout.com,relative,"width=device-width, initial-scale=1, minimum-scale=1",82.0,70.0,6.0,33.0,4.0,28.0,238.0,8,14003.0,valid_candidate,True,True,False,True
+travelandleisure.com,fixed,"width=device-width, initial-scale=1.0",17.0,5.0,10.0,140.0,4.0,44.0,201.0,8,17358.0,valid_candidate,True,True,False,True
+cntraveler.com,fixed,"width=device-width, initial-scale=1",60.0,14.0,4.0,77.0,1.0,208.0,252.0,7,9471.0,valid_candidate,True,True,True,True
+nationalgeographic.com,relative,"width=device-width, initial-scale=1.0, maximum-scale=2.0",53.0,1.0,1.0,62.0,1.0,3.0,191.0,8,9541.0,valid_candidate,True,True,True,True
+roadtrippers.com,fixed,"width=device-width, initial-scale=1",79.0,11.0,5.0,46.0,3.0,0.0,94.0,8,2210.0,valid_candidate,True,True,False,True
+ioverlander.com,static,"width=device-width, initial-scale=1.0",14.0,4.0,1.0,8.0,0.0,0.0,22.0,8,1762.0,valid_candidate,True,True,False,True
+park4night.com,absolute,"width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no, user-scalable=no",138.0,12.0,2.0,4.0,0.0,0.0,141.0,8,12382.0,valid_candidate,True,True,True,True
+campercontact.com,not_found,"width=device-width, initial-scale=1",150.0,0.0,3.0,40.0,3.0,8.0,186.0,8,3842.0,valid_candidate,False,False,False,True
+flightstats.com,static,"width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no",16.0,2.0,6.0,6.0,3.0,0.0,20.0,7,1590.0,valid_candidate,True,True,False,True
+expertflyer.com,not_found,"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",23.0,8.0,1.0,36.0,1.0,1.0,223.0,8,12172.0,valid_candidate,False,True,False,True
+sleepinginairports.net,sticky,"width=device-width,initial-scale=1.0",11.0,5.0,4.0,55.0,2.0,4.0,48.0,8,2554.0,valid_candidate,True,False,False,True
+prioritypass.com,fixed,"width=device-width, initial-scale=1",16.0,10.0,1.0,42.0,3.0,6.0,134.0,8,2924.0,valid_candidate,True,True,False,True
+cdc.gov,static,"width=device-width, initial-scale=1, shrink-to-fit=no",22.0,5.0,1.0,0.0,1.0,0.0,49.0,8,1005.0,valid_candidate,True,True,False,True
+weather.com,sticky,"width=device-width, initial-scale=1, viewport-fit=cover",13.0,2.0,0.0,32.0,2.0,8.0,215.0,8,1843.0,valid_candidate,True,True,False,True
+tui.com,not_found,"width=device-width,initial-scale=1",42.0,8.0,0.0,1.0,2.0,1.0,138.0,6,8482.0,valid_candidate,False,True,False,True
+jet2holidays.com,not_found,"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0",28.0,2.0,2.0,249.0,3.0,2.0,141.0,8,8479.0,valid_candidate,False,True,True,True
+sunwing.ca,relative,"width=device-width, initial-scale=1, shrink-to-fit=no",51.0,10.0,4.0,1.0,1.0,5.0,101.0,7,4182.0,valid_candidate,True,True,False,True
+westjet.com,relative,"width=device-width, initial-scale=1",12.0,3.0,0.0,6.0,0.0,2.0,123.0,8,3873.0,valid_candidate,True,True,True,True
+utair.ru,static,"width=device-width,initial-scale=1",0.0,0.0,0.0,19.0,1.0,1.0,13.0,7,1261.0,valid_candidate,True,False,False,True
+pobeda.aero,sticky,"width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover, interactive-widget=resizes-content",23.0,12.0,0.0,34.0,3.0,1.0,126.0,6,2050.0,valid_candidate,True,True,False,True
+airbaltic.com,sticky,"width=device-width, initial-scale=1, viewport-fit=cover",49.0,29.0,5.0,55.0,4.0,14.0,175.0,7,7315.0,valid_candidate,True,True,False,True
+luxair.lu,not_found,"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",55.0,25.0,1.0,165.0,1.0,7.0,155.0,8,6891.0,valid_candidate,False,True,False,True
+nouvelair.com,static,width=device-width,29.0,2.0,3.0,117.0,8.0,0.0,275.0,7,2643.0,valid_candidate,True,False,False,True
+tunisair.com,not_found,"width=device-width, initial-scale=1, shrink-to-fit=no",114.0,14.0,1.0,1.0,6.0,0.0,296.0,8,11235.0,valid_candidate,False,True,False,True
+flynas.com,static,"width=device-width, height=device-height, initial-scale=1.0",150.0,15.0,9.0,1.0,4.0,1.0,110.0,8,5844.0,valid_candidate,True,True,False,True
+srilankan.com,not_found,width=device-width; initial-scale=1.0,44.0,0.0,0.0,0.0,2.0,0.0,0.0,6,722.0,valid_candidate,False,False,False,True
+airmauritius.com,fixed,"width=device-width, initial-scale=1, maximum-scale=1",114.0,22.0,2.0,3.0,4.0,0.0,67.0,7,2205.0,valid_candidate,True,True,False,True
+airmadagascar.com,not_found,"width=device-width, initial-scale=1",14.0,6.0,0.0,115.0,2.0,0.0,131.0,7,3376.0,valid_candidate,False,False,False,True
+taag.com,fixed,"width=device-width, initial-scale=1, maximum-scale=1",62.0,16.0,0.0,0.0,3.0,1.0,200.0,8,2479.0,valid_candidate,True,True,True,True
+rwandair.com,static,"width=device-width, initial-scale=1, shrink-to-fit=no",42.0,3.0,0.0,10.0,5.0,17.0,95.0,8,3761.0,valid_candidate,True,True,False,True
+ugandairlines.com,static,"width=device-width, initial-scale=1",33.0,21.0,1.0,13.0,4.0,0.0,227.0,8,4376.0,valid_candidate,True,False,False,True
+hkexpress.com,not_found,width=device-width,104.0,40.0,1.0,108.0,1.0,5.0,385.0,7,6310.0,valid_candidate,False,True,False,True
+greaterbay-airlines.com,sticky,"width=device-width, initial-scale=1",103.0,18.0,2.0,2.0,4.0,0.0,80.0,8,3097.0,valid_candidate,True,True,False,True
+nokair.com,not_found,"width=device-width, initial-scale=1.0",39.0,2.0,2.0,0.0,1.0,0.0,3.0,7,2816.0,valid_candidate,False,True,True,True
+laoairlines.com,not_found,"width=device-width, initial-scale=1.0",20.0,7.0,0.0,1.0,6.0,0.0,10.0,7,2715.0,valid_candidate,False,False,False,True
+jalan.net,static,width=device-width,76.0,1.0,4.0,0.0,0.0,0.0,6.0,8,2042.0,valid_candidate,True,False,False,True
+indianrail.gov.in,not_found,"width=device-width, initial-scale=1",8.0,0.0,9.0,0.0,1.0,0.0,1.0,7,889.0,valid_candidate,False,False,False,True
+travel.rakuten.co.jp,static,,130.0,35.0,1.0,21.0,1.0,1.0,375.0,8,5366.0,valid_candidate,True,True,False,False
+jr-central.co.jp,static,width=device-width,11.0,7.0,0.0,0.0,0.0,0.0,0.0,6,1944.0,valid_candidate,True,True,False,True
+partiful.com,not_found,width=device-width,47.0,22.0,0.0,34.0,2.0,2.0,464.0,5,4057.0,valid_candidate,False,True,False,True
+ekispert.jp,fixed,width=device-width,30.0,6.0,5.0,0.0,2.0,0.0,9.0,8,1804.0,valid_candidate,True,True,False,True
+yahoo.co.jp,relative,width=1010,1.0,0.0,0.0,0.0,0.0,0.0,64.0,7,793.0,valid_candidate,True,True,False,False
+jtb.co.jp,relative,width=1140,56.0,1.0,1.0,3.0,0.0,0.0,139.0,8,6229.0,valid_candidate,True,True,False,False
+hankyu-travel.com,relative,"width=device-width,initial-scale=1",69.0,5.0,1.0,1.0,10.0,0.0,296.0,8,6179.0,valid_candidate,True,True,False,True
+rurubu.travel,static,"width=device-width, initial-scale=1.0",7.0,0.0,0.0,5.0,0.0,0.0,59.0,8,1080.0,valid_candidate,True,True,False,True
+ikyu.co.jp,fixed,"width=device-width, initial-scale=1.0",10.0,6.0,0.0,0.0,1.0,0.0,249.0,7,1420.0,valid_candidate,True,True,False,True
+srt.co.kr,fixed,"width=device-width,initial-scale=1",33.0,3.0,5.0,23.0,1.0,1.0,32.0,7,517.0,valid_candidate,True,True,False,True
+interpark.com,not_found,"width=device-width, initial-scale=1, maximum-scale=1",0.0,0.0,0.0,4.0,0.0,0.0,11.0,6,1487.0,valid_candidate,False,False,False,True
+yanolja.com,static,"width=device-width, initial-scale=1, viewport-fit=cover",150.0,21.0,12.0,89.0,1.0,21.0,520.0,8,5201.0,valid_candidate,True,True,False,True
+hanatour.com,static,"width=1100, initial-scale=1",84.0,4.0,1.0,0.0,2.0,0.0,54.0,8,4606.0,valid_candidate,True,True,False,False
+waug.com,fixed,"width=device-width, initial-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover",150.0,19.0,0.0,508.0,1.0,61.0,1712.0,7,19279.0,valid_candidate,True,False,False,True
+ctrip.com,not_found,"width=device-width, initial-scale=1.0",42.0,2.0,0.0,13.0,1.0,0.0,167.0,6,2850.0,valid_candidate,False,False,False,True
+ly.com,not_found,,77.0,1.0,0.0,0.0,0.0,7.0,163.0,7,2841.0,valid_candidate,False,True,True,False
+elong.com,relative,"width=500, initial-scale=1",80.0,3.0,2.0,27.0,2.0,0.0,151.0,7,1957.0,valid_candidate,True,False,False,False
+huazhu.com,not_found,"width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",127.0,46.0,4.0,0.0,4.0,0.0,37.0,7,1314.0,valid_candidate,False,False,False,True
+easemytrip.com,not_found,"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",94.0,1.0,4.0,30.0,1.0,1.0,329.0,7,7903.0,valid_candidate,False,False,False,True
+cleartrip.com,not_found,width=device-width,31.0,2.0,2.0,28.0,3.0,0.0,161.0,6,17206.0,valid_candidate,False,True,False,True
+ixigo.com,not_found,"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",40.0,0.0,0.0,35.0,1.0,0.0,273.0,7,9417.0,valid_candidate,False,True,False,True
+paytm.com,sticky,"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",64.0,6.0,1.0,0.0,1.0,0.0,108.0,7,10445.0,valid_candidate,True,False,False,True
+abhibus.com,sticky,"width=device-width, initial-scale=1, maximum-scale=3, user-scalable=yes, interactive-widget=resizes-content",150.0,6.0,0.0,143.0,1.0,0.0,584.0,7,15321.0,valid_candidate,True,True,True,True
+etrain.info,not_found,"width=device-width, initial-scale=1.0",4.0,1.0,0.0,0.0,1.0,0.0,95.0,6,3808.0,valid_candidate,False,False,False,True
+oyorooms.com,not_found,"width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0",63.0,21.0,10.0,81.0,0.0,2.0,472.0,6,4882.0,valid_candidate,False,False,False,True
+treebo.com,static,"width=device-width, initial-scale=1",57.0,11.0,0.0,5.0,2.0,0.0,132.0,8,7570.0,valid_candidate,True,True,False,True
+fabhotels.com,not_found,"width=device-width, initial-scale=1",54.0,0.0,0.0,44.0,0.0,1.0,167.0,7,5399.0,valid_candidate,False,False,False,True
+lemontreehotels.com,not_found,"width=device-width, initial-scale=1.0",134.0,91.0,2.0,8.0,1.0,1.0,59.0,7,10774.0,valid_candidate,False,False,False,True
+oberoihotels.com,fixed,"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover ",87.0,54.0,8.0,11.0,5.0,0.0,99.0,7,15266.0,valid_candidate,True,False,False,True
+tiket.com,relative,"width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=0, viewport-fit=cover",112.0,22.0,1.0,102.0,0.0,9.0,383.0,7,7066.0,valid_candidate,True,True,False,True
+nusatrip.com,relative,width=1024,150.0,17.0,0.0,650.0,0.0,148.0,149.0,8,3038.0,valid_candidate,True,True,False,False
+reddoorz.com,static,"width=device-width,initial-scale=1",43.0,1.0,0.0,9.0,0.0,3.0,37.0,6,8471.0,valid_candidate,True,False,False,True
+antavaya.com,not_found,"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",17.0,0.0,0.0,11.0,2.0,0.0,124.0,7,1171.0,valid_candidate,False,False,False,True
+dwidayatour.co.id,static,"width=device-width, initial-scale=1.0",150.0,1.0,0.0,512.0,2.0,0.0,51.0,8,14942.0,valid_candidate,True,False,False,True
+goldenrama.com,sticky,"width=device-width, initial-scale=1",85.0,14.0,1.0,32.0,2.0,4.0,166.0,8,5367.0,valid_candidate,True,True,False,True
+panorama-tours.com,static,"width=device-width,initial-scale=1",14.0,0.0,0.0,0.0,2.0,1.0,49.0,7,534.0,valid_candidate,True,True,False,True
+mytour.vn,not_found,initial-scale=1.0 width=device-width,6.0,1.0,1.0,20.0,3.0,1.0,72.0,7,1979.0,valid_candidate,False,True,False,True
+dsvn.vn,not_found,"width=device-width, initial-scale=1, user-scalable=0;",19.0,0.0,0.0,1.0,2.0,0.0,0.0,7,920.0,valid_candidate,False,False,False,True
+vietnam.vn,static,"width=device-width, initial-scale=1",150.0,74.0,1.0,80.0,0.0,22.0,870.0,8,18848.0,valid_candidate,True,True,False,True
+baolau.com,absolute,"width=device-width, initial-scale=1.0",29.0,8.0,0.0,0.0,1.0,0.0,0.0,8,4609.0,valid_candidate,True,False,False,True
+busonlineticket.com,static,"width=device-width, user-scalable=no",42.0,3.0,0.0,0.0,0.0,0.0,42.0,8,4238.0,valid_candidate,True,False,False,True
+redbus.my,sticky,"width=device-width,initial-scale=1,maximum-scale=5,minimum-scale=1",45.0,2.0,0.0,0.0,2.0,3.0,184.0,7,5523.0,valid_candidate,True,True,False,True
+bookaway.com,static,"width=device-width, initial-scale=1.0, maximum-scale=5.0",13.0,1.0,0.0,105.0,1.0,4.0,271.0,6,3185.0,valid_candidate,True,True,True,True
+trainline.eu,relative,"width=device-width, initial-scale=1",3.0,1.0,3.0,35.0,0.0,2.0,64.0,8,3766.0,valid_candidate,True,True,False,True
+interrail.eu,static,"width=device-width, initial-scale=1",128.0,8.0,3.0,25.0,4.0,4.0,81.0,8,5813.0,valid_candidate,True,True,False,True
+eurail.com,static,"width=device-width, initial-scale=1",128.0,8.0,3.0,25.0,4.0,4.0,81.0,8,5813.0,valid_candidate,True,True,False,True
+ns.nl,relative,"width=device-width, initial-scale=1",3.0,2.0,0.0,5.0,0.0,12.0,12.0,7,1525.0,valid_candidate,True,True,False,True
+oebb.at,fixed,"width=device-width, initial-scale=1",49.0,0.0,0.0,0.0,1.0,3.0,14.0,8,5290.0,valid_candidate,True,True,False,True
+cd.cz,static,"width=device-width, initial-scale=1.0, maximum-scale=1",68.0,0.0,0.0,0.0,0.0,3.0,137.0,8,3586.0,valid_candidate,True,True,False,True
+mavcsoport.hu,not_found,"width=device-width, initial-scale=1.0",36.0,2.0,0.0,4.0,3.0,0.0,42.0,8,3491.0,valid_candidate,False,True,False,True
+bdz.bg,static,"width=device-width, initial-scale=1, shrink-to-fit=no",14.0,13.0,0.0,38.0,1.0,0.0,36.0,8,1503.0,valid_candidate,True,True,False,True
+vy.no,relative,"width=device-width,initial-scale=1,viewport-fit=cover",38.0,14.0,0.0,113.0,4.0,6.0,158.0,8,2372.0,valid_candidate,True,True,False,True
+vr.fi,static,"width=device-width, initial-scale=1",18.0,16.0,0.0,34.0,2.0,25.0,117.0,8,5555.0,valid_candidate,True,True,False,True
+dsb.dk,fixed,"width=device-width, initial-scale=1",8.0,7.0,1.0,29.0,5.0,10.0,83.0,8,1514.0,valid_candidate,True,True,False,True
+irishrail.ie,relative,"width=device-width, initial-scale=1",7.0,1.0,0.0,17.0,1.0,4.0,62.0,8,1770.0,valid_candidate,True,True,False,True
+scotrail.co.uk,fixed,"width=device-width, initial-scale=1",150.0,0.0,3.0,1.0,3.0,0.0,88.0,7,5004.0,valid_candidate,True,True,False,True
+avantiwestcoast.co.uk,static,"width=device-width, initial-scale=1",134.0,23.0,0.0,101.0,4.0,2.0,190.0,7,2909.0,valid_candidate,True,True,False,True
+southeasternrailway.co.uk,relative,"width=device-width, initial-scale=1.0",116.0,7.0,2.0,79.0,0.0,2.0,132.0,8,2556.0,valid_candidate,True,True,False,True
+wmata.com,sticky,"width=device-width, initial-scale=1",36.0,3.0,2.0,0.0,2.0,0.0,84.0,8,2420.0,valid_candidate,True,True,False,True
+translink.ca,static,"width=device-width, initial-scale=1",33.0,0.0,0.0,0.0,0.0,13.0,80.0,8,4022.0,valid_candidate,True,True,True,True
+ttc.ca,sticky,"width=device-width, initial-scale=1",113.0,3.0,1.0,36.0,2.0,30.0,340.0,8,6315.0,valid_candidate,True,True,False,True
+metrolinx.com,sticky,width=device-width,18.0,18.0,2.0,21.0,1.0,17.0,58.0,8,5927.0,valid_candidate,True,True,False,True
+gotransit.com,sticky,width=device-width,18.0,10.0,4.0,67.0,2.0,14.0,206.0,8,4635.0,valid_candidate,True,True,False,True
+viarail.ca,sticky,width=device-width,6.0,0.0,1.0,8.0,3.0,0.0,26.0,7,1345.0,valid_candidate,True,False,False,True
+alsa.es,not_found,"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",7.0,1.0,1.0,2.0,2.0,0.0,63.0,8,3977.0,valid_candidate,False,False,False,True
+avanzabus.com,fixed,"width=device-width,initial-scale=1,user-scalable=no",32.0,1.0,0.0,8.0,2.0,0.0,26.0,8,29502.0,valid_candidate,True,False,False,True
+monbus.es,not_found,"width=device-width, initial-scale=1",11.0,0.0,0.0,1.0,3.0,0.0,39.0,8,826.0,valid_candidate,False,True,False,True
+movelia.es,static,"width=device-width, initial-scale=1, shrink-to-fit=no",26.0,0.0,1.0,0.0,1.0,0.0,26.0,8,4441.0,valid_candidate,True,True,False,True
+blablacar.com,static,"width=device-width, initial-scale=1.0",0.0,0.0,0.0,125.0,0.0,1.0,333.0,5,1246.0,valid_candidate,True,True,False,True
+ouigo.com,static,"width=device-width, initial-scale=1, maximum-scale=1",0.0,0.0,2.0,5.0,2.0,0.0,18.0,6,921.0,valid_candidate,True,False,False,True
+flixtrain.com,static,"width=device-width,minimum-scale=1",26.0,2.0,1.0,7.0,0.0,8.0,103.0,8,3332.0,valid_candidate,True,True,False,True
+regiojet.com,static,width=device-width,10.0,6.0,2.0,40.0,1.0,10.0,62.0,8,1822.0,valid_candidate,True,True,False,True
+leoexpress.com,relative,"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",13.0,6.0,2.0,28.0,0.0,0.0,69.0,8,1221.0,valid_candidate,True,True,False,True
+polskibus.com,static,"width=device-width,minimum-scale=1",80.0,4.0,0.0,7.0,0.0,7.0,105.0,8,4990.0,valid_candidate,True,True,False,True
+luxexpress.eu,absolute,"initial-scale=1.0, width=device-width, maximum-scale=1, viewport-fit=cover",18.0,11.0,1.0,0.0,0.0,0.0,101.0,8,2980.0,valid_candidate,True,True,False,True
+infobus.eu,static,"width=device-width, initial-scale=1.0",32.0,4.0,3.0,89.0,0.0,9.0,128.0,8,11654.0,valid_candidate,True,False,False,True
+aviasales.ru,static,"width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1",5.0,0.0,0.0,74.0,2.0,23.0,130.0,8,1790.0,valid_candidate,True,False,False,True
+onetwotrip.com,absolute,"width=device-width,initial-scale=1,shrink-to-fit=no",40.0,29.0,0.0,156.0,0.0,4.0,447.0,8,4369.0,valid_candidate,True,False,False,True
+ostrovok.ru,not_found,"width=device-width, initial-scale=1",85.0,8.0,1.0,22.0,1.0,9.0,492.0,7,7547.0,valid_candidate,False,True,False,True
+2gis.ru,absolute,"width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no",6.0,0.0,0.0,67.0,3.0,0.0,93.0,6,1564.0,valid_candidate,True,False,False,True
+edreams.com,relative,,3.0,0.0,2.0,0.0,2.0,0.0,62.0,6,2849.0,valid_candidate,True,False,False,False
+opodo.com,relative,,3.0,0.0,1.0,0.0,1.0,0.0,53.0,6,2440.0,valid_candidate,True,False,False,False
+govoyages.com,relative,,20.0,0.0,1.0,0.0,2.0,2.0,72.0,6,6897.0,valid_candidate,True,False,False,False
+travellink.com,relative,,12.0,0.0,2.0,0.0,2.0,2.0,78.0,6,3176.0,valid_candidate,True,False,False,False
+lastminute.com,relative,"width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes",60.0,11.0,3.0,18.0,1.0,30.0,228.0,8,4364.0,valid_candidate,True,True,False,True
+bravofly.com,relative,"width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes",14.0,1.0,0.0,15.0,1.0,14.0,103.0,8,1712.0,valid_candidate,True,True,False,True
+rumbo.es,relative,"width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes",43.0,13.0,3.0,21.0,1.0,25.0,186.0,8,6415.0,valid_candidate,True,True,False,True
+volagratis.com,relative,"width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes",26.0,4.0,3.0,20.0,1.0,16.0,148.0,8,4135.0,valid_candidate,True,True,False,True
+destinia.com,relative,"width=device-width, initial-scale=1.0, interactive-widget=resizes-content",51.0,1.0,6.0,118.0,0.0,0.0,58.0,8,8993.0,valid_candidate,True,True,False,True
+centraldereservas.com,relative,"width=device-width, initial-scale=1",85.0,8.0,1.0,0.0,4.0,169.0,146.0,7,3489.0,valid_candidate,True,True,False,True
+almundo.com,not_found,"width=device-width, initial-scale=1.0, user-scalable=5",60.0,5.0,0.0,86.0,1.0,12.0,216.0,7,4256.0,valid_candidate,False,False,False,True
+turismocity.com,not_found,"width=device-width, initial-scale=1",39.0,5.0,0.0,0.0,1.0,0.0,234.0,8,4229.0,valid_candidate,False,False,False,True
+avantrip.com,not_found,"width=device-width, initial-scale=1.0, user-scalable=5",8.0,0.0,2.0,31.0,0.0,5.0,44.0,7,2722.0,valid_candidate,False,False,False,True
+priceTravel.com,relative,"width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes",36.0,19.0,0.0,0.0,0.0,3.0,152.0,8,4612.0,valid_candidate,True,True,False,True
+cocha.com,not_found,"width=device-width, initial-scale=1",31.0,15.0,0.0,41.0,0.0,3.0,199.0,7,5766.0,valid_candidate,False,False,False,True
+atrapalo.cl,relative,"width=device-width, initial-scale=1, user-scalable=no",24.0,2.0,2.0,69.0,0.0,2.0,157.0,8,3511.0,valid_candidate,True,False,False,True
+cvc.com.br,static,"width=device-width, initial-scale=1.0",22.0,0.0,4.0,68.0,1.0,5.0,257.0,8,3277.0,valid_candidate,True,True,False,True
+maxmilhas.com.br,not_found,"width=device-width, initial-scale=1.0",51.0,10.0,2.0,41.0,2.0,9.0,156.0,8,3043.0,valid_candidate,False,True,False,True
+123milhas.com,fixed,"width=device-width, height=device-height, initial-scale=1.0",50.0,1.0,0.0,0.0,1.0,15.0,102.0,8,3995.0,valid_candidate,True,True,False,True
+zarpo.com.br,static,"width=device-width, initial-scale=1, shrink-to-fit=no",50.0,21.0,6.0,2.0,0.0,80.0,708.0,8,13413.0,valid_candidate,True,False,False,True
+clickbus.com.br,fixed,"minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no, viewport-fit=cover",46.0,6.0,2.0,26.0,3.0,4.0,183.0,8,5646.0,valid_candidate,True,False,False,True
+buser.com.br,static,"width=device-width, initial-scale=1, viewport-fit=cover",33.0,9.0,2.0,39.0,4.0,8.0,138.0,8,4852.0,valid_candidate,True,True,False,True
+queropassagem.com.br,absolute,"viewport-fit=cover, width=device-width, initial-scale=1.0",150.0,1.0,0.0,3.0,2.0,1.0,405.0,7,8816.0,valid_candidate,True,True,False,True
+ado.com.mx,static,"width=device-width, initial-scale=1.0",2.0,0.0,4.0,0.0,1.0,0.0,5.0,6,395.0,valid_candidate,True,True,False,True
+etn.com.mx,fixed,"width=device-width, initial-scale=1.0",73.0,11.0,1.0,22.0,5.0,18.0,206.0,8,9246.0,valid_candidate,True,True,False,True
+primeraplus.com.mx,not_found,"width=device-width, initial-scale=1.0",7.0,1.0,1.0,5.0,1.0,2.0,94.0,8,1463.0,valid_candidate,False,False,False,True
+pullmantur.com,sticky,"width=device-width, initial-scale=1.0",14.0,4.0,0.0,2.0,2.0,0.0,40.0,8,2268.0,valid_candidate,True,True,False,True
+cruceros.com,relative,"width=device-width, initial-scale=1, maximum-scale=1",150.0,0.0,1.0,522.0,1.0,10.0,825.0,8,21607.0,valid_candidate,True,False,False,True
+disneylandparis.com,static,"width=device-width, initial-scale=1, viewport-fit=cover",69.0,4.0,3.0,15.0,4.0,1.0,274.0,8,8187.0,valid_candidate,True,True,False,True
+uss.com.sg,not_found,"width=device-width, initial-scale=1.0",15.0,10.0,1.0,0.0,2.0,0.0,29.0,7,1391.0,valid_candidate,False,False,False,True
+buschgardens.com,sticky,"width=device-width, initial-scale=1.0",46.0,15.0,2.0,30.0,2.0,2.0,74.0,7,1862.0,valid_candidate,True,True,False,True
+sixflags.com,relative,"width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes",15.0,12.0,2.0,22.0,2.0,2.0,79.0,8,2193.0,valid_candidate,True,True,False,True
+cedarpoint.com,relative,"width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes",24.0,8.0,8.0,44.0,2.0,4.0,135.0,7,4955.0,valid_candidate,True,True,False,True
+knotts.com,relative,"width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes",25.0,8.0,8.0,46.0,2.0,4.0,146.0,7,4198.0,valid_candidate,True,True,False,True
+legoland.com,sticky,"width=device-width, initial-scale=1",3.0,0.0,3.0,75.0,2.0,5.0,6.0,7,465.0,valid_candidate,True,True,False,True
+europapark.de,static,"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2, user-scalable=yes",21.0,18.0,9.0,188.0,10.0,0.0,205.0,8,11135.0,valid_candidate,True,True,False,True
+phantasialand.de,fixed,"width=device-width, initial-scale=1",66.0,57.0,11.0,85.0,2.0,5.0,183.0,8,5887.0,valid_candidate,True,True,False,True
+efteling.com,relative,"width=device-width, initial-scale=1, shrink-to-fit=no",26.0,21.0,3.0,80.0,3.0,53.0,201.0,8,6256.0,valid_candidate,True,True,False,True
+portaventuraworld.com,sticky,width=device-width,51.0,13.0,10.0,245.0,4.0,1.0,176.0,8,5884.0,valid_candidate,True,True,False,True
+parquewarner.com,not_found,"width=device-width, maximum-scale=2, minimum-scale=1.0, initial-scale=1, shrink-to-fit=no",40.0,7.0,2.0,4.0,1.0,3.0,164.0,8,4643.0,valid_candidate,False,True,False,True
+thorpepark.com,sticky,"width=device-width, initial-scale=1",20.0,9.0,3.0,71.0,5.0,13.0,104.0,7,3336.0,valid_candidate,True,True,False,True
+chessington.com,sticky,"width=device-width, initial-scale=1",19.0,9.0,4.0,83.0,5.0,15.0,112.0,7,4250.0,valid_candidate,True,True,False,True
+puydufou.com,fixed,"width=device-width, initial-scale=1.0",63.0,20.0,2.0,12.0,5.0,0.0,100.0,8,6131.0,valid_candidate,True,True,False,True
+parcasterix.fr,sticky,"width=device-width, initial-scale=1.0",99.0,12.0,2.0,78.0,2.0,11.0,119.0,8,4427.0,valid_candidate,True,True,False,True
+futuroscope.com,static,"width=device-width, initial-scale=1",82.0,24.0,3.0,33.0,1.0,1.0,116.0,8,3515.0,valid_candidate,True,True,False,True
+nps.gov,relative,"width=device-width, initial-scale=1.0, viewport-fit=cover",21.0,10.0,1.0,26.0,0.0,1.0,47.0,8,2444.0,valid_candidate,True,True,True,True
+recreation.gov,relative,"width=device-width,initial-scale=1",24.0,3.0,0.0,113.0,4.0,3.0,324.0,8,17782.0,valid_candidate,True,True,True,True
+hipcamp.com,absolute,"width=device-width, initial-scale=1.0, viewport-fit=cover",33.0,31.0,2.0,28.0,2.0,10.0,119.0,7,3750.0,valid_candidate,True,False,False,True
+thedyrt.com,relative,"width=device-width, initial-scale=1",30.0,6.0,5.0,58.0,0.0,49.0,241.0,8,9730.0,valid_candidate,True,True,False,True
+alltrails.com,relative,"width=device-width, initial-scale=1",27.0,4.0,1.0,43.0,0.0,1.0,138.0,7,11671.0,valid_candidate,True,True,False,True
+komoot.com,static,"width=device-width, initial-scale=1.0, viewport-fit=cover",65.0,6.0,1.0,309.0,3.0,8.0,994.0,7,8586.0,valid_candidate,True,False,False,True
+strava.com,not_found,width=device-width,62.0,2.0,4.0,33.0,3.0,1.0,43.0,8,1078.0,valid_candidate,False,True,False,True
+outdooractive.com,fixed,width=device-width,50.0,6.0,0.0,0.0,2.0,0.0,9.0,7,9552.0,valid_candidate,True,True,False,True
+onthesnow.com,relative,"width=device-width, initial-scale=1",25.0,15.0,5.0,34.0,2.0,1.0,98.0,8,5297.0,valid_candidate,True,True,True,True
+snow-forecast.com,absolute,"width=device-width, initial-scale=1.0",85.0,3.0,2.0,19.0,0.0,3.0,106.0,8,7950.0,valid_candidate,True,True,True,True
+skiresort.info,static,width=1260,62.0,5.0,0.0,0.0,3.0,0.0,3.0,8,5950.0,valid_candidate,True,False,False,False
+epicpass.com,static,"width=device-width, initial-scale=1.0, minimum-scale=1.0",45.0,17.0,3.0,11.0,1.0,0.0,75.0,8,5139.0,valid_candidate,True,True,False,True
+ikonpass.com,not_found,"width=device-width, initial-scale=1",36.0,18.0,5.0,45.0,9.0,9.0,178.0,8,7832.0,valid_candidate,False,True,False,True
+vail.com,static,"width=device-width, initial-scale=1.0, minimum-scale=1.0",28.0,11.0,4.0,12.0,2.0,0.0,29.0,8,4066.0,valid_candidate,True,True,False,True
+aspensnowmass.com,static,"width=device-width, initial-scale=1.0, minimum-scale=1.0",37.0,12.0,8.0,47.0,0.0,0.0,101.0,8,3967.0,valid_candidate,True,True,False,True
+whistlerblackcomb.com,static,"width=device-width, initial-scale=1.0, minimum-scale=1.0",68.0,15.0,5.0,15.0,1.0,0.0,23.0,8,8778.0,valid_candidate,True,True,False,True
+chamonix.com,absolute,"width=device-width, initial-scale=1.0",45.0,24.0,0.0,2.0,1.0,0.0,87.0,8,4220.0,valid_candidate,True,True,False,True
+zermatt.ch,sticky,"width=device-width, initial-scale=1",59.0,24.0,3.0,82.0,7.0,26.0,193.0,6,5814.0,valid_candidate,True,False,False,True
+stmoritz.com,not_found,"width=device-width, initial-scale=1",9.0,9.0,1.0,33.0,4.0,26.0,86.0,8,3201.0,valid_candidate,False,True,False,True
+visitsingapore.com,absolute,"width=device-width, initial-scale=1, maximum-scale=6",83.0,53.0,2.0,16.0,2.0,3.0,73.0,8,5404.0,valid_candidate,True,False,False,True
+visitkorea.or.kr,sticky,"width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes",77.0,48.0,0.0,0.0,3.0,0.0,80.0,8,3097.0,valid_candidate,True,False,False,True
+malaysia.travel,absolute,"width=device-width, initial-scale=1",49.0,27.0,3.0,9.0,4.0,1.0,202.0,7,3521.0,valid_candidate,True,True,True,True
+indonesia.travel,not_found,"width=device-width, initial-scale=1.0",150.0,75.0,1.0,68.0,4.0,0.0,195.0,8,340717.0,valid_candidate,False,True,False,True
+australia.com,not_found,"width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes",150.0,0.0,2.0,3.0,3.0,0.0,70.0,8,3793.0,valid_candidate,False,True,False,True
+visitbritain.com,sticky,"width=device-width, initial-scale=1, viewport-fit=cover",71.0,34.0,2.0,165.0,4.0,1.0,234.0,8,9567.0,valid_candidate,True,True,False,True
+ireland.com,not_found,"width=device-width, initial-scale=1.0",42.0,19.0,0.0,166.0,5.0,0.0,42.0,8,2980.0,valid_candidate,False,True,True,True
+france.fr,relative,"width=device-width, initial-scale=1",110.0,62.0,2.0,100.0,2.0,40.0,346.0,8,17284.0,valid_candidate,True,True,False,True
+spain.info,absolute,"width=device-width, initial-scale=1, shrink-to-fit=no",150.0,27.0,1.0,31.0,2.0,1.0,63.0,8,5627.0,valid_candidate,True,True,False,True
+italia.it,static,"width=device-width,initial-scale=1,minimum-scale=1,user-scalable=yes",150.0,8.0,3.0,6.0,2.0,1.0,175.0,8,8104.0,valid_candidate,True,True,False,True
+germany.travel,static,"initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, width=device-width",16.0,0.0,0.0,0.0,4.0,0.0,40.0,8,5971.0,valid_candidate,True,True,False,True
+visitfinland.com,fixed,"width=device-width, initial-scale=1.0",17.0,8.0,2.0,79.0,3.0,32.0,152.0,7,8362.0,valid_candidate,True,True,False,True
+visitdenmark.com,absolute,"width=device-width, initial-scale=1, viewport-fit=cover",26.0,12.0,1.0,111.0,2.0,15.0,167.0,8,4252.0,valid_candidate,True,True,False,True
+visitgreece.gr,static,"width=device-width, initial-scale=1",83.0,23.0,2.0,115.0,7.0,4.0,213.0,8,6147.0,valid_candidate,True,True,False,True
+visitdubai.com,static,"width=device-width, initial-scale=1, shrink-to-fit=no",3.0,1.0,2.0,33.0,3.0,2.0,39.0,7,442.0,valid_candidate,True,True,False,True
+visitsaudi.com,static,"width=device-width, user-scalable=no",36.0,12.0,7.0,27.0,1.0,1.0,81.0,7,2508.0,valid_candidate,True,True,False,True
+visitmorocco.com,relative,"width=device-width, initial-scale=1",98.0,27.0,5.0,42.0,5.0,0.0,139.0,8,6298.0,valid_candidate,True,False,False,True
+destinationcanada.com,static,width=device-width,20.0,17.0,0.0,28.0,3.0,11.0,71.0,8,3303.0,valid_candidate,True,True,False,True
+visitmexico.com,fixed,"width=device-width, initial-scale=1.0",54.0,16.0,0.0,17.0,2.0,36.0,49.0,7,1652.0,valid_candidate,True,True,True,True
+visitbrasil.com,not_found,"width=device-width, initial-scale=1",34.0,5.0,2.0,2.0,2.0,12.0,100.0,8,4674.0,valid_candidate,False,True,False,True
+argentina.travel,fixed,"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",3.0,0.0,1.0,117.0,1.0,2.0,93.0,8,4509.0,valid_candidate,True,True,False,True
+chile.travel,fixed,"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",95.0,0.0,1.0,0.0,2.0,0.0,197.0,8,3722.0,valid_candidate,True,True,False,True
+peru.travel,fixed,"width=device-width, initial-scale=1.0",57.0,14.0,0.0,72.0,4.0,0.0,67.0,7,2071.0,valid_candidate,True,True,False,True
+colombia.travel,static,"width=device-width, initial-scale=1.0",101.0,9.0,0.0,0.0,5.0,1.0,16.0,8,6911.0,valid_candidate,True,True,False,True
+visitcostarica.com,fixed,"width=device-width, initial-scale=1.0",53.0,46.0,11.0,26.0,2.0,42.0,104.0,7,9632.0,valid_candidate,True,True,False,True
+heathrow.com,absolute,"width=device-width, initial-scale=1.0",19.0,7.0,3.0,169.0,5.0,1.0,112.0,8,4643.0,valid_candidate,True,True,True,True
+gatwickairport.com,static,"width=device-width, initial-scale=1",90.0,8.0,6.0,4.0,1.0,1.0,71.0,8,4728.0,valid_candidate,True,True,True,True
+manchesterairport.co.uk,static,width=device-width,33.0,14.0,1.0,15.0,2.0,10.0,166.0,7,2042.0,valid_candidate,True,True,False,True
+stanstedairport.com,static,width=device-width,30.0,17.0,1.0,18.0,2.0,10.0,162.0,7,2102.0,valid_candidate,True,True,False,True
+frankfurt-airport.com,not_found,"width=device-width, initial-scale=1.0",0.0,0.0,2.0,2.0,1.0,0.0,94.0,7,2550.0,valid_candidate,False,True,False,True
+munich-airport.de,relative,"width=device-width, initial-scale=1, maximum-scale=1",65.0,33.0,4.0,85.0,1.0,0.0,10.0,8,4700.0,valid_candidate,True,True,True,True
+schiphol.nl,static,"width=device-width, initial-scale=1",37.0,16.0,5.0,36.0,3.0,12.0,218.0,8,4694.0,valid_candidate,True,True,False,True
+adr.it,static,"initial-scale=1.0, width=device-width",86.0,13.0,1.0,3.0,7.0,1.0,243.0,8,6087.0,valid_candidate,True,True,True,True
+zurich-airport.com,static,width=device-width,62.0,22.0,2.0,35.0,4.0,2.0,130.0,7,6712.0,valid_candidate,True,True,False,True
+viennaairport.com,static,"width=device-width, initial-scale=1",102.0,1.0,3.0,3.0,3.0,0.0,114.0,8,4814.0,valid_candidate,True,True,False,True
+avinor.no,static,"width=device-width,initial-scale=1",2.0,1.0,0.0,0.0,2.0,8.0,23.0,7,1626.0,valid_candidate,True,True,False,True
+finavia.fi,relative,"width=device-width, initial-scale=1.0",4.0,1.0,2.0,7.0,3.0,0.0,59.0,8,1328.0,valid_candidate,True,True,False,True
+istairport.com,relative,"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",73.0,8.0,1.0,0.0,1.0,0.0,169.0,7,4717.0,valid_candidate,True,True,False,True
+dubaiairports.ae,sticky,"width=device-width, initial-scale=1.0",150.0,10.0,3.0,0.0,7.0,25.0,140.0,8,2310.0,valid_candidate,True,True,False,True
+changiairport.com,static,"width=device-width, initial-scale=1, viewport-fit=cover",72.0,6.0,1.0,0.0,1.0,1.0,178.0,8,3280.0,valid_candidate,True,False,False,True
+hongkongairport.com,static,"width=device-width, initial-scale=1.0, maximum-scale=1.0",19.0,0.0,0.0,0.0,4.0,0.0,0.0,8,1705.0,valid_candidate,True,False,False,True
+newdelhiairport.in,relative,"width=device-width, initial-scale=1, shrink-to-fit=no",45.0,11.0,0.0,9.0,2.0,1.0,93.0,7,2493.0,valid_candidate,True,False,False,True
+bengaluruairport.com,absolute,"width=device-width, initial-scale=1",6.0,0.0,1.0,0.0,4.0,13.0,49.0,7,669.0,valid_candidate,True,True,False,True
+sydneyairport.com.au,not_found,"width=device-width, initial-scale=1",29.0,11.0,3.0,3.0,1.0,3.0,157.0,7,2954.0,valid_candidate,False,True,True,True
+melbourneairport.com.au,fixed,"width=device-width, initial-scale=1.0",9.0,8.0,3.0,162.0,2.0,10.0,228.0,7,2544.0,valid_candidate,True,True,False,True
+torontopearson.com,static,"width=device-width, initial-scale=1",37.0,9.0,1.0,88.0,2.0,17.0,186.0,8,5733.0,valid_candidate,True,True,False,True
+yvr.ca,relative,"width=device-width, initial-scale=1",5.0,0.0,0.0,0.0,2.0,0.0,6.0,8,3614.0,valid_candidate,True,True,False,True
+admtl.com,not_found,"width=device-width, initial-scale=1",7.0,0.0,7.0,2.0,4.0,0.0,29.0,7,5146.0,valid_candidate,False,False,False,True
+flysfo.com,static,"width=device-width, initial-scale=1",43.0,8.0,3.0,45.0,2.0,6.0,107.0,8,4435.0,valid_candidate,True,True,True,True
+jfkairport.com,relative,"width=device-width, initial-scale=1.0",18.0,10.0,0.0,0.0,1.0,12.0,127.0,7,3840.0,valid_candidate,True,True,False,True
+atl.com,absolute,"width=device-width, initial-scale=1",23.0,17.0,2.0,31.0,1.0,1.0,214.0,8,3322.0,valid_candidate,True,True,False,True
+miami-airport.com,relative,"width=device-width, initial-scale=1",14.0,0.0,6.0,7.0,5.0,0.0,4.0,8,1637.0,valid_candidate,True,True,True,True
+aicm.com.mx,static,"width=device-width, initial-scale=1",17.0,0.0,1.0,2.0,0.0,0.0,7.0,8,556.0,valid_candidate,True,True,False,True
+lima-airport.com,static,"width=device-width, initial-scale=1.0",6.0,0.0,0.0,18.0,3.0,3.0,26.0,8,2956.0,valid_candidate,True,True,False,True
+directferries.com,relative,"width=device-width, initial-scale=1.0, maximum-scale=5, user-scalable=yes",139.0,26.0,4.0,171.0,0.0,7.0,234.0,8,4089.0,valid_candidate,True,True,True,True
+ferryhopper.com,sticky,"width=device-width, initial-scale=1",99.0,0.0,5.0,1.0,0.0,20.0,61.0,8,7607.0,valid_candidate,True,True,False,True
+stenaline.com,relative,"width=device-width, initial-scale=1, shrink-to-fit=no",5.0,1.0,1.0,35.0,0.0,0.0,70.0,8,7875.0,valid_candidate,True,True,True,True
+dfds.com,static,"width=device-width, initial-scale=1",17.0,15.0,0.0,54.0,0.0,9.0,181.0,8,4588.0,valid_candidate,True,True,False,True
+brittany-ferries.co.uk,static,"width=device-width, initial-scale=1",5.0,0.0,1.0,4.0,2.0,0.0,16.0,8,531.0,valid_candidate,True,True,False,True
+irishferries.com,relative,"width=device-width, initial-scale=1.0, user-scalable=no",51.0,6.0,1.0,24.0,0.0,0.0,32.0,7,7438.0,valid_candidate,True,True,False,True
+vikingline.com,sticky,"width=device-width, initial-scale=1.0, viewport-fit=cover",33.0,5.0,3.0,74.0,7.0,38.0,165.0,8,3218.0,valid_candidate,True,True,False,True
+tallink.com,relative,width=device-width,21.0,9.0,0.0,53.0,3.0,3.0,155.0,8,5023.0,valid_candidate,True,True,False,True
+colorline.com,not_found,"width=device-width, initial-scale=1.0",15.0,12.0,1.0,75.0,3.0,4.0,165.0,8,4440.0,valid_candidate,False,True,False,True
+hurtigruten.com,not_found,"width=device-width, initial-scale=1",14.0,7.0,4.0,67.0,3.0,6.0,178.0,7,3733.0,valid_candidate,False,True,False,True
+havilavoyages.com,static,"width=device-width, initial-scale=1",23.0,16.0,2.0,33.0,3.0,10.0,165.0,8,4278.0,valid_candidate,True,True,False,True
+gnv.it,fixed,"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",15.0,2.0,0.0,2.0,1.0,0.0,57.0,7,3324.0,valid_candidate,True,True,False,True
+trasmed.com,static,"width=device-width, initial-scale=1",66.0,18.0,0.0,66.0,3.0,8.0,291.0,8,4118.0,valid_candidate,True,True,False,True
+fredolsen.es,relative,"width=device-width, initial-scale=1",82.0,0.0,1.0,0.0,4.0,0.0,64.0,8,6385.0,valid_candidate,True,True,False,True
+navieraarmas.com,sticky,"width=device-width, initial-scale=1",22.0,13.0,0.0,55.0,3.0,10.0,189.0,8,3865.0,valid_candidate,True,True,False,True
+minoan.gr,fixed,"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",58.0,20.0,2.0,15.0,3.0,2.0,187.0,8,5009.0,valid_candidate,True,True,False,True
+anek.gr,absolute,"width=device-width, initial-scale=1.0",22.0,1.0,0.0,0.0,3.0,0.0,214.0,8,5575.0,valid_candidate,True,True,True,True
+bluestarferries.com,absolute,"width=device-width, initial-scale=1.0",26.0,5.0,0.0,0.0,3.0,0.0,228.0,8,5944.0,valid_candidate,True,True,True,True
+seajets.com,fixed,"width=device-width,initial-scale=1,viewport-fit=cover",19.0,9.0,2.0,0.0,1.0,18.0,80.0,8,2355.0,valid_candidate,True,True,False,True
+hellenicseaways.gr,absolute,"width=device-width, initial-scale=1.0",23.0,1.0,1.0,3.0,4.0,0.0,202.0,8,6343.0,valid_candidate,True,True,True,True
+jadrolinija.hr,fixed,"width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",19.0,9.0,0.0,13.0,4.0,0.0,46.0,8,4066.0,valid_candidate,True,True,True,True
+bcferries.com,static,"width=device-width, viewport-fit=cover, initial-scale=1, maximum-scale=1, user-scalable=no",33.0,16.0,0.0,16.0,0.0,0.0,46.0,8,6056.0,valid_candidate,True,True,False,True
+wsdot.wa.gov,relative,"width=device-width, initial-scale=1.0",4.0,1.0,0.0,1.0,0.0,0.0,5.0,8,5092.0,valid_candidate,True,False,False,True
+alaskaferry.com,relative,"width=device-width, initial-scale=1",16.0,4.0,2.0,3.0,2.0,0.0,32.0,8,4984.0,valid_candidate,True,True,False,True
+spiritoftasmania.com.au,static,"width=device-width, initial-scale=1",67.0,34.0,4.0,136.0,1.0,0.0,416.0,8,7014.0,valid_candidate,True,False,False,True
+interislander.co.nz,relative,"width=device-width, initial-scale=1.0",40.0,13.0,0.0,0.0,0.0,2.0,113.0,8,4320.0,valid_candidate,True,True,False,True
+bluebridge.co.nz,relative,"user-scalable=no, width=device-width, initial-scale=1.0",76.0,0.0,3.0,2.0,5.0,0.0,10.0,8,5938.0,valid_candidate,True,True,False,True
+starferry.com.hk,sticky,"width=device-width, initial-scale=1.0",45.0,8.0,1.0,26.0,3.0,3.0,63.0,8,2772.0,valid_candidate,True,True,False,True
+cotaiwaterjet.com,not_found,"width=device-width, initial-scale=1",23.0,15.0,3.0,24.0,0.0,0.0,13.0,7,1108.0,valid_candidate,False,False,False,True
+buquebus.com,not_found,"width=device-width, initial-scale=1",118.0,11.0,0.0,7.0,1.0,0.0,288.0,8,5301.0,valid_candidate,False,True,False,True
+coloniaexpress.com,static,"width=device-width, initial-scale=1.0",14.0,0.0,2.0,1.0,1.0,0.0,38.0,8,734.0,valid_candidate,True,True,False,True
+outdoorsy.com,relative,"width=device-width, initial-scale=1, maximum-scale=1",87.0,13.0,1.0,56.0,1.0,16.0,135.0,7,4926.0,valid_candidate,True,True,True,True
+rvshare.com,static,"width=device-width, initial-scale=1, shrink-to-fit=no",52.0,4.0,3.0,40.0,2.0,9.0,173.0,8,10018.0,valid_candidate,True,True,True,True
+cruiseamerica.com,relative,"width=device-width,initial-scale=1,shrink-to-fit=no,viewport-fit=cover",23.0,17.0,6.0,4.0,3.0,19.0,130.0,8,1737.0,valid_candidate,True,True,False,True
+elmonterv.com,relative,"width=device-width, initial-scale=1",150.0,88.0,4.0,140.0,1.0,0.0,375.0,8,10239.0,valid_candidate,True,True,False,True
+roadbearrv.com,relative,"width=device-width, initial-scale=1",94.0,35.0,1.0,34.0,2.0,0.0,146.0,8,4588.0,valid_candidate,True,True,False,True
+apollocamper.com,relative,"width=device-width, initial-scale=1",91.0,68.0,4.0,139.0,2.0,1.0,347.0,8,12744.0,valid_candidate,True,True,False,True
+britz.com,static,"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",8.0,5.0,2.0,47.0,2.0,0.0,20.0,7,1722.0,valid_candidate,True,True,True,True
+maui-rentals.com,relative,"width=device-width, initial-scale=1",53.0,10.0,4.0,41.0,2.0,0.0,182.0,8,4599.0,valid_candidate,True,True,False,True
+jucy.com,static,"width=device-width, initial-scale=1",91.0,26.0,2.0,26.0,2.0,27.0,283.0,7,6023.0,valid_candidate,True,True,False,True
+wickedcampers.com,not_found,"width=device-width, initial-scale=1",19.0,7.0,1.0,8.0,1.0,42.0,145.0,8,5036.0,valid_candidate,False,True,False,True
+indiecampers.com,fixed,"width=device-width, initial-scale=1",29.0,10.0,1.0,65.0,2.0,7.0,161.0,8,4049.0,valid_candidate,True,True,False,True
+roadsurfer.com,relative,"width=device-width, initial-scale=1.0, user-scalable=yes",150.0,3.0,1.0,0.0,0.0,0.0,83.0,8,8576.0,valid_candidate,True,True,True,True
+yescapa.com,relative,"width=device-width, initial-scale=1",13.0,4.0,0.0,56.0,1.0,4.0,129.0,8,5272.0,valid_candidate,True,True,False,True
+paulcamper.com,fixed,"width=device-width, initial-scale=1",56.0,33.0,0.0,123.0,1.0,34.0,239.0,8,12441.0,valid_candidate,True,True,False,True
+goboony.com,relative,"width=device-width, initial-scale=1.0",32.0,1.0,1.0,70.0,3.0,3.0,88.0,8,4462.0,valid_candidate,True,True,True,True
+spaceshipsrentals.co.uk,static,"width=device-width, initial-scale=1",31.0,28.0,1.0,1.0,0.0,1.0,29.0,8,18881.0,valid_candidate,True,True,False,True
+momondo.com,relative,"width=device-width, initial-scale=1, minimum-scale=1",9.0,0.0,9.0,52.0,1.0,2.0,189.0,8,2240.0,valid_candidate,True,True,False,True
+cheapflights.com,not_found,"width=device-width, initial-scale=1, minimum-scale=1",10.0,0.0,2.0,23.0,0.0,0.0,108.0,8,10189.0,valid_candidate,False,False,False,True
+airfarewatchdog.com,static,"viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, interactive-widget=resizes-content",56.0,36.0,0.0,45.0,1.0,0.0,214.0,8,3688.0,valid_candidate,True,True,False,True
+scottscheapflights.com,static,width=device-width,55.0,17.0,4.0,28.0,1.0,8.0,125.0,7,7228.0,valid_candidate,True,True,False,True
+going.com,static,width=device-width,57.0,12.0,5.0,11.0,1.0,1.0,78.0,7,4842.0,valid_candidate,True,True,False,True
+fly4free.com,relative,"width=device-width, initial-scale=1.0",67.0,0.0,13.0,151.0,1.0,5.0,358.0,8,6955.0,valid_candidate,True,True,True,True
+holidaypirates.com,relative,"width=device-width, initial-scale=1, maximum-scale=5, interactive-widget=resizes-content",45.0,11.0,1.0,0.0,4.0,2.0,226.0,6,16916.0,valid_candidate,True,True,False,True
+urlaubspiraten.de,relative,"width=device-width, initial-scale=1, maximum-scale=5, interactive-widget=resizes-content",46.0,12.0,1.0,0.0,4.0,2.0,237.0,6,17788.0,valid_candidate,True,True,False,True
+viajerospiratas.es,relative,"width=device-width, initial-scale=1, maximum-scale=5, interactive-widget=resizes-content",46.0,12.0,1.0,0.0,4.0,2.0,238.0,6,18945.0,valid_candidate,True,True,False,True
+chollometro.com,sticky,"width=device-width, initial-scale=1",111.0,6.0,1.0,344.0,3.0,69.0,849.0,7,16377.0,valid_candidate,True,True,False,True
+trabber.com,relative,"width=device-width,initial-scale=1",19.0,0.0,0.0,0.0,0.0,0.0,28.0,8,3561.0,valid_candidate,True,False,False,True
+check24.de,static,"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",2.0,0.0,7.0,21.0,3.0,48.0,30.0,7,1105.0,valid_candidate,True,True,False,True
+almosafer.com,not_found,"width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no",61.0,1.0,1.0,75.0,3.0,2.0,261.0,7,6749.0,valid_candidate,False,True,False,True
+musafir.com,fixed,"width=device-width,initial-scale=1,maximum-scale=5",78.0,12.0,0.0,67.0,2.0,9.0,344.0,8,6031.0,valid_candidate,True,True,False,True
+cleartrip.ae,not_found,"width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover, user-scalable=no",11.0,6.0,0.0,35.0,2.0,0.0,161.0,7,8796.0,valid_candidate,False,False,False,True
+via.com,not_found,,26.0,0.0,0.0,1.0,2.0,0.0,0.0,7,2360.0,valid_candidate,False,False,False,False
+akbartravels.com,fixed,"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",19.0,1.0,1.0,0.0,3.0,2.0,127.0,7,1877.0,valid_candidate,True,False,False,True
+thomasCook.in,static,"user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height",150.0,16.0,9.0,11.0,8.0,7.0,192.0,8,13164.0,valid_candidate,True,True,False,True
+sotc.in,relative,"width=device-width, initial-scale=1.0",150.0,16.0,1.0,4.0,3.0,0.0,258.0,8,14902.0,valid_candidate,True,True,False,True
+coxandkings.com,fixed,"width=device-width, initial-scale=1",122.0,50.0,1.0,429.0,3.0,65.0,634.0,8,13351.0,valid_candidate,True,True,False,True
+kuoni.co.uk,sticky,"width=device-width, initial-scale=1, shrink-to-fit=no",124.0,8.0,1.0,13.0,15.0,35.0,304.0,8,19076.0,valid_candidate,True,True,False,True
+abercrombiekent.com,not_found,"width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no",22.0,12.0,9.0,27.0,2.0,1.0,118.0,7,5073.0,valid_candidate,False,True,True,True
+butterfield.com,fixed,"initial-scale=1, width=device-width",48.0,35.0,1.0,32.0,3.0,5.0,259.0,8,9886.0,valid_candidate,True,True,False,True
+backroads.com,relative,"width=device-width, initial-scale=1.0",49.0,19.0,4.0,28.0,2.0,1.0,113.0,8,4645.0,valid_candidate,True,True,False,True
+tauck.com,absolute,"width=device-width, initial-scale=1",10.0,2.0,1.0,4.0,1.0,0.0,29.0,7,10780.0,valid_candidate,True,True,True,True
+trafalgar.com,not_found,"width=device-width, initial-scale=1",115.0,55.0,4.0,117.0,0.0,205.0,542.0,7,7323.0,valid_candidate,False,False,False,True
+insightvacations.com,static,"width=device-width, minimum-scale=1.0, initial-scale=1.0",12.0,1.0,5.0,92.0,1.0,6.0,677.0,7,6436.0,valid_candidate,True,True,False,True
+contiki.com,not_found,"width=device-width, initial-scale=1",99.0,37.0,2.0,170.0,2.0,88.0,569.0,6,6425.0,valid_candidate,False,False,False,True
+topdeck.travel,sticky,"width=device-width, initial-scale=1.0",49.0,12.0,12.0,162.0,3.0,4.0,176.0,8,6587.0,valid_candidate,True,True,False,True
+kilroy.net,not_found,"width=device-width, initial-scale=1",4.0,1.0,2.0,15.0,8.0,0.0,76.0,8,5684.0,valid_candidate,False,True,False,True
+flightcentre.com,static,width=device-width,10.0,0.0,5.0,44.0,1.0,0.0,116.0,6,2196.0,valid_candidate,True,True,False,True
+helloworld.com.au,static,"width=device-width, initial-scale=1.0",13.0,1.0,5.0,13.0,0.0,0.0,45.0,6,1208.0,valid_candidate,True,True,True,True
+houseoftravel.co.nz,absolute,"width=device-width, initial-scale=1",48.0,44.0,0.0,255.0,3.0,12.0,504.0,8,17067.0,valid_candidate,True,True,False,True
+thomascook.com,relative,"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",65.0,37.0,1.0,0.0,0.0,19.0,772.0,7,9631.0,valid_candidate,True,True,False,True
+dertour.de,fixed,"width=device-width, interactive-widget=resizes-content",68.0,2.0,2.0,109.0,2.0,207.0,367.0,8,4884.0,valid_candidate,True,True,False,True
+alltours.de,relative,"width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no",85.0,40.0,0.0,0.0,1.0,1.0,158.0,8,5924.0,valid_candidate,True,True,False,True
+palladiumhotelgroup.com,fixed,"width=device-width, initial-scale=1, maximum-scale=5",113.0,2.0,4.0,12.0,4.0,18.0,119.0,8,2144.0,valid_candidate,True,True,False,True
+hardrockhotels.com,static,"width=device-width, initial-scale=1",15.0,3.0,8.0,4.0,2.0,0.0,26.0,7,5201.0,valid_candidate,True,True,False,True
+karismahotels.com,static,width=device-width,52.0,14.0,5.0,45.0,5.0,5.0,116.0,7,9098.0,valid_candidate,True,True,False,True
+velasresorts.com,fixed,"width=device-width, initial-scale=1",88.0,25.0,1.0,10.0,2.0,0.0,69.0,8,7544.0,valid_candidate,True,True,True,True
+decameron.com,absolute,"width=device-width, initial-scale=1, maximum-scale=5",28.0,13.0,0.0,26.0,2.0,4.0,180.0,8,15530.0,valid_candidate,True,False,False,True
+generatorhostels.com,fixed,"width=device-width, user-scalable=1, viewport-fit=cover",36.0,2.0,2.0,1.0,4.0,0.0,76.0,8,3821.0,valid_candidate,True,True,False,True
+aohostels.com,not_found,"width=device-width, initial-scale=1",77.0,3.0,5.0,1.0,2.0,6.0,47.0,8,5814.0,valid_candidate,False,False,False,True
+meininger-hotels.com,relative,"width=device-width, initial-scale=1",134.0,35.0,3.0,111.0,5.0,0.0,144.0,8,8264.0,valid_candidate,True,True,False,True
+st-christophers.co.uk,absolute,"height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0",105.0,45.0,8.0,254.0,2.0,7.0,654.0,8,14250.0,valid_candidate,True,True,False,True
+yha.org.uk,fixed,"width=device-width, initial-scale=1.0",35.0,17.0,1.0,42.0,4.0,7.0,60.0,8,6856.0,valid_candidate,True,True,True,True
+hihostels.com,relative,"width=device-width, initial-scale=1",33.0,12.0,1.0,36.0,3.0,8.0,256.0,8,3288.0,valid_candidate,True,True,True,True
+nomadsworld.com,not_found,width=device-width,27.0,26.0,1.0,53.0,1.0,13.0,134.0,7,3397.0,valid_candidate,False,True,False,True
+basebackpackers.com,relative,"width=device-width, initial-scale=1.0",8.0,2.0,0.0,6.0,4.0,0.0,23.0,7,3613.0,valid_candidate,True,True,False,True
+onefamhostels.com,static,"width=device-width, initial-scale=1",82.0,27.0,2.0,150.0,3.0,19.0,238.0,8,5937.0,valid_candidate,True,True,False,True
+airbnb.org,sticky,"width=device-width, initial-scale=1",19.0,18.0,2.0,17.0,1.0,20.0,57.0,7,2127.0,valid_candidate,True,True,False,True
+plumguide.com,absolute,"width=device-width, initial-scale=1.0",30.0,18.0,0.0,52.0,3.0,17.0,44.0,7,3376.0,valid_candidate,True,True,False,True
+onefinestay.com,relative,"width=device-width, initial-scale=1",83.0,45.0,4.0,77.0,2.0,1.0,369.0,8,8359.0,valid_candidate,True,False,False,True
+blueground.com,not_found,"width=device-width,initial-scale=1,user-scalable=no",0.0,0.0,1.0,6.0,0.0,1.0,7.0,4,387.0,valid_candidate,False,False,False,True
+limehome.com,static,"width=device-width, initial-scale=1",20.0,5.0,2.0,52.0,0.0,12.0,65.0,8,2513.0,valid_candidate,True,True,False,True
+numa.com,not_found,width=device-width,55.0,24.0,2.0,115.0,12.0,1.0,576.0,8,8940.0,valid_candidate,False,False,False,True
+bobw.co,fixed,"width=device-width, initial-scale=1.0",58.0,19.0,5.0,138.0,5.0,7.0,266.0,8,8036.0,valid_candidate,True,True,False,True
+kasa.com,fixed,"width=device-width, initial-scale=1",64.0,60.0,13.0,141.0,2.0,16.0,694.0,8,8064.0,valid_candidate,True,True,False,True
+landing.com,not_found,"width=device-width, initial-scale=1",0.0,0.0,0.0,3.0,1.0,15.0,55.0,7,3808.0,valid_candidate,False,True,True,True
+marriottbonvoy.com,relative,"width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, minimal-ui",15.0,5.0,1.0,0.0,0.0,0.0,109.0,8,4944.0,valid_candidate,True,True,False,True
+all.accor.com,not_found,"width=device-width, initial-scale=1",1.0,0.0,1.0,227.0,2.0,0.0,383.0,6,3409.0,valid_candidate,False,True,False,True
+wyndhamrewards.com,fixed,"width=device-width,initial-scale=1.0,maximum-scale=2.0,user-scalable=yes",140.0,56.0,8.0,127.0,1.0,0.0,238.0,8,16984.0,valid_candidate,True,True,False,True
+gha.com,not_found,width=device-width,103.0,15.0,0.0,35.0,0.0,5.0,178.0,7,6573.0,valid_candidate,False,True,False,True
+preferredhotels.com,static,width=device-width,35.0,25.0,1.0,78.0,3.0,1.0,108.0,7,6176.0,valid_candidate,True,True,True,True
+relaischateaux.com,not_found,width=device-width,55.0,13.0,0.0,7.0,1.0,4.0,256.0,8,5018.0,valid_candidate,False,False,False,True
+designhotels.com,not_found,"initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0, width=device-width",11.0,1.0,5.0,17.0,0.0,14.0,65.0,6,5705.0,valid_candidate,False,False,False,True
+mrandmrssmith.com,not_found,"width=device-width, initial-scale=1.0",43.0,23.0,6.0,59.0,4.0,11.0,39.0,8,1723.0,valid_candidate,False,True,False,True
+kiwi.com,relative,"width=device-width, initial-scale=1, interactive-widget=resizes-content",55.0,7.0,1.0,104.0,3.0,15.0,193.0,8,4620.0,valid_candidate,True,True,False,True
+dohop.com,not_found,"width=device-width, initial-scale=1",7.0,0.0,7.0,45.0,5.0,5.0,55.0,8,605.0,valid_candidate,False,True,True,True
+azair.eu,not_found,,1.0,0.0,5.0,0.0,1.0,0.0,0.0,6,5139.0,valid_candidate,False,False,False,False
+bing.com,fixed,"width=device-width, initial-scale=1.0",21.0,0.0,1.0,29.0,8.0,1.0,31.0,7,2226.0,valid_candidate,True,False,False,True
+tripit.com,sticky,"width=device-width, initial-scale=1.0",16.0,6.0,4.0,0.0,2.0,0.0,11.0,8,3273.0,valid_candidate,True,True,False,True
+flighty.app,not_found,width=device-width,66.0,21.0,5.0,123.0,5.0,2.0,606.0,6,11413.0,valid_candidate,False,False,False,True
+awardwallet.com,sticky,"width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=5, viewport-fit=cover",59.0,10.0,0.0,2.0,3.0,9.0,77.0,7,2501.0,valid_candidate,True,True,False,True
+point.me,fixed,"width=device-width, initial-scale=1",93.0,10.0,2.0,83.0,2.0,52.0,293.0,8,9161.0,valid_candidate,True,True,True,True
+seats.aero,relative,"width=device-width, initial-scale=1, viewport-fit=cover",150.0,0.0,1.0,215.0,2.0,41.0,628.0,8,5587.0,valid_candidate,True,True,False,True
+roame.travel,not_found,"width=device-width, initial-scale=1",2.0,2.0,0.0,36.0,3.0,1.0,92.0,7,1299.0,valid_candidate,False,True,False,True
+vacasa.com,not_found,"width=device-width, initial-scale=1",32.0,2.0,3.0,52.0,0.0,4.0,131.0,8,8886.0,valid_candidate,False,True,True,True
+evolve.com,static,"width=device-width, height=device-height, initial-scale=1.0",35.0,6.0,1.0,30.0,0.0,0.0,50.0,8,3441.0,valid_candidate,True,True,False,True
+turnkeyvr.com,not_found,"width=device-width, initial-scale=1",32.0,2.0,3.0,52.0,0.0,4.0,131.0,8,8886.0,valid_candidate,False,True,True,True
+avantstay.com,not_found,width=device-width,7.0,0.0,1.0,119.0,1.0,4.0,547.0,7,13627.0,valid_candidate,False,False,False,True
+inspirato.com,absolute,"width=device-width, initial-scale=1",27.0,11.0,1.0,70.0,2.0,8.0,99.0,8,4744.0,valid_candidate,True,True,False,True
+thirdhome.com,fixed,"width=device-width, initial-scale=1",50.0,9.0,9.0,18.0,3.0,0.0,53.0,8,3476.0,valid_candidate,True,True,False,True
+homeexchange.com,not_found,"width=device-width, initial-scale=1",60.0,26.0,3.0,0.0,2.0,20.0,235.0,8,7417.0,valid_candidate,False,True,False,True
+lovehomeswap.com,relative,"width=device-width, initial-scale=1.0",16.0,2.0,0.0,2.0,0.0,0.0,28.0,7,3059.0,valid_candidate,True,False,False,True
+intervac-homeexchange.com,not_found,"user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1",28.0,5.0,1.0,8.0,1.0,1.0,59.0,8,6837.0,valid_candidate,False,True,True,True
+mindmyhouse.com,not_found,"width=device-width, initial-scale=1",5.0,0.0,0.0,0.0,0.0,0.0,9.0,8,9035.0,valid_candidate,False,False,False,True
+nomador.com,not_found,"width=device-width, initial-scale=1.0",59.0,11.0,5.0,70.0,2.0,0.0,229.0,8,8596.0,valid_candidate,False,False,False,True
+workaway.info,fixed,"width=device-width, initial-scale=1",141.0,45.0,3.0,35.0,7.0,0.0,129.0,8,8665.0,valid_candidate,True,True,False,True
+worldpackers.com,static,"width=device-width, initial-scale=1",50.0,2.0,5.0,5.0,2.0,0.0,11.0,6,10633.0,valid_candidate,True,False,False,True
+wwoof.net,static,"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",59.0,4.0,9.0,1.0,2.0,0.0,91.0,8,18376.0,valid_candidate,True,False,False,True
+hometogo.com,not_found,"width=device-width, initial-scale=1.0, viewport-fit=cover",150.0,13.0,0.0,66.0,2.0,22.0,763.0,7,15372.0,valid_candidate,False,True,False,True
+belvilla.com,not_found,"width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0",150.0,4.0,2.0,542.0,1.0,0.0,400.0,7,15564.0,valid_candidate,False,False,False,True
+novasol.com,relative,width=device-width,49.0,25.0,1.0,243.0,0.0,31.0,635.0,8,8540.0,valid_candidate,True,True,False,True
+dancenter.com,not_found,"width=device-width, initial-scale=1",32.0,5.0,1.0,19.0,1.0,0.0,31.0,5,5540.0,valid_candidate,False,False,False,True
+landal.com,not_found,"width=1024, user-scalable=1",6.0,5.0,0.0,51.0,1.0,1.0,40.0,8,1210.0,valid_candidate,False,False,False,False
+centerparcs.com,static,"width=device-width,initial-scale=1",28.0,25.0,0.0,0.0,0.0,0.0,26.0,7,2194.0,valid_candidate,True,True,False,True
+maeva.com,static,"width=device-width, initial-scale=1, viewport-fit=cover",65.0,7.0,2.0,55.0,0.0,3.0,86.0,8,3459.0,valid_candidate,True,True,False,True
+homair.com,relative,"width=device-width, initial-scale=1",88.0,29.0,0.0,108.0,1.0,5.0,385.0,8,21238.0,valid_candidate,True,True,False,True
+eurocamp.co.uk,static,"width=device-width, initial-scale=1",36.0,30.0,2.0,32.0,2.0,13.0,149.0,8,5210.0,valid_candidate,True,True,False,True
+albatross.com,relative,"width=device-width, initial-scale=1",11.0,0.0,1.0,5.0,0.0,0.0,45.0,8,2320.0,valid_candidate,True,True,False,True
+vacanceselect.com,relative,"width=device-width, initial-scale=1",150.0,0.0,0.0,0.0,1.0,6.0,201.0,8,2873.0,valid_candidate,True,True,False,True
+gites-de-france.com,relative,"width=device-width, initial-scale=1.0",20.0,9.0,1.0,46.0,2.0,0.0,72.0,8,6883.0,valid_candidate,True,True,False,True
+clevacances.com,sticky,width=device-width,111.0,19.0,0.0,5.0,3.0,7.0,326.0,8,7513.0,valid_candidate,True,True,False,True
+escapadarural.com,fixed,"width=device-width, initial-scale=1",37.0,5.0,2.0,2.0,2.0,29.0,78.0,8,11083.0,valid_candidate,True,True,False,True
+tuscasasrurales.com,static,"width=device-width, initial-scale=1",150.0,40.0,0.0,0.0,1.0,6.0,237.0,8,6539.0,valid_candidate,True,True,False,True
+rusticae.es,not_found,"width=device-width, initial-scale=1",43.0,23.0,0.0,25.0,2.0,0.0,71.0,8,3373.0,valid_candidate,False,False,False,True
+pousadas.pt,absolute,"width=device-width, initial-scale=1.0, viewport-fit=cover, minimum-scale=1.0",15.0,11.0,4.0,12.0,2.0,6.0,174.0,8,7085.0,valid_candidate,True,True,True,True
+hoseasons.co.uk,relative,width=device-width,54.0,32.0,3.0,65.0,0.0,39.0,386.0,8,9072.0,valid_candidate,True,True,False,True
+cottages.com,relative,width=device-width,47.0,21.0,2.0,209.0,0.0,27.0,561.0,8,11345.0,valid_candidate,True,True,False,True
+nationaltrust.org.uk,static,"width=device-width, initial-scale=1",31.0,21.0,0.0,76.0,1.0,0.0,144.0,8,5354.0,valid_candidate,True,True,False,True
+landmarktrust.org.uk,relative,"width=device-width, initial-scale=1, minimum-scale=1",27.0,9.0,3.0,49.0,3.0,14.0,112.0,7,2821.0,valid_candidate,True,True,False,True
+canopyandstars.co.uk,not_found,"width=device-width, initial-scale=1",31.0,15.0,0.0,9.0,0.0,0.0,33.0,7,3819.0,valid_candidate,False,True,True,True
+coolcamping.com,absolute,"width=device-width, initial-scale=1.0, viewport-fit=cover",41.0,39.0,2.0,28.0,2.0,10.0,132.0,7,2753.0,valid_candidate,True,False,False,True
+glampinghub.com,static,"width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover",150.0,0.0,4.0,101.0,3.0,0.0,235.0,8,2222.0,valid_candidate,True,True,True,True
+glamping.com,static,"width=device-width, initial-scale=1.0,
+                minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",27.0,4.0,3.0,7.0,1.0,0.0,1.0,8,6969.0,valid_candidate,True,False,False,True
+tentrr.com,relative,"width=device-width,initial-scale=1",150.0,15.0,1.0,182.0,4.0,28.0,209.0,8,1410.0,valid_candidate,True,True,False,True
+worldnomads.com,relative,"width=device-width, initial-scale=1",10.0,6.0,2.0,23.0,0.0,1.0,21.0,8,7903.0,valid_candidate,True,True,True,True
+allianztravelinsurance.com,not_found,"initial-scale=1.0,maximum-scale=1.0",17.0,0.0,2.0,4.0,1.0,0.0,13.0,7,6655.0,valid_candidate,False,True,False,False
+travelguard.com,static,"width=device-width, initial-scale=1",53.0,1.0,3.0,8.0,1.0,0.0,51.0,8,8874.0,valid_candidate,True,False,False,True
+imglobal.com,fixed,"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",46.0,1.0,12.0,66.0,4.0,0.0,213.0,7,8097.0,valid_candidate,True,True,True,True
+geobluetravelinsurance.com,absolute,"width=device-width, initial-scale=1",29.0,4.0,1.0,9.0,2.0,0.0,63.0,8,6229.0,valid_candidate,True,True,False,True
+hthtravelinsurance.com,not_found,"width=device-width, initial-scale=1.0",8.0,0.0,0.0,9.0,2.0,0.0,29.0,6,4538.0,valid_candidate,False,False,False,True
+safetywing.com,not_found,"width=device-width, initial-scale=1",77.0,31.0,0.0,48.0,2.0,6.0,71.0,6,2163.0,valid_candidate,False,True,True,True
+heymondo.com,fixed,"width=device-width, initial-scale=1",50.0,1.0,0.0,16.0,2.0,5.0,76.0,8,3559.0,valid_candidate,True,True,True,True
+iati.es,fixed,"width=device-width, initial-scale=1",99.0,12.0,1.0,318.0,1.0,8.0,374.0,8,8986.0,valid_candidate,True,True,False,True
+axa-schengen.com,static,"initial-scale=1.0, width=device-width",42.0,3.0,2.0,23.0,2.0,5.0,146.0,8,11403.0,valid_candidate,True,True,False,True
+europ-assistance.com,static,"width=device-width, initial-scale=1",5.0,1.0,0.0,29.0,0.0,1.0,207.0,7,6715.0,valid_candidate,True,True,False,True
+mapfre.com,static,"width=device-width, initial-scale=1",21.0,12.0,3.0,6.0,2.0,6.0,130.0,8,6279.0,valid_candidate,True,True,False,True
+assistcard.com,sticky,"width=device-width, initial-scale=1.0, user-scalable=no",6.0,0.0,1.0,0.0,2.0,0.0,20.0,7,1177.0,valid_candidate,True,False,False,True
+universal-assistance.com,fixed,"width=device-width, initial-scale=1.0",91.0,8.0,2.0,36.0,2.0,8.0,182.0,8,6682.0,valid_candidate,True,True,False,True
+intermundial.es,static,"width=device-width, initial-scale=1, user-scalable=0",148.0,5.0,7.0,41.0,4.0,11.0,196.0,8,4448.0,valid_candidate,True,True,False,True
+insuremytrip.com,sticky,"width=device-width, initial-scale=1",67.0,5.0,5.0,4.0,3.0,14.0,95.0,8,4283.0,valid_candidate,True,True,False,True
+comparethemarket.com,static,"width=device-width, initial-scale=1, minimum-scale=1",97.0,5.0,2.0,44.0,2.0,2.0,123.0,8,9284.0,valid_candidate,True,True,False,True
+confused.com,fixed,"width=device-width, initial-scale=1",33.0,10.0,1.0,1.0,3.0,11.0,89.0,8,7256.0,valid_candidate,True,True,False,True
+blacklane.com,fixed,"width=device-width, initial-scale=1",14.0,9.0,1.0,22.0,2.0,3.0,90.0,8,2265.0,valid_candidate,True,True,False,True
+welcomepickups.com,absolute,"width=device-width, initial-scale=1, maximum-scale=1",32.0,19.0,2.0,38.0,2.0,1.0,319.0,7,19064.0,valid_candidate,True,False,False,True
+lyft.com,static,width=device-width,16.0,6.0,2.0,41.0,2.0,6.0,115.0,8,3396.0,valid_candidate,True,True,False,True
+bolt.eu,relative,"width=device-width, initial-scale=1",24.0,17.0,1.0,71.0,2.0,16.0,173.0,8,3876.0,valid_candidate,True,True,False,True
+cabify.com,static,"width=device-width, initial-scale=1",23.0,3.0,0.0,0.0,1.0,11.0,77.0,7,2847.0,valid_candidate,True,True,False,True
+grab.com,not_found,"width=device-width, initial-scale=1.0, user-scalable=no",9.0,0.0,2.0,29.0,3.0,0.0,60.0,7,5592.0,valid_candidate,False,False,False,True
+gojek.com,static,"width=device-width, initial-scale=1",37.0,4.0,0.0,0.0,1.0,6.0,80.0,7,2385.0,valid_candidate,True,False,False,True
+careem.com,sticky,"width=device-width, initial-scale=1",8.0,1.0,1.0,72.0,3.0,3.0,76.0,8,1662.0,valid_candidate,True,True,False,True
+curb.com,relative,"width=device-width, initial-scale=1",142.0,9.0,3.0,2.0,1.0,0.0,48.0,8,10650.0,valid_candidate,True,True,False,True
+waymo.com,static,"width=device-width, initial-scale=1.0",77.0,15.0,7.0,80.0,34.0,80.0,132.0,8,6757.0,valid_candidate,True,True,False,True
+carmellimo.com,static,"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",25.0,0.0,2.0,1.0,2.0,1.0,11.0,8,5223.0,valid_candidate,True,True,False,True
+supershuttle.com,relative,"width=device-width, initial-scale=1",27.0,3.0,1.0,0.0,4.0,0.0,2.0,7,3784.0,valid_candidate,True,True,True,True
+goairportshuttle.com,static,"width=device-width, initial-scale=1",6.0,0.0,5.0,90.0,0.0,1.0,289.0,8,7218.0,valid_candidate,True,False,False,True
+terrashuttle.com,not_found,"width=device-width,initial-scale=1,user-scalable=no",0.0,0.0,1.0,6.0,0.0,1.0,7.0,4,391.0,valid_candidate,False,False,False,True
+flibco.com,not_found,"width=device-width, initial-scale=1.0",46.0,2.0,0.0,0.0,1.0,0.0,91.0,8,4118.0,valid_candidate,False,True,False,True
+nationalexpress.com,relative,"width=device-width, initial-scale=1",67.0,6.0,1.0,37.0,2.0,4.0,135.0,8,3046.0,valid_candidate,True,True,False,True
+firstbus.co.uk,fixed,"width=device-width, initial-scale=1.0",29.0,8.0,2.0,37.0,3.0,0.0,42.0,8,3552.0,valid_candidate,True,True,False,True
+go-ahead.com,fixed,"width=device-width, initial-scale=1",43.0,7.0,3.0,15.0,5.0,9.0,90.0,8,4563.0,valid_candidate,True,True,False,True
+aircoach.ie,relative,"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",20.0,10.0,5.0,11.0,2.0,0.0,79.0,7,3254.0,valid_candidate,True,True,False,True
+flybus.is,sticky,"width=device-width, initial-scale=1",33.0,8.0,2.0,135.0,4.0,256.0,233.0,7,16129.0,valid_candidate,True,True,False,True
+airportexpress.no,not_found,"width=device-width, initial-scale=1",55.0,7.0,0.0,2.0,1.0,0.0,108.0,8,8786.0,valid_candidate,False,False,False,True
+arlandaexpress.se,sticky,"width=device-width, initial-scale=1, shrink-to-fit=no",28.0,7.0,0.0,0.0,3.0,7.0,184.0,7,3031.0,valid_candidate,True,True,False,True
+flytoget.no,fixed,"width=device-width, initial-scale=1.0",7.0,4.0,1.0,11.0,5.0,0.0,68.0,7,2057.0,valid_candidate,True,True,False,True
+cat.at,not_found,,7.0,0.0,0.0,0.0,0.0,0.0,0.0,6,361.0,valid_candidate,False,False,False,False
+malpensaexpress.it,not_found,"width=device-width, initial-scale=1",99.0,2.0,5.0,32.0,0.0,0.0,67.0,7,2550.0,valid_candidate,False,True,False,True
+heathrowexpress.com,not_found,"width=device-width, initial-scale=1, maximum-scale=1",36.0,22.0,1.0,12.0,5.0,14.0,255.0,8,9771.0,valid_candidate,False,True,False,True
+kliaekspres.com,relative,"width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1.0, user-scalable=no",107.0,10.0,2.0,0.0,5.0,0.0,88.0,8,11778.0,valid_candidate,True,True,False,True
+arl.co.th,not_found,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,5,793.0,valid_candidate,False,False,False,False
+upexpress.com,sticky,width=device-width,13.0,4.0,3.0,42.0,1.0,17.0,90.0,8,3604.0,valid_candidate,True,True,False,True
+spotangels.com,not_found,"width=device-width, initial-scale=1",13.0,0.0,5.0,3.0,0.0,0.0,24.0,7,1300.0,valid_candidate,False,False,False,True
+spothero.com,relative,width=device-width,44.0,10.0,1.0,25.0,0.0,7.0,45.0,8,2378.0,valid_candidate,True,True,False,True
+parkwhiz.com,not_found,"width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no, minimal-ui",22.0,3.0,3.0,4.0,1.0,0.0,4.0,8,2619.0,valid_candidate,False,True,True,True
+justpark.com,sticky,"width=device-width, initial-scale=1.0, maximum-scale=1.0",17.0,7.0,3.0,20.0,3.0,9.0,185.0,7,7557.0,valid_candidate,True,True,True,True
+yourparkingspace.co.uk,static,"width=device-width, initial-scale=1, maximum-scale=5",14.0,7.0,0.0,188.0,3.0,0.0,101.0,8,11086.0,valid_candidate,True,True,False,True
+apcoa.com,static,"width=device-width, initial-scale=1",32.0,14.0,1.0,7.0,2.0,0.0,172.0,8,2254.0,valid_candidate,True,True,False,True
+interparking.com,fixed,"width=device-width, initial-scale=1",24.0,18.0,1.0,42.0,2.0,12.0,222.0,7,6836.0,valid_candidate,True,True,False,True
+saba.es,fixed,"initial-scale=1.0, width=device-width",144.0,7.0,5.0,6.0,4.0,13.0,181.0,8,5425.0,valid_candidate,True,True,False,True
+empark.com,fixed,width=device-width,19.0,4.0,3.0,2.0,2.0,0.0,55.0,7,3472.0,valid_candidate,True,True,False,True
+skyparksecure.com,sticky,"width=device-width, initial-scale=1",71.0,8.0,0.0,3.0,2.0,19.0,187.0,8,9022.0,valid_candidate,True,True,False,True
+holidayextras.com,not_found,"width=device-width, initial-scale=1.0",32.0,1.0,1.0,69.0,1.0,1.0,108.0,7,3534.0,valid_candidate,False,False,False,True
+aph.com,static,"width=device-width, initial-scale=1.0",29.0,0.0,1.0,0.0,3.0,0.0,50.0,7,6673.0,valid_candidate,True,True,False,True
+looking4.com,not_found,"width=device-width, initial-scale=1",11.0,0.0,0.0,0.0,1.0,1.0,10.0,6,629.0,valid_candidate,False,True,False,True
+parkvia.com,static,"width=device-width, initial-scale=1.0",17.0,12.0,4.0,0.0,1.0,0.0,48.0,8,4175.0,valid_candidate,True,True,False,True
+theparking-spot.com,static,"width=device-width, initial-scale=1, maximum-scale=1",30.0,4.0,4.0,4.0,2.0,0.0,15.0,7,11190.0,valid_candidate,True,True,False,True
+ticketmaster.com,static,width=device-width,13.0,0.0,8.0,59.0,0.0,11.0,161.0,7,7774.0,valid_candidate,True,True,False,True
+todaytix.com,sticky,"minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no, viewport-fit=cover",81.0,3.0,1.0,92.0,2.0,0.0,268.0,7,3528.0,valid_candidate,True,True,False,True
+broadway.com,static,"width=device-width, minimum-scale=0.1, initial-scale=1",98.0,1.0,10.0,110.0,0.0,3.0,331.0,7,5402.0,valid_candidate,True,False,False,True
+londontheatre.co.uk,sticky,"minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no",63.0,10.0,1.0,22.0,1.0,2.0,222.0,8,4573.0,valid_candidate,True,True,False,True
+officiallondontheatre.com,fixed,"width=device-width, initial-scale=1",59.0,14.0,1.0,10.0,2.0,0.0,116.0,8,4193.0,valid_candidate,True,True,False,True
+feverup.com,not_found,"width=device-width, initial-scale=1",23.0,1.0,7.0,28.0,2.0,2.0,51.0,8,2560.0,valid_candidate,False,True,False,True
+eventbrite.com,static,"width=device-width, initial-scale=1",47.0,1.0,3.0,124.0,1.0,1.0,152.0,8,6255.0,valid_candidate,True,True,False,True
+meetup.com,static,"width=device-width, initial-scale=1",113.0,8.0,2.0,90.0,3.0,2.0,261.0,8,4950.0,valid_candidate,True,True,False,True
+withlocals.com,relative,"width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover",133.0,36.0,4.0,155.0,1.0,118.0,212.0,8,13686.0,valid_candidate,True,True,False,True
+showaround.com,not_found,"width=device-width, initial-scale=1",9.0,0.0,3.0,1.0,4.0,0.0,34.0,7,1119.0,valid_candidate,False,False,False,True
+toursbylocals.com,sticky,"width=device-width, initial-scale=1, viewport-fit=cover",138.0,53.0,1.0,156.0,2.0,10.0,587.0,8,12114.0,valid_candidate,True,True,False,True
+contexttravel.com,not_found,"width=device-width, maximum-scale=5.0, minimum-scale=1.0, initial-scale=1.0",150.0,1.0,3.0,408.0,3.0,0.0,526.0,8,19194.0,valid_candidate,False,True,False,True
+walks.com,static,"width=device-width, initial-scale=1",22.0,0.0,1.0,4.0,1.0,0.0,5.0,7,2586.0,valid_candidate,True,False,False,True
+takewalks.com,not_found,"width=device-width, initial-scale=1",45.0,10.0,1.0,25.0,2.0,5.0,59.0,7,3579.0,valid_candidate,False,True,False,True
+guruwalk.com,not_found,"width=device-width, initial-scale=1, viewport-fit=cover",66.0,2.0,0.0,76.0,1.0,9.0,186.0,8,4664.0,valid_candidate,False,True,False,True
+freetour.com,sticky,"width=device-width, initial-scale=1.0, interactive-widget=resizes-content viewport-fit=cover",46.0,16.0,0.0,9.0,2.0,2.0,50.0,8,2634.0,valid_candidate,True,True,False,True
+civitatis.es,relative,"width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=5.0,user-scalable=yes",19.0,17.0,1.0,4.0,2.0,0.0,105.0,7,4878.0,valid_candidate,True,True,False,True
+aladinia.com,not_found,,37.0,2.0,2.0,35.0,3.0,1.0,74.0,7,3271.0,valid_candidate,False,False,False,False
+smartbox.com,not_found,"width=device-width, initial-scale=1.0, maximum-scale=2.0 user-scalable=yes",4.0,1.0,0.0,0.0,0.0,0.0,0.0,7,466.0,valid_candidate,False,False,False,True
+dakotabox.es,sticky,,17.0,1.0,1.0,59.0,3.0,3.0,57.0,7,2200.0,valid_candidate,True,False,False,False
+adrenaline.com.au,sticky,width=device-width,150.0,15.0,0.0,212.0,2.0,25.0,629.0,7,8036.0,valid_candidate,True,True,False,True
+virginexperiencedays.co.uk,relative,width=device-width,104.0,25.0,3.0,150.0,2.0,66.0,893.0,8,17365.0,valid_candidate,True,True,False,True
+buyagift.co.uk,static,"width=device-width, initial-scale=1",129.0,3.0,1.0,218.0,2.0,270.0,348.0,7,11136.0,valid_candidate,True,True,False,True
+redletterdays.co.uk,static,"width=device-width, initial-scale=1",130.0,3.0,1.0,216.0,2.0,262.0,322.0,7,8916.0,valid_candidate,True,True,False,True
+pelago.com,not_found,"width=device-width, initial-scale=1",2.0,1.0,0.0,47.0,2.0,9.0,87.0,7,1248.0,valid_candidate,False,True,False,True
+veltra.com,sticky,"width=device-width, initial-scale=1",94.0,5.0,0.0,222.0,2.0,10.0,385.0,7,10626.0,valid_candidate,True,True,True,True
+activityjapan.com,relative,"width=device-width,initial-scale=1",75.0,6.0,0.0,1.0,7.0,0.0,61.0,8,4646.0,valid_candidate,True,True,True,True
+peek.com,not_found,"width=device-width, initial-scale=1, maximum-scale=1",60.0,3.0,0.0,68.0,4.0,35.0,159.0,8,2899.0,valid_candidate,False,True,False,True
+fareharbor.com,fixed,"width=device-width, initial-scale=1",16.0,7.0,2.0,44.0,4.0,17.0,111.0,8,3642.0,valid_candidate,True,True,True,True
+bokun.io,not_found,"width=device-width, initial-scale=1",38.0,21.0,0.0,38.0,3.0,5.0,134.0,8,7759.0,valid_candidate,False,True,False,True
+checkfront.com,relative,"initial-scale=1, width=device-width",34.0,7.0,5.0,5.0,0.0,20.0,51.0,8,1820.0,valid_candidate,True,True,False,True
+rezdy.com,fixed,"width=device-width, initial-scale=1",103.0,7.0,3.0,11.0,2.0,59.0,62.0,8,8051.0,valid_candidate,True,True,False,True
+trekksoft.com,absolute,"width=device-width, initial-scale=1",150.0,20.0,0.0,63.0,2.0,255.0,164.0,8,6708.0,valid_candidate,True,True,False,True
+regiondo.com,fixed,"width=device-width, initial-scale=1",95.0,3.0,3.0,11.0,3.0,1.0,79.0,8,4134.0,valid_candidate,True,True,False,True
+ventrata.com,relative,"width=device-width, initial-scale=1, maximum-scale=1",26.0,7.0,2.0,21.0,2.0,5.0,94.0,6,8528.0,valid_candidate,True,True,False,True
+prioticket.com,not_found,"width=device-width, initial-scale=1",66.0,6.0,1.0,0.0,2.0,8.0,62.0,7,3536.0,valid_candidate,False,True,False,True
+citypass.com,relative,"width=device-width, initial-scale=1, minimal-ui, viewport-fit=cover",8.0,0.0,0.0,42.0,2.0,2.0,39.0,7,1419.0,valid_candidate,True,True,False,True
+turbopass.com,static,"width=device-width, initial-scale=1",107.0,22.0,7.0,31.0,3.0,6.0,389.0,7,6699.0,valid_candidate,True,True,False,True
+parks.canada.ca,relative,"width=device-width,initial-scale=1",150.0,3.0,0.0,0.0,0.0,0.0,1.0,8,3612.0,valid_candidate,True,True,False,True
+doc.govt.nz,static,"width=device-width, initial-scale=1, user-scalable=yes",15.0,2.0,2.0,36.0,1.0,5.0,125.0,8,2568.0,valid_candidate,True,True,False,True
+tanzaniaparks.go.tz,not_found,"width=device-width, initial-scale=1",36.0,4.0,0.0,68.0,4.0,5.0,63.0,7,4051.0,valid_candidate,False,True,False,True
+ugandawildlife.org,not_found,"width=device-width, initial-scale=1",6.0,0.0,1.0,60.0,1.0,0.0,963.0,8,8303.0,valid_candidate,False,False,False,True
+parquesnacionales.gov.co,static,"width=device-width, initial-scale=1",108.0,28.0,4.0,5.0,1.0,46.0,109.0,8,2991.0,valid_candidate,True,False,False,True
+sernanp.gob.pe,sticky,"width=device-width, initial-scale=1",22.0,0.0,0.0,154.0,4.0,8.0,212.0,8,9018.0,valid_candidate,True,True,False,True
+naturvardsverket.se,static,"width=device-width, initial-scale=1",15.0,11.0,1.0,35.0,1.0,6.0,86.0,7,4111.0,valid_candidate,True,True,False,True
+metsa.fi,fixed,"width=device-width, initial-scale=1",9.0,0.0,2.0,63.0,2.0,1.0,96.0,8,4544.0,valid_candidate,True,True,False,True
+miljodirektoratet.no,static,"width=device-width, initial-scale=1.0",20.0,2.0,1.0,1.0,3.0,0.0,62.0,8,3899.0,valid_candidate,True,True,False,True
+vatnajokulsthjodgardur.is,fixed,"width=device-width, initial-scale=1, shrink-to-fit=no",29.0,28.0,0.0,53.0,3.0,22.0,225.0,7,5241.0,valid_candidate,True,True,False,True
+thingvellir.is,static,"width=device-width, initial-scale=1",7.0,6.0,0.0,24.0,1.0,8.0,37.0,8,2420.0,valid_candidate,True,True,False,True
+galapagos.gob.ec,static,"width=device-width, initial-scale=1.0",7.0,1.0,2.0,0.0,0.0,0.0,0.0,8,748.0,valid_candidate,True,False,False,True
+krugerpark.co.za,not_found,"width=device-width,initial-scale=1.0",15.0,12.0,0.0,0.0,2.0,0.0,2.0,8,6101.0,valid_candidate,False,False,False,True
+serengeti.com,static,"width=device-width, initial-scale=1, maximum-scale=1",29.0,15.0,4.0,1.0,1.0,0.0,7.0,8,7615.0,valid_candidate,True,True,False,True
+masaimara.com,static,"width=device-width, initial-scale=1, maximum-scale=1",29.0,15.0,4.0,1.0,1.0,0.0,8.0,8,8322.0,valid_candidate,True,True,False,True
+victoriafalls-guide.net,not_found,"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",20.0,4.0,0.0,0.0,2.0,1.0,0.0,6,6285.0,valid_candidate,False,False,False,True
+machupicchu.gob.pe,static,"width=device-width, initial-scale=1",4.0,0.0,1.0,0.0,0.0,0.0,0.0,8,663.0,valid_candidate,True,True,False,True
+incatrailreservations.com,static,"width=device-width, initial-scale=1",25.0,14.0,0.0,67.0,1.0,14.0,307.0,8,20820.0,valid_candidate,True,True,True,True
+decathlon.com,sticky,"width=device-width,initial-scale=1",150.0,59.0,10.0,232.0,7.0,45.0,566.0,8,1703.0,valid_candidate,True,True,False,True
+theoutbound.com,relative,"width=device-width, initial-scale=1, viewport-fit=cover",27.0,4.0,0.0,12.0,0.0,0.0,182.0,8,2668.0,valid_candidate,True,False,False,True
+switchbacktravel.com,fixed,"width=device-width, initial-scale=1.0",150.0,22.0,1.0,0.0,2.0,0.0,39.0,8,9392.0,valid_candidate,True,True,False,True
+cleverhiker.com,fixed,"width=device-width, initial-scale=1",81.0,11.0,5.0,43.0,2.0,4.0,648.0,8,13948.0,valid_candidate,True,True,False,True
+sectionhiker.com,relative,"width=device-width, initial-scale=1.0",30.0,2.0,0.0,0.0,0.0,0.0,13.0,7,5548.0,valid_candidate,True,False,False,True
+backpacker.com,sticky,"width=device-width, initial-scale=1.0",7.0,1.0,5.0,18.0,6.0,4.0,79.0,7,9661.0,valid_candidate,True,True,False,True
+outsideonline.com,sticky,"width=device-width, initial-scale=1.0",7.0,1.0,4.0,26.0,6.0,4.0,86.0,8,10594.0,valid_candidate,True,True,False,True
+climbing.com,sticky,"width=device-width, initial-scale=1.0",7.0,1.0,5.0,18.0,6.0,3.0,41.0,7,6064.0,valid_candidate,True,True,False,True
+planetmountain.com,sticky,"width=device-width, initial-scale=1.0",107.0,6.0,5.0,1.0,4.0,0.0,196.0,7,9694.0,valid_candidate,True,False,False,True
+desnivel.com,static,"width=device-width, initial-scale=1",76.0,46.0,2.0,6.0,2.0,0.0,25.0,8,14467.0,valid_candidate,True,True,False,True
+barrabes.com,relative,"width=device-width, initial-scale=1.0",150.0,1.0,0.0,2.0,1.0,0.0,149.0,8,4908.0,valid_candidate,True,True,False,True
+alpenverein.de,sticky,"width=device-width, initial-scale=1",65.0,35.0,0.0,2.0,3.0,22.0,80.0,8,12805.0,valid_candidate,True,True,False,True
+sac-cas.ch,not_found,"width=device-width, initial-scale=1",38.0,1.0,2.0,142.0,3.0,1.0,155.0,7,6267.0,valid_candidate,False,False,False,True
+cai.it,relative,"width=device-width, initial-scale=1",14.0,7.0,0.0,4.0,3.0,7.0,62.0,8,3610.0,valid_candidate,True,True,False,True
+fedme.es,static,"width=device-width, initial-scale=1",58.0,4.0,4.0,54.0,1.0,3.0,617.0,8,10204.0,valid_candidate,True,True,False,True
+thebmc.co.uk,relative,"width=device-width, initial-scale=1.0",27.0,8.0,0.0,78.0,1.0,9.0,130.0,7,7482.0,valid_candidate,True,False,False,True
+americanalpineclub.org,relative,"width=device-width, initial-scale=1",14.0,1.0,3.0,5.0,2.0,1.0,12.0,7,2239.0,valid_candidate,True,True,False,True
+alpineclubofcanada.ca,static,"width=device-width, initial-scale=1",8.0,0.0,6.0,23.0,5.0,2.0,169.0,8,6393.0,valid_candidate,True,True,False,True
+nepalmountaineering.org,not_found,"width=device-width, initial-scale=1",33.0,11.0,2.0,22.0,2.0,0.0,44.0,7,3342.0,valid_candidate,False,False,False,True
+bookmundi.com,static,"width=device-width, initial-scale=1, maximum-scale=5",150.0,45.0,1.0,249.0,0.0,7.0,661.0,8,44274.0,valid_candidate,True,False,False,True
+muchbetteradventures.com,fixed,width=device-width,136.0,16.0,3.0,70.0,8.0,11.0,201.0,7,5707.0,valid_candidate,True,False,False,True
+explore.co.uk,fixed,"width=device-width,initial-scale=1",17.0,4.0,2.0,32.0,4.0,0.0,76.0,8,6643.0,valid_candidate,True,True,False,True
+exodus.co.uk,sticky,"width=device-width, initial-scale=1, shrink-to-fit=no maximum-scale=1",118.0,25.0,5.0,143.0,4.0,4.0,212.0,8,14762.0,valid_candidate,True,True,False,True
+keadventure.com,sticky,"width=device-width, initial-scale=1",55.0,17.0,3.0,2.0,3.0,1.0,202.0,8,7001.0,valid_candidate,True,True,False,True
+mountainkingdoms.com,static,"width=device-width, initial-scale=1, maximum-scale=1",19.0,2.0,1.0,3.0,5.0,0.0,18.0,7,8489.0,valid_candidate,True,True,False,True
+jagged-globe.co.uk,not_found,"width=device-width,maximum-scale=1.0",9.0,0.0,1.0,1.0,3.0,0.0,41.0,8,6207.0,valid_candidate,False,False,False,True
+adventureconsultants.com,fixed,"width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover",2.0,2.0,7.0,12.0,1.0,1.0,47.0,8,4652.0,valid_candidate,True,True,False,True
+alpineascents.com,relative,"width=device-width, initial-scale=1.0",150.0,48.0,3.0,2.0,2.0,0.0,55.0,8,3465.0,valid_candidate,True,True,False,True
+rmiguides.com,not_found,"width=device-width, initial-scale=1",70.0,9.0,1.0,10.0,3.0,3.0,111.0,7,13494.0,valid_candidate,False,True,True,True
+exumguides.com,not_found,"width=device-width, initial-scale=1.0",16.0,0.0,0.0,0.0,1.0,0.0,5.0,8,3372.0,valid_candidate,False,True,True,True
+nols.edu,absolute,"width=device-width, initial-scale=1.0",21.0,12.0,0.0,5.0,0.0,9.0,155.0,8,4756.0,valid_candidate,True,True,True,True
+outwardbound.org,relative,"width=device-width, initial-scale=1",55.0,11.0,9.0,23.0,2.0,0.0,74.0,8,10294.0,valid_candidate,True,True,False,True
+evo.com,relative,"width=device-width,initial-scale=1",150.0,48.0,7.0,295.0,2.0,4.0,268.0,8,5407.0,valid_candidate,True,True,False,True
+skimag.com,sticky,"width=device-width, initial-scale=1.0",7.0,1.0,5.0,16.0,6.0,3.0,64.0,7,7486.0,valid_candidate,True,True,False,True
+tetongravity.com,fixed,"initial-scale=1, width=device-width",112.0,65.0,1.0,69.0,2.0,66.0,531.0,8,7501.0,valid_candidate,True,True,False,True
+lugaresdenieve.com,relative,"width=device-width,initial-scale=1,maximum-scale=6",96.0,24.0,9.0,0.0,0.0,0.0,10.0,8,5820.0,valid_candidate,True,False,False,True
+nevasport.com,relative,width=device-width,150.0,4.0,2.0,0.0,1.0,0.0,108.0,8,16980.0,valid_candidate,True,False,False,True
+skiinfo.fr,relative,"width=device-width, initial-scale=1",31.0,24.0,2.0,30.0,1.0,1.0,101.0,8,5557.0,valid_candidate,True,False,False,True
+j2ski.com,static,"width=device-width, initial-scale=1",35.0,2.0,0.0,0.0,2.0,4.0,40.0,8,7069.0,valid_candidate,True,True,False,True
+skiclub.co.uk,static,"width=device-width, initial-scale=1, viewport-fit=cover",42.0,10.0,1.0,8.0,2.0,4.0,107.0,8,4827.0,valid_candidate,True,True,False,True
+inghams.co.uk,relative,"width=device-width, initial-scale=1",48.0,0.0,2.0,80.0,0.0,7.0,141.0,8,6951.0,valid_candidate,True,True,True,True
+neilson.co.uk,relative,"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",81.0,7.0,2.0,0.0,0.0,6.0,90.0,8,5252.0,valid_candidate,True,True,False,True
+markwarner.co.uk,sticky,"width=device-width, initial-scale=1, shrink-to-fit=no",68.0,0.0,8.0,1.0,4.0,16.0,78.0,8,7384.0,valid_candidate,True,True,False,True
+sunweb.com,static,"initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width",10.0,1.0,0.0,1.0,1.0,0.0,0.0,6,1320.0,valid_candidate,True,True,False,True
+snowtrex.co.uk,not_found,"width=device-width, initial-scale=1",17.0,3.0,0.0,56.0,2.0,17.0,85.0,6,14316.0,valid_candidate,False,False,False,True
+skisolutions.com,fixed,"width=device-width, initial-scale=1",119.0,26.0,4.0,19.0,2.0,2.0,216.0,8,9436.0,valid_candidate,True,True,False,True
+igluski.com,relative,"width=device-width, initial-scale=1.0, maximum-scale=1.0",83.0,2.0,1.0,11.0,2.0,2.0,41.0,8,2987.0,valid_candidate,True,False,False,True
+clickandboat.com,not_found,"width=device-width, initial-scale=1.0, viewport-fit=cover",26.0,10.0,1.0,85.0,0.0,6.0,70.0,7,12961.0,valid_candidate,False,False,False,True
+samboat.com,not_found,"width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no,interactive-widget=resizes-content",15.0,1.0,0.0,82.0,1.0,0.0,99.0,8,5240.0,valid_candidate,False,False,False,True
+zizoo.com,static,"width=device-width, initial-scale=1",135.0,56.0,22.0,73.0,2.0,18.0,256.0,8,2661.0,valid_candidate,True,True,False,True
+boatsetter.com,static,width=device-width,49.0,6.0,0.0,24.0,2.0,5.0,83.0,8,1795.0,valid_candidate,True,True,False,True
+getmyboat.com,fixed,"initial-scale=1.0, width=device-width",86.0,15.0,1.0,124.0,2.0,56.0,346.0,8,7344.0,valid_candidate,True,True,False,True
+borrowaboat.com,static,"width=device-width, initial-scale=1",135.0,56.0,22.0,73.0,2.0,18.0,256.0,8,2661.0,valid_candidate,True,True,False,True
+sailogy.com,relative,"width=device-width, initial-scale=1.0",150.0,7.0,6.0,92.0,1.0,8.0,191.0,8,8187.0,valid_candidate,True,False,False,True
+moorings.com,relative,"width=device-width, initial-scale=1, shrink-to-fit=no maximum-scale=1",86.0,18.0,2.0,241.0,3.0,7.0,236.0,8,9081.0,valid_candidate,True,True,True,True
+sunsail.com,relative,"width=device-width, initial-scale=1, shrink-to-fit=no maximum-scale=1",80.0,20.0,2.0,255.0,3.0,6.0,274.0,8,9343.0,valid_candidate,True,True,True,True
+dreamyachtcharter.com,fixed,"width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1.0",52.0,3.0,1.0,148.0,5.0,5.0,168.0,8,6603.0,valid_candidate,True,True,False,True
+navigare-yachting.com,sticky,"width=device-width, initial-scale=1, shrink-to-fit=no",26.0,3.0,4.0,9.0,6.0,3.0,77.0,7,3851.0,valid_candidate,True,False,False,True
+kiriacoulis.com,fixed,"width=device-width, initial-scale=1.0",53.0,12.0,1.0,20.0,2.0,8.0,88.0,8,8100.0,valid_candidate,True,True,False,True
+latesail.com,not_found,"width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no",10.0,1.0,0.0,15.0,1.0,0.0,25.0,7,1153.0,valid_candidate,False,False,False,True
+yachtcharterfleet.com,fixed,"width=device-width, maximum-scale=1.0",6.0,3.0,1.0,0.0,2.0,0.0,34.0,6,8185.0,valid_candidate,True,False,False,True
+boatinternational.com,not_found,"width=device-width, initial-scale=1",7.0,3.0,2.0,19.0,4.0,12.0,99.0,7,7544.0,valid_candidate,False,True,False,True
+marinetraffic.com,not_found,"width=device-width,initial-scale=1",0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,694.0,valid_candidate,False,False,False,True
+cruisemapper.com,static,"width=device-width, initial-scale=1, user-scalable=no",50.0,0.0,9.0,0.0,1.0,0.0,0.0,7,1699.0,valid_candidate,True,True,False,True
+cruisetimetables.com,not_found,"width=device-width,initial-scale=1",3.0,0.0,9.0,3.0,1.0,1.0,3.0,6,2633.0,valid_candidate,False,False,False,True
+whatsinport.com,not_found,"width=device-width, initial-scale=1",1.0,0.0,9.0,0.0,0.0,0.0,0.0,5,1840.0,valid_candidate,False,False,False,True
+cruisedeckplans.com,fixed,"width=device-width, initial-scale=1",4.0,2.0,7.0,4.0,1.0,0.0,19.0,8,543.0,valid_candidate,True,True,False,True
+cruiseline.com,static,"width=device-width, initial-scale=1.0",31.0,0.0,3.0,0.0,0.0,0.0,42.0,7,21153.0,valid_candidate,True,True,False,True
+padi.com,relative,"width=device-width, initial-scale=1",45.0,15.0,1.0,36.0,2.0,7.0,147.0,8,4308.0,valid_candidate,True,True,False,True
+naui.org,relative,"width=device-width, initial-scale=1",22.0,10.0,0.0,19.0,0.0,0.0,51.0,6,1944.0,valid_candidate,True,False,False,True
+scubadiving.com,static,"width=device-width, initial-scale=1.0",100.0,13.0,1.0,6.0,1.0,0.0,98.0,8,7798.0,valid_candidate,True,True,False,True
+divernet.com,static,"width=device-width, initial-scale=1",45.0,8.0,0.0,30.0,1.0,13.0,186.0,8,3705.0,valid_candidate,True,True,False,True
+diveboard.com,not_found,"initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width",35.0,0.0,0.0,0.0,3.0,0.0,0.0,8,1596.0,valid_candidate,False,False,False,True
+zubludiving.com,fixed,"width=device-width, initial-scale=1",40.0,1.0,1.0,90.0,10.0,3.0,109.0,8,6739.0,valid_candidate,True,True,False,True
+liveaboard.com,relative,"width=device-width, initial-scale=1.0",88.0,4.0,1.0,77.0,0.0,2.0,162.0,6,6752.0,valid_candidate,True,True,False,True
+bluewaterdivetravel.com,sticky,"width=device-width, initial-scale=1, user-scalable=yes",110.0,89.0,0.0,791.0,2.0,9.0,802.0,7,38360.0,valid_candidate,True,True,False,True
+dive-the-world.com,relative,"width=device-width,initial-scale=1",17.0,8.0,1.0,4.0,0.0,0.0,25.0,8,7672.0,valid_candidate,True,True,False,True
+golfnow.com,relative,"width=device-width, initial-scale=1",24.0,1.0,1.0,5.0,1.0,22.0,25.0,8,499.0,valid_candidate,True,True,False,True
+teeoff.com,static,"width=device-width, initial-scale=1",20.0,0.0,4.0,4.0,4.0,0.0,0.0,8,2454.0,valid_candidate,True,True,False,True
+golfpass.com,relative,"width=device-width, initial-scale=1, interactive-widget=resizes-content",38.0,2.0,9.0,20.0,3.0,2.0,204.0,8,5608.0,valid_candidate,True,True,False,True
+top100golfcourses.com,relative,"width=device-width, initial-scale=1",56.0,8.0,0.0,25.0,1.0,4.0,239.0,8,4795.0,valid_candidate,True,True,False,True
+golfdigest.com,fixed,"width=device-width, initial-scale=1",52.0,4.0,17.0,53.0,7.0,78.0,155.0,7,12728.0,valid_candidate,True,True,False,True
+golf.com,sticky,"width=device-width, initial-scale=1.0, maximum-scale=1.0,user-scalable=0",60.0,43.0,9.0,15.0,4.0,9.0,74.0,8,8538.0,valid_candidate,True,True,False,True
+pgatour.com,relative,"width=device-width, height=device-height, initial-scale=1, maximum-scale=1",60.0,7.0,9.0,62.0,3.0,9.0,224.0,7,2975.0,valid_candidate,True,True,False,True
+yourgolftravel.com,static,"width=device-width,initial-scale=1",71.0,11.0,4.0,170.0,1.0,35.0,242.0,8,8691.0,valid_candidate,True,True,True,True
+gleneagles.com,fixed,"width=device-width, initial-scale=1, shrink-to-fit=no",13.0,3.0,3.0,8.0,7.0,0.0,43.0,8,6191.0,valid_candidate,True,True,False,True
+standrews.com,relative,"minimum-scale=1,initial-scale=1, width=device-width, shrink-to-fit=no",150.0,136.0,13.0,119.0,4.0,14.0,645.0,8,9625.0,valid_candidate,True,True,True,True
+pinehurst.com,relative,"width=device-width, initial-scale=1.0",134.0,15.0,3.0,41.0,0.0,0.0,81.0,8,3582.0,valid_candidate,True,True,True,True
+bandondunesgolf.com,fixed,"width=device-width, initial-scale=1, viewport-fit=cover",102.0,57.0,4.0,0.0,4.0,0.0,1129.0,8,16833.0,valid_candidate,True,True,False,True
+nomadlist.com,not_found,"width=device-width, initial-scale=1, user-scalable=yes",150.0,17.0,19.0,41.0,5.0,0.0,125.0,5,10567.0,valid_candidate,False,True,True,True
+remoteok.com,not_found,"width=device-width, initial-scale=1",103.0,1.0,1.0,5.0,2.0,0.0,7.0,7,8560.0,valid_candidate,False,False,False,True
+outsite.co,not_found,"width=device-width, initial-scale=1",128.0,102.0,2.0,44.0,9.0,13.0,124.0,8,6272.0,valid_candidate,False,False,False,True
+roam.co,not_found,"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",10.0,0.0,1.0,0.0,0.0,0.0,0.0,5,1789.0,valid_candidate,False,False,False,True
+hackerparadise.org,static,"width=device-width, initial-scale=1.0, maximum-scale=1",30.0,7.0,2.0,1.0,2.0,8.0,42.0,8,5620.0,valid_candidate,True,True,False,True
+remoti.io,not_found,"width=device-width, initial-scale=1",46.0,17.0,3.0,31.0,5.0,8.0,112.0,8,5102.0,valid_candidate,False,True,False,True
+thepointsguy.com,sticky,"width=device-width, initial-scale=1",86.0,7.0,2.0,110.0,2.0,30.0,134.0,8,8062.0,valid_candidate,True,True,False,True
+onemileatatime.com,sticky,"width=device-width, initial-scale=1, shrink-to-fit=no",38.0,21.0,7.0,20.0,1.0,1.0,212.0,8,6994.0,valid_candidate,True,True,False,True
+viewfromthewing.com,static,"width=device-width, initial-scale=1",13.0,10.0,9.0,5.0,0.0,0.0,0.0,8,6930.0,valid_candidate,True,True,False,True
+headforpoints.com,static,"width=device-width, height=device-height, initial-scale=1.0",39.0,3.0,4.0,6.0,0.0,0.0,74.0,8,7129.0,valid_candidate,True,True,False,True
+millionmilesecrets.com,sticky,"width=device-width, initial-scale=1",29.0,6.0,2.0,12.0,1.0,0.0,70.0,8,3523.0,valid_candidate,True,True,False,True
+upgradedpoints.com,relative,"width=device-width, initial-scale=1, shrink-to-fit=no",150.0,13.0,1.0,55.0,1.0,3.0,231.0,8,18924.0,valid_candidate,True,True,False,True
+godsavethepoints.com,static,"width=device-width, initial-scale=1",34.0,0.0,8.0,27.0,2.0,0.0,35.0,8,5949.0,valid_candidate,True,True,False,True
+travelcodex.com,sticky,"width=device-width, initial-scale=1",10.0,9.0,9.0,1.0,1.0,0.0,0.0,8,1410.0,valid_candidate,True,True,False,True
+princeoftravel.com,fixed,"width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content",30.0,7.0,0.0,87.0,3.0,9.0,121.0,8,5881.0,valid_candidate,True,True,False,True
+pointhacks.com.au,static,"width=device-width, initial-scale=1",120.0,14.0,0.0,19.0,7.0,52.0,196.0,8,10807.0,valid_candidate,True,True,False,True
+australianfrequentflyer.com.au,static,"width=device-width, initial-scale=1",81.0,11.0,2.0,10.0,0.0,11.0,72.0,8,3213.0,valid_candidate,True,True,False,True
+airliners.net,fixed,"width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0",43.0,3.0,4.0,0.0,1.0,0.0,0.0,8,4047.0,valid_candidate,True,False,False,True
+planespotters.net,relative,width=1080,39.0,3.0,5.0,0.0,1.0,1.0,16.0,7,2164.0,valid_candidate,True,True,False,False
+simpleflying.com,sticky,"width=device-width, initial-scale=1",77.0,27.0,3.0,4.0,3.0,101.0,459.0,8,12197.0,valid_candidate,True,True,False,True
+onemileatatime.net,sticky,"width=device-width, initial-scale=1, shrink-to-fit=no",38.0,21.0,9.0,20.0,1.0,1.0,212.0,8,6994.0,valid_candidate,True,True,False,True
+liveandletsfly.com,static,width=device-width,22.0,0.0,9.0,1.0,0.0,0.0,0.0,8,8570.0,valid_candidate,True,False,False,True
+airlinegeeks.com,static,"width=device-width, initial-scale=1, shrink-to-fit=no",50.0,6.0,2.0,1.0,1.0,21.0,74.0,7,3863.0,valid_candidate,True,True,False,True
+ch-aviation.com,fixed,"width=device-width, initial-scale=1",66.0,4.0,0.0,3.0,2.0,1.0,164.0,8,9967.0,valid_candidate,True,True,False,True
+centreforaviation.com,fixed,"width=device-width, initial-scale=1",1.0,0.0,11.0,18.0,2.0,1.0,46.0,7,5486.0,valid_candidate,True,True,False,True
+routesonline.com,relative,"width=device-width, initial-scale=1",29.0,6.0,4.0,0.0,0.0,0.0,68.0,8,4615.0,valid_candidate,True,True,False,True
+flightglobal.com,relative,"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",38.0,4.0,6.0,0.0,1.0,0.0,29.0,8,9273.0,valid_candidate,True,True,False,True
+travelweekly.com,static,"width=device-width, initial-scale=1",150.0,100.0,2.0,5.0,0.0,0.0,0.0,7,98316.0,valid_candidate,True,False,False,True
+travelpulse.com,static,"width=device-width, initial-scale=1, shrink-to-fit=no",44.0,1.0,5.0,5.0,3.0,0.0,0.0,8,5199.0,valid_candidate,True,True,True,True
+phocuswire.com,not_found,"width=device-width, initial-scale=1, user-scalable=no",80.0,29.0,6.0,4.0,2.0,0.0,0.0,8,12079.0,valid_candidate,False,False,False,True
+tnooz.com,not_found,"width=device-width, initial-scale=1, user-scalable=no",80.0,29.0,6.0,4.0,2.0,0.0,0.0,8,12079.0,valid_candidate,False,False,False,True
+hosteltur.com,relative,"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2",35.0,11.0,0.0,0.0,1.0,113.0,90.0,8,8377.0,valid_candidate,True,True,False,True
+tourinews.es,fixed,"width=device-width, initial-scale=1.0",111.0,59.0,2.0,30.0,1.0,7.0,65.0,8,15031.0,valid_candidate,True,False,False,True
+agenttravel.es,static,"width=device-width, initial-scale=1.0",59.0,3.0,0.0,0.0,1.0,0.0,1.0,8,7897.0,valid_candidate,True,True,False,True
+nexotur.com,static,"width=device-width, initial-scale=1",80.0,1.0,2.0,81.0,2.0,27.0,570.0,8,10051.0,valid_candidate,True,False,False,True
+ladevi.info,fixed,"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, shrink-to-fit=no",94.0,68.0,26.0,15.0,4.0,0.0,105.0,8,6973.0,valid_candidate,True,True,False,True
+mensajeroweb.com.ar,not_found,"width=device-width,initial-scale=1.0,minimum-scale=1.0",28.0,8.0,21.0,50.0,2.0,0.0,67.0,7,31236.0,valid_candidate,False,False,False,True
+panrotas.com.br,static,"width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes",120.0,8.0,2.0,0.0,2.0,1.0,156.0,8,8920.0,valid_candidate,True,True,False,True
+brasilturis.com.br,static,"width=device-width, initial-scale=1.0",4.0,0.0,1.0,8.0,0.0,0.0,96.0,7,6617.0,valid_candidate,True,False,False,True
+ttgmedia.com,static,"width=device-width, initial-scale=1, shrink-to-fit=no",39.0,2.0,1.0,6.0,0.0,16.0,112.0,8,6468.0,valid_candidate,True,True,False,True
+ttgasia.com,not_found,"width=device-width, initial-scale=1.0",76.0,8.0,3.0,0.0,5.0,0.0,0.0,7,7211.0,valid_candidate,False,False,False,True
+traveldailymedia.com,static,"width=device-width, initial-scale=1.0",150.0,63.0,7.0,145.0,0.0,10.0,474.0,7,10580.0,valid_candidate,True,True,False,True
+breakingtravelnews.com,static,"width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no",85.0,7.0,8.0,0.0,3.0,0.0,8.0,7,5543.0,valid_candidate,True,False,False,True
+hospitalitynet.org,static,"width=device-width, initial-scale=1",81.0,2.0,1.0,57.0,2.0,6.0,353.0,8,14816.0,valid_candidate,True,True,False,True
+boutiquehotelnews.com,static,"width=device-width, initial-scale=1",44.0,7.0,2.0,1.0,1.0,5.0,155.0,8,3582.0,valid_candidate,True,True,False,True
+tophotel.news,static,"width=device-width, initial-scale=1",150.0,71.0,0.0,2.0,1.0,1.0,583.0,8,22069.0,valid_candidate,True,True,False,True
+visitlondon.com,relative,"width=device-width,initial-scale=1",36.0,18.0,9.0,0.0,0.0,34.0,64.0,7,4311.0,valid_candidate,True,True,False,True
+esmadrid.com,not_found,"width=device-width, initial-scale=1",32.0,9.0,7.0,0.0,0.0,0.0,16.0,7,3757.0,valid_candidate,False,False,False,True
+barcelonaturisme.com,static,"width=device-width, initial-scale=1",29.0,1.0,5.0,6.0,4.0,0.0,110.0,8,1552.0,valid_candidate,True,True,True,True
+turismoroma.it,static,"width=device-width, initial-scale=1.0",148.0,27.0,3.0,5.0,1.0,0.0,7.0,7,11412.0,valid_candidate,True,False,False,True
+veneziaunica.it,sticky,"width=device-width, initial-scale=1",48.0,20.0,3.0,101.0,2.0,17.0,204.0,8,4831.0,valid_candidate,True,True,False,True
+visitflorence.com,sticky,"width=device-width, initial-scale=1.0",28.0,14.0,12.0,9.0,2.0,9.0,117.0,8,8926.0,valid_candidate,True,True,True,True
+visitberlin.de,fixed,"width=device-width, initial-scale=1.0",72.0,24.0,6.0,57.0,2.0,42.0,235.0,8,19512.0,valid_candidate,True,True,False,True
+muenchen.de,fixed,"width=device-width, initial-scale=1.0",60.0,37.0,1.0,22.0,1.0,0.0,156.0,8,7231.0,valid_candidate,True,True,False,True
+wien.info,static,"width=device-width, initial-scale=1.0",35.0,10.0,1.0,23.0,6.0,17.0,45.0,8,3062.0,valid_candidate,True,True,True,True
+iamsterdam.com,sticky,"width=device-width, initial-scale=1",150.0,0.0,6.0,84.0,4.0,4.0,208.0,8,6161.0,valid_candidate,True,True,False,True
+visitcopenhagen.com,absolute,"width=device-width, initial-scale=1, viewport-fit=cover",26.0,22.0,1.0,48.0,3.0,15.0,219.0,8,9885.0,valid_candidate,True,True,False,True
+visitstockholm.com,relative,width=device-width,5.0,2.0,1.0,37.0,1.0,0.0,136.0,8,9947.0,valid_candidate,True,True,False,True
+visitoslo.com,relative,"width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0",150.0,71.0,4.0,16.0,3.0,2.0,1270.0,7,11130.0,valid_candidate,True,True,False,True
+myhelsinki.fi,static,"width=device-width, initial-scale=1",63.0,10.0,4.0,42.0,2.0,1.0,65.0,8,3988.0,valid_candidate,True,True,False,True
+visitreykjavik.is,static,"width=device-width, initial-scale=1.0",150.0,136.0,1.0,12.0,0.0,0.0,65.0,8,8380.0,valid_candidate,True,True,False,True
+visitlisboa.com,static,"width=device-width, initial-scale=1.0",46.0,26.0,1.0,65.0,1.0,9.0,97.0,7,2595.0,valid_candidate,True,False,False,True
+visitporto.travel,static,"width=device-width, initial-scale=1",25.0,11.0,6.0,4.0,2.0,0.0,29.0,8,1329.0,valid_candidate,True,True,False,True
+visitdublin.com,sticky,"width=device-width, initial-scale=1",73.0,6.0,2.0,100.0,2.0,10.0,281.0,8,4728.0,valid_candidate,True,True,False,True
+edinburgh.org,relative,"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover, user-scalable=no",150.0,57.0,3.0,94.0,1.0,7.0,216.0,8,7530.0,valid_candidate,True,True,False,True
+visitmanchester.com,static,"width=device-width, initial-scale=1.0, minimum-scale=1",148.0,102.0,1.0,5.0,2.0,241.0,118.0,8,15304.0,valid_candidate,True,True,True,True
+visitscotland.com,relative,"width=device-width, initial-scale=1",28.0,15.0,3.0,1.0,2.0,6.0,102.0,8,6021.0,valid_candidate,True,True,False,True
+visitwales.com,static,"width=device-width, initial-scale=1.0",54.0,5.0,1.0,11.0,3.0,0.0,140.0,7,7858.0,valid_candidate,True,True,False,True
+discoverireland.ie,relative,"width=device-width, initial-scale=1",70.0,19.0,2.0,135.0,2.0,2.0,207.0,8,4611.0,valid_candidate,True,True,False,True
+atout-france.fr,fixed,"width=device-width, initial-scale=1.0",22.0,8.0,0.0,2.0,1.0,0.0,129.0,8,5486.0,valid_candidate,True,True,False,True
+provenceguide.com,fixed,"width=device-width, initial-scale=1",14.0,6.0,0.0,8.0,2.0,16.0,21.0,8,3332.0,valid_candidate,True,True,False,True
+cotedazurfrance.fr,relative,"width=device-width,initial-scale=1",110.0,50.0,11.0,0.0,1.0,0.0,418.0,8,23418.0,valid_candidate,True,True,False,True
+normandie-tourisme.fr,relative,"width=device-width, initial-scale=1, shrink-to-fit=no",19.0,11.0,1.0,0.0,1.0,16.0,41.0,8,3729.0,valid_candidate,True,True,False,True
+bretagne-vacances.com,absolute,"width=device-width, initial-scale=1.0",7.0,0.0,3.0,2.0,2.0,1.0,11.0,8,5306.0,valid_candidate,True,True,False,True
+andalucia.org,relative,"width=device-width, initial-scale=1.0, minimum-scale=1",69.0,53.0,4.0,0.0,0.0,131.0,187.0,8,5333.0,valid_candidate,True,True,False,True
+turismo.gal,static,"width=device-width, initial-scale=1",51.0,1.0,4.0,1.0,2.0,2.0,36.0,8,4714.0,valid_candidate,True,True,False,True
+turismodecanarias.com,static,"width=device-width, initial-scale=1.0",40.0,11.0,1.0,34.0,1.0,4.0,118.0,8,4956.0,valid_candidate,True,True,False,True
+illesbalears.travel,relative,"width=device-width, initial-scale=1.0, maximum-scale=2.0",150.0,2.0,3.0,0.0,0.0,1.0,54.0,8,2666.0,valid_candidate,True,True,False,True
+turismo.euskadi.eus,static,"width=device-width, initial-scale=1.0",124.0,7.0,1.0,0.0,1.0,0.0,49.0,8,5483.0,valid_candidate,True,False,False,True
+toscana.info,fixed,"width=device-width, initial-scale=1",28.0,7.0,0.0,0.0,2.0,0.0,24.0,8,14799.0,valid_candidate,True,True,False,True
+visitsicily.info,relative,"width=device-width, initial-scale=1",6.0,1.0,1.0,20.0,3.0,0.0,126.0,8,6129.0,valid_candidate,True,True,False,True
+sardegnaturismo.it,static,"width=device-width, initial-scale=1.0",78.0,32.0,0.0,0.0,0.0,1.0,21.0,8,6924.0,valid_candidate,True,False,False,True
+visitveneto.it,not_found,"width=device-width, initial-scale=1, minimum-scale=1",1.0,1.0,0.0,0.0,0.0,1.0,1.0,6,323.0,valid_candidate,False,False,False,True
+suedtirol.info,fixed,"width=device-width, initial-scale=1",30.0,18.0,5.0,3.0,4.0,1.0,124.0,8,5342.0,valid_candidate,True,False,False,True
+tirol.at,absolute,"width=device-width, initial-scale=1, shrink-to-fit=no",26.0,8.0,1.0,18.0,20.0,24.0,427.0,8,11589.0,valid_candidate,True,True,False,True
+salzburgerland.com,fixed,"width=device-width, initial-scale=1, user-scalable=yes",137.0,53.0,5.0,22.0,2.0,0.0,189.0,8,20315.0,valid_candidate,True,True,False,True
+geneve.com,fixed,"width=device-width, initial-scale=1, minimum-scale=1",35.0,10.0,4.0,16.0,2.0,0.0,107.0,8,8001.0,valid_candidate,True,True,False,True
+zuerich.com,not_found,"width=device-width, initial-scale=1",23.0,15.0,1.0,30.0,1.0,1.0,38.0,7,3095.0,valid_candidate,False,True,True,True
+luzern.com,fixed,"width=device-width, initial-scale=1 maximum-scale=10",12.0,0.0,4.0,274.0,4.0,45.0,150.0,8,4060.0,valid_candidate,True,True,False,True
+interlaken.ch,fixed,"width=device-width, initial-scale=1 maximum-scale=10",37.0,1.0,1.0,375.0,5.0,22.0,114.0,8,3952.0,valid_candidate,True,True,False,True
+prague.eu,relative,"width=device-width, viewport-fit=cover, initial-scale=1.0",150.0,14.0,5.0,20.0,7.0,4.0,116.0,8,8357.0,valid_candidate,True,True,False,True
+krakow.pl,static,"width=device-width, initial-scale=1, shrink-to-fit=no",46.0,4.0,0.0,71.0,2.0,2.0,137.0,8,5609.0,valid_candidate,True,False,False,True
+budapestinfo.hu,fixed,"width=device-width, initial-scale=1, maximum-scale=1",24.0,8.0,5.0,23.0,2.0,67.0,10.0,7,3646.0,valid_candidate,True,True,False,True
+visitljubljana.com,fixed,"width=device-width, initial-scale=1, shrink-to-fit=no",73.0,42.0,3.0,24.0,4.0,0.0,85.0,7,8150.0,valid_candidate,True,True,False,True
+zagreb-touristinfo.hr,not_found,"width=device-width,initial-scale=1",33.0,1.0,1.0,187.0,3.0,17.0,208.0,7,8311.0,valid_candidate,False,True,False,True
+dubrovnik-riviera.hr,relative,width=device-width; initial-scale=1.0,13.0,4.0,1.0,0.0,2.0,0.0,0.0,7,2964.0,valid_candidate,True,False,False,True
+visitbelgrade.org,not_found,"width=device-width, initial-scale=1",19.0,6.0,4.0,0.0,2.0,0.0,28.0,8,3289.0,valid_candidate,False,False,False,True
+santorini.net,relative,"width=device-width, initial-scale=1",52.0,6.0,7.0,13.0,1.0,0.0,71.0,6,11022.0,valid_candidate,True,True,False,True
+osaka-info.jp,fixed,"width=device-width, initial-scale=1.0",150.0,40.0,14.0,2.0,4.0,0.0,165.0,8,3028.0,valid_candidate,True,True,False,True
+kyoto.travel,fixed,"width=device-width, initial-scale=1",106.0,25.0,3.0,151.0,3.0,5.0,220.0,8,8915.0,valid_candidate,True,True,False,True
+visit-hokkaido.jp,static,"width=device-width,initial-scale=1,viewport-fit=cover",150.0,61.0,0.0,130.0,4.0,2.0,274.0,8,3342.0,valid_candidate,True,True,False,True
+visitseoul.net,not_found,width=device-width,6.0,4.0,0.0,0.0,2.0,0.0,14.0,7,317.0,valid_candidate,False,False,False,True
+taiwan.net.tw,absolute,"width=device-width, initial-scale=1, maximum-scale=1",150.0,61.0,6.0,1.0,0.0,0.0,45.0,8,9281.0,valid_candidate,True,False,False,True
+travel.taipei,fixed,"width=device-width, initial-scale=1.0, user-scalable=0",43.0,3.0,13.0,33.0,5.0,1.0,155.0,8,1062.0,valid_candidate,True,False,False,True
+bali.com,absolute,"width=device-width, initial-scale=1",91.0,4.0,1.0,0.0,2.0,0.0,95.0,7,5404.0,valid_candidate,True,True,False,True
+tourismcambodia.com,not_found,"width=device-width, initial-scale=1.0",12.0,1.0,3.0,1.0,2.0,0.0,0.0,8,3670.0,valid_candidate,False,False,False,True
+visitmaldives.com,static,"width=device-width, initial-scale=1, shrink-to-fit=no",23.0,4.0,0.0,1.0,1.0,0.0,54.0,8,4167.0,valid_candidate,True,False,False,True
+welcomenepal.com,static,"width=device-width, initial-scale=1, maximum-scale=1",35.0,6.0,1.0,30.0,0.0,12.0,58.0,7,3604.0,valid_candidate,True,False,False,True
+bhutan.travel,fixed,"height=device-height,width=device-width, initial-scale=1.0, minimum-scale=1.0",77.0,21.0,2.0,9.0,2.0,0.0,110.0,7,8222.0,valid_candidate,True,True,False,True
+maharashtratourism.gov.in,relative,"width=device-width, initial-scale=1",61.0,5.0,0.0,20.0,2.0,18.0,332.0,8,6147.0,valid_candidate,True,True,False,True
+gujarattourism.com,absolute,"width=device-width, initial-scale=1, shrink-to-fit=no",123.0,97.0,2.0,18.0,2.0,0.0,30.0,8,11335.0,valid_candidate,True,False,False,True
+uttarakhandtourism.gov.in,sticky,"width=device-width, initial-scale=1",81.0,23.0,0.0,21.0,2.0,10.0,210.0,8,6966.0,valid_candidate,True,True,False,True
+discoverlosangeles.com,static,"width=device-width, initial-scale=1, maximum-scale=12, minimum-scale=1, user-scalable=yes",109.0,44.0,23.0,51.0,4.0,76.0,305.0,8,9556.0,valid_candidate,True,True,True,True
+choosechicago.com,not_found,"width=device-width,initial-scale=1,shrink-to-fit=no",105.0,15.0,8.0,1.0,5.0,1.0,191.0,8,5733.0,valid_candidate,False,True,False,True
+miamiandbeaches.com,sticky,"width=device-width, initial-scale=1",150.0,121.0,11.0,21.0,3.0,7.0,137.0,8,6977.0,valid_candidate,True,True,False,True
+visitlasvegas.com,static,"width=device-width, initial-scale=1.0, minimum-scale=1",81.0,39.0,7.0,4.0,3.0,46.0,219.0,8,4850.0,valid_candidate,True,True,True,True
+visitorlando.com,relative,"width=device-width, initial-scale=1.0, minimum-scale=1",53.0,19.0,3.0,6.0,2.0,26.0,112.0,8,13667.0,valid_candidate,True,True,False,True
+visitseattle.org,relative,"width=device-width, initial-scale=1",62.0,30.0,7.0,9.0,3.0,2.0,1.0,8,6283.0,valid_candidate,True,False,False,True
+bostonusa.com,relative,"width=device-width, initial-scale=1.0, minimum-scale=1",79.0,51.0,2.0,4.0,4.0,113.0,66.0,8,4280.0,valid_candidate,True,False,False,True
+washington.org,not_found,"width=device-width, initial-scale=1.0",150.0,87.0,11.0,62.0,2.0,0.0,243.0,7,9738.0,valid_candidate,False,True,False,True
+neworleans.com,absolute,"width=device-width, initial-scale=1.0, minimum-scale=1",135.0,112.0,5.0,18.0,2.0,334.0,251.0,8,10144.0,valid_candidate,True,True,False,True
+visitaustin.org,relative,"width=device-width, initial-scale=1.0, minimum-scale=1",117.0,70.0,4.0,2.0,4.0,170.0,189.0,7,9826.0,valid_candidate,True,True,False,True
+visitsandiego.com,relative,"width=device-width, initial-scale=1, shrink-to-fit=no",12.0,2.0,1.0,0.0,1.0,0.0,30.0,8,869.0,valid_candidate,True,True,False,True
+visitcalifornia.com,sticky,"width=device-width, initial-scale=1, shrink-to-fit=no",112.0,53.0,3.0,3.0,2.0,4.0,292.0,7,12296.0,valid_candidate,True,True,False,True
+visitflorida.com,fixed,"width=device-width, initial-scale=1.0, minimum-scale=1",49.0,15.0,5.0,3.0,3.0,10.0,85.0,8,3593.0,valid_candidate,True,False,False,True
+traveltexas.com,not_found,"width=device-width, initial-scale=1.0, minimum-scale=1",79.0,0.0,4.0,3.0,2.0,1.0,60.0,8,861.0,valid_candidate,False,False,False,True
+iloveny.com,relative,"width=device-width, initial-scale=1.0, minimum-scale=1",40.0,5.0,0.0,25.0,4.0,1.0,38.0,7,12855.0,valid_candidate,True,False,False,True
+destinationtoronto.com,relative,"width=device-width, initial-scale=1.0, minimum-scale=1",150.0,71.0,4.0,0.0,1.0,11.0,71.0,8,6774.0,valid_candidate,True,True,False,True
+tourismvancouver.com,not_found,"width=device-width, initial-scale=1",79.0,5.0,11.0,241.0,9.0,26.0,164.0,8,3531.0,valid_candidate,False,True,False,True
+mtl.org,fixed,width=device-width,35.0,27.0,1.0,51.0,7.0,76.0,182.0,8,4637.0,valid_candidate,True,True,False,True
+quebec-cite.com,absolute,"width=device-width, initial-scale=1.0",78.0,21.0,3.0,134.0,2.0,24.0,83.0,7,4065.0,valid_candidate,True,True,True,True
+banfflakelouise.com,absolute,"width=device-width, initial-scale=1",63.0,61.0,1.0,59.0,1.0,18.0,97.0,8,5335.0,valid_candidate,True,True,False,True
+cdmxtravel.com,sticky,"width=device-width, initial-scale=1",9.0,0.0,0.0,0.0,1.0,39.0,34.0,4,31874.0,valid_candidate,True,True,False,True
+visitaloscabos.travel,absolute,"width=device-width, initial-scale=1.0, minimum-scale=1",68.0,38.0,5.0,3.0,2.0,102.0,141.0,8,4058.0,valid_candidate,True,True,True,True
+visitpuertovallarta.com,fixed,"width=device-width, initial-scale=1, shrink-to-fit=no",34.0,12.0,3.0,0.0,4.0,0.0,57.0,8,4615.0,valid_candidate,True,False,False,True
+rivieramaya.com,fixed,"width=device-width, initial-scale=1",56.0,7.0,30.0,117.0,3.0,8.0,50.0,8,6590.0,valid_candidate,True,True,True,True
+turismo.buenosaires.gob.ar,static,"width=device-width, initial-scale=1.0",46.0,10.0,7.0,0.0,0.0,0.0,3.0,8,812.0,valid_candidate,True,True,False,True
+barilocheturismo.gob.ar,static,"width=device-width, initial-scale=1.0",82.0,5.0,0.0,6.0,2.0,0.0,25.0,8,2085.0,valid_candidate,True,True,True,True
+mendoza.tur.ar,relative,"width=device-width, initial-scale=1",90.0,22.0,3.0,116.0,2.0,4.0,457.0,8,4150.0,valid_candidate,True,True,False,True
+iguazuturismo.gob.ar,static,"width=device-width, initial-scale=1",15.0,2.0,0.0,1.0,2.0,1.0,94.0,8,3086.0,valid_candidate,True,True,False,True
+ushuaia.gob.ar,static,"width=device-width, initial-scale=1.0",27.0,4.0,0.0,0.0,0.0,0.0,33.0,8,1251.0,valid_candidate,True,False,False,True
+riotur.rio,relative,"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",150.0,16.0,0.0,0.0,1.0,0.0,0.0,8,14345.0,valid_candidate,True,False,False,True
+visitesaopaulo.com,static,"width=device-width, initial-scale=1.0",53.0,6.0,3.0,1.0,1.0,0.0,64.0,8,4836.0,valid_candidate,True,True,False,True
+cusco.gob.pe,relative,"width=device-width, initial-scale=1",52.0,19.0,2.0,9.0,3.0,4.0,116.0,8,6231.0,valid_candidate,True,True,True,True
+quito-turismo.gob.ec,static,"width=device-width, initial-scale=1",18.0,2.0,0.0,22.0,3.0,1.0,145.0,8,2702.0,valid_candidate,True,True,False,True
+cartagenadeindias.travel,not_found,"width=device-width, initial-scale=1",0.0,0.0,0.0,1.0,0.0,0.0,3.0,4,404.0,valid_candidate,False,False,False,True
+medellin.travel,static,"width=device-width, initial-scale=1",70.0,1.0,3.0,11.0,3.0,7.0,340.0,8,9833.0,valid_candidate,True,False,False,True
+bogota.gov.co,not_found,"width=device-width, initial-scale=1.0",52.0,18.0,1.0,0.0,1.0,34.0,56.0,8,8521.0,valid_candidate,False,True,False,True
+visitpanama.com,static,"width=device-width, initial-scale=1.0, minimum-scale=1",30.0,14.0,6.0,2.0,1.0,8.0,33.0,8,2526.0,valid_candidate,True,False,False,True
+godominicanrepublic.com,fixed,"width=device-width, initial-scale=1",150.0,35.0,1.0,107.0,15.0,4.0,137.0,8,1515.0,valid_candidate,True,True,False,True
+discoverpuertorico.com,fixed,"width=device-width, initial-scale=1.0",102.0,86.0,11.0,59.0,1.0,9.0,68.0,8,16830.0,valid_candidate,True,True,True,True
+visitjamaica.com,relative,"width=device-width, initial-scale=1.0, minimum-scale=1",91.0,44.0,7.0,1.0,0.0,30.0,118.0,8,5208.0,valid_candidate,True,True,False,True
+curacao.com,not_found,"width=device-width,initial-scale=1",21.0,8.0,0.0,5.0,5.0,8.0,9.0,7,3845.0,valid_candidate,False,False,False,True
+visitbarbados.org,static,"user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width",79.0,6.0,5.0,43.0,3.0,0.0,36.0,7,5901.0,valid_candidate,True,False,False,True
+louvre.fr,sticky,width=device-width,61.0,33.0,1.0,75.0,6.0,19.0,83.0,8,7990.0,valid_candidate,True,True,False,True
+chateauversailles.fr,absolute,"width=device-width, initial-scale=1.0",119.0,21.0,0.0,27.0,2.0,0.0,41.0,8,15889.0,valid_candidate,True,True,False,True
+centrepompidou.fr,absolute,"width=device-width, initial-scale=1, minimum-scale=1",59.0,13.0,3.0,0.0,1.0,1.0,103.0,8,5941.0,valid_candidate,True,True,False,True
+museoreinasofia.es,static,"width=device-width, initial-scale=1, shrink-to-fit=no",20.0,12.0,3.0,52.0,3.0,13.0,127.0,8,6018.0,valid_candidate,True,True,False,True
+museothyssen.org,sticky,"width=device-width, initial-scale=1.0",32.0,21.0,4.0,23.0,6.0,22.0,76.0,8,6765.0,valid_candidate,True,True,False,True
+sagradafamilia.org,relative,"initial-scale=1.0, width=device-width",67.0,1.0,1.0,19.0,4.0,0.0,7.0,8,2324.0,valid_candidate,True,True,False,True
+parkguell.barcelona,static,"width=device-width, initial-scale=1, shrink-to-fit=no",150.0,28.0,3.0,5.0,2.0,3.0,46.0,8,5161.0,valid_candidate,True,True,False,True
+alhambra-patronato.es,relative,"width=device-width, initial-scale=1",53.0,10.0,1.0,2.0,3.0,0.0,12.0,7,3904.0,valid_candidate,True,True,False,True
+guggenheim-bilbao.eus,fixed,"width=device-width, initial-scale=1.0",47.0,10.0,4.0,34.0,9.0,21.0,69.0,7,2844.0,valid_candidate,True,True,False,True
+uffizi.it,static,width=device-width,40.0,18.0,0.0,13.0,0.0,14.0,46.0,7,3843.0,valid_candidate,True,True,False,True
+galleriaaccademiafirenze.it,fixed,"width=device-width, initial-scale=1",97.0,51.0,8.0,10.0,4.0,0.0,219.0,8,7991.0,valid_candidate,True,True,False,True
+duomomilano.it,fixed,"width=device-width, initial-scale=1",54.0,22.0,5.0,0.0,2.0,0.0,121.0,8,7958.0,valid_candidate,True,True,False,True
+britishmuseum.org,relative,"width=device-width, initial-scale=1.0",19.0,4.0,5.0,81.0,3.0,0.0,152.0,8,6673.0,valid_candidate,True,True,False,True
+nationalgallery.org.uk,fixed,"width=device-width, initial-scale=1, shrink-to-fit=no",92.0,10.0,4.0,1.0,4.0,0.0,113.0,8,6287.0,valid_candidate,True,True,False,True
+tate.org.uk,fixed,"width=device-width, initial-scale=1",24.0,6.0,3.0,1.0,3.0,0.0,107.0,8,3864.0,valid_candidate,True,True,False,True
+vam.ac.uk,static,"width=device-width, minimum-scale=1, initial-scale=1",47.0,13.0,2.0,32.0,2.0,1.0,82.0,8,6740.0,valid_candidate,True,True,False,True
+sciencemuseum.org.uk,static,"width=device-width, initial-scale=1.0",23.0,14.0,3.0,13.0,3.0,0.0,42.0,8,5631.0,valid_candidate,True,True,False,True
+hrp.org.uk,fixed,"width=device-width, initial-scale=1.0",7.0,2.0,2.0,10.0,4.0,4.0,113.0,8,4496.0,valid_candidate,True,True,False,True
+westminster-abbey.org,not_found,"width=device-width, initial-scale=1",50.0,7.0,2.0,2.0,2.0,0.0,16.0,8,3696.0,valid_candidate,False,False,False,True
+stpauls.co.uk,sticky,"width=device-width, initial-scale=1.0",25.0,9.0,0.0,2.0,3.0,5.0,61.0,8,5359.0,valid_candidate,True,True,True,True
+rijksmuseum.nl,static,"width=device-width, initial-scale=1.0",26.0,5.0,4.0,5.0,1.0,5.0,30.0,8,939.0,valid_candidate,True,True,False,True
+vangoghmuseum.nl,not_found,"width=device-width, initial-scale=1.0",33.0,5.0,2.0,10.0,11.0,0.0,26.0,8,1562.0,valid_candidate,False,True,False,True
+deutsches-museum.de,static,"width=device-width, initial-scale=1",1.0,0.0,1.0,3.0,1.0,0.0,67.0,8,7577.0,valid_candidate,True,True,False,True
+khm.at,not_found,"width=device-width, initial-scale=1.0",133.0,45.0,0.0,1.0,1.0,0.0,439.0,8,14475.0,valid_candidate,False,True,False,True
+belvedere.at,fixed,"width=device-width, initial-scale=1.0",49.0,18.0,0.0,13.0,7.0,20.0,159.0,8,11483.0,valid_candidate,True,True,False,True
+schoenbrunn.at,relative,"width=device-width, initial-scale=1",57.0,1.0,1.0,4.0,3.0,0.0,172.0,8,40720.0,valid_candidate,True,True,False,True
+hermitagemuseum.org,static,"width=device-width, initial-scale=1",48.0,0.0,0.0,6.0,0.0,0.0,72.0,7,1621.0,valid_candidate,True,False,False,True
+kreml.ru,static,width=device-width,56.0,42.0,0.0,54.0,3.0,18.0,189.0,7,8103.0,valid_candidate,True,True,False,True
+amnh.org,relative,"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",15.0,0.0,4.0,1.0,0.0,0.0,40.0,8,2319.0,valid_candidate,True,True,True,True
+guggenheim.org,static,"width=device-width,initial-scale=1.0,minimum-scale=1",43.0,32.0,7.0,8.0,1.0,11.0,16.0,8,5315.0,valid_candidate,True,True,False,True
+getty.edu,fixed,"width=device-width, initial-scale=1",9.0,9.0,3.0,25.0,1.0,0.0,62.0,6,3280.0,valid_candidate,True,True,False,True
+lacma.org,static,"width=device-width, initial-scale=1.0",34.0,19.0,0.0,29.0,1.0,18.0,55.0,7,3468.0,valid_candidate,True,True,True,True
+sfmoma.org,static,"width=device-width, initial-scale=1.0",13.0,8.0,3.0,10.0,1.0,7.0,9.0,8,2701.0,valid_candidate,True,True,False,True
+mfa.org,static,"width=device-width, initial-scale=1.0, minimum-scale=1",34.0,26.0,6.0,0.0,0.0,0.0,35.0,8,2592.0,valid_candidate,True,True,False,True
+philamuseum.org,relative,"width=device-width, initial-scale=1",42.0,20.0,2.0,33.0,3.0,9.0,56.0,8,2639.0,valid_candidate,True,True,False,True
+thehenryford.org,absolute,"width=device-width, initial-scale=1",35.0,23.0,0.0,179.0,2.0,13.0,439.0,8,11876.0,valid_candidate,True,True,False,True
+spacecenter.org,static,"width=device-width, initial-scale=1",45.0,11.0,3.0,2.0,3.0,2.0,337.0,8,3275.0,valid_candidate,True,False,False,True
+kennedyspacecenter.com,sticky,width=device-width,32.0,5.0,8.0,86.0,4.0,4.0,110.0,8,3887.0,valid_candidate,True,True,True,True
+masp.org.br,not_found,"width=device-width, initial-scale=1",40.0,16.0,1.0,0.0,1.0,6.0,91.0,6,900.0,valid_candidate,False,True,True,True
+pinacoteca.org.br,static,"width=device-width, initial-scale=1",150.0,22.0,2.0,52.0,4.0,0.0,426.0,7,11761.0,valid_candidate,True,True,False,True
+teamlab.art,sticky,width=device-width,26.0,22.0,0.0,15.0,1.0,5.0,31.0,7,1523.0,valid_candidate,True,True,False,True
+ngv.vic.gov.au,not_found,"initial-scale=1.0,width=device-width",0.0,0.0,2.0,29.0,3.0,8.0,55.0,7,5711.0,valid_candidate,False,True,True,True
+artgallery.nsw.gov.au,static,"width=device-width, initial-scale=1",10.0,9.0,3.0,16.0,2.0,14.0,28.0,8,2013.0,valid_candidate,True,True,False,True
+tepapa.govt.nz,static,width=device-width,49.0,16.0,0.0,2.0,1.0,10.0,83.0,8,10610.0,valid_candidate,True,True,False,True
+resy.com,relative,"width=device-width,initial-scale=1,user-scalable=yes",2.0,1.0,2.0,12.0,1.0,2.0,61.0,7,1357.0,valid_candidate,True,True,False,True
+hotpepper.jp,not_found,,35.0,4.0,1.0,0.0,1.0,0.0,435.0,6,4188.0,valid_candidate,False,False,False,False
+eater.com,not_found,"width=device-width, initial-scale=1, shrink-to-fit=no",135.0,4.0,5.0,109.0,2.0,7.0,118.0,6,5292.0,valid_candidate,False,True,False,True
+timeoutmarket.com,relative,"width=device-width, initial-scale=1, minimum-scale=1",29.0,19.0,6.0,18.0,0.0,12.0,97.0,8,2187.0,valid_candidate,True,True,False,True
+winery-sage.com,not_found,,13.0,0.0,3.0,0.0,0.0,0.0,0.0,5,1006.0,valid_candidate,False,False,False,False
+winetourism.com,fixed,"width=device-width, initial-scale=1, viewport-fit=cover",100.0,5.0,0.0,117.0,6.0,8.0,220.0,8,9136.0,valid_candidate,True,True,False,True
+decanter.com,not_found,"width=device-width,initial-scale=1",133.0,16.0,5.0,54.0,8.0,7.0,288.0,8,12451.0,valid_candidate,False,True,True,True
+winespectator.com,relative,"width=device-width, initial-scale=1, shrink-to-fit=no",150.0,1.0,3.0,50.0,1.0,2.0,139.0,8,11627.0,valid_candidate,True,True,False,True
+rutadelvino.com,static,"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0",34.0,0.0,0.0,224.0,0.0,0.0,29.0,7,536.0,valid_candidate,True,True,False,True
+sonomacounty.com,fixed,"width=device-width, initial-scale=1.0",84.0,64.0,6.0,81.0,10.0,127.0,82.0,7,7006.0,valid_candidate,True,True,True,True
+bordeaux-tourisme.com,fixed,"width=device-width, initial-scale=1.0",47.0,20.0,2.0,79.0,2.0,1.0,111.0,8,7691.0,valid_candidate,True,True,False,True
+riojawine.com,sticky,"width=device-width, initial-scale=1",16.0,0.0,2.0,85.0,6.0,9.0,119.0,8,3396.0,valid_candidate,True,True,False,True
+riberadelduero.es,absolute,"width=device-width, initial-scale=1, shrink-to-fit=no",16.0,6.0,2.0,0.0,1.0,3.0,64.0,8,5416.0,valid_candidate,True,True,True,True
+chianti.com,sticky,"width=device-width, initial-scale=1.0",35.0,19.0,10.0,12.0,2.0,11.0,142.0,8,10641.0,valid_candidate,True,True,True,True
+barossa.com,sticky,"width=device-width, initial-scale=1",124.0,50.0,1.0,138.0,1.0,2.0,499.0,8,9329.0,valid_candidate,True,True,False,True
+marlboroughnz.com,sticky,"height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5",58.0,24.0,6.0,80.0,2.0,2.0,55.0,8,3218.0,valid_candidate,True,True,False,True
+stellenbosch.travel,relative,"width=device-width, initial-scale=1",5.0,4.0,0.0,1.0,2.0,0.0,3.0,6,14378.0,valid_candidate,True,True,False,True

@@ -1,0 +1,712 @@
+domain,hero_index,url,normalized_url,format,width,height,orientation,class_name,tag
+agoda.com,0,,,unknown,1425,1548,square,HomeReactContainer,MAIN
+airbnb.com,0,,,unknown,1425,0,invalid,m1460ofs atm_gq_189ypq0 atm_gy_y71723__2ygr2h atm_gx_1gbbub3__2ygr2h atm_lj_ysyi00__2ygr2h atm_li_1kk8o5g__2ygr2h dir dir-ltr,MAIN
+ryanair.com,0,,,unknown,1440,2853,portrait,ng-tns-c3763290479-0,MAIN
+flightradar24.com,0,,,unknown,1108,900,square,relative size-full,MAIN
+flightaware.com,0,,,unknown,1440,2102,portrait,bg-p-50,MAIN
+skyscanner.com,0,,,unknown,1440,2209,portrait,,MAIN
+bahn.de,0,,,unknown,1280,2701,portrait,doc,MAIN
+kayak.com,0,,,unknown,1440,3414,portrait,WKSW,MAIN
+thetrainline.com,0,,,unknown,1440,4482,portrait,,MAIN
+qantas.com,0,,,unknown,0,0,invalid,,MAIN
+ana.co.jp,0,,,unknown,1440,360,landscape,asw-layout-grid asw-layout-grid--nomargin asw-layout-grid--nomargin-top hero-area,DIV
+jetblue.com,0,,,unknown,1440,3231,portrait,,MAIN
+gol.com.br,0,,,unknown,660,835,square,site-content,MAIN
+tapairportugal.com,0,,,unknown,1440,3021,portrait,jsx-668153745,MAIN
+finnair.com,0,,,unknown,1440,690,landscape,,MAIN
+elal.com,0,,,unknown,1440,569,landscape,hero-img,IMG
+vietnamairlines.com,0,,,unknown,1240,3536,portrait,vna-main,MAIN
+malaysiaairlines.com,0,,,unknown,1440,1153,square,,MAIN
+akasaair.com,0,,,unknown,1440,2711,portrait,container-fluid,MAIN
+omanair.com,0,,,unknown,1440,2350,portrait,"content
+            
+            
+                    ",MAIN
+royalairmaroc.com,0,,,unknown,1425,670,landscape,hero hero--resume,DIV
+kenya-airways.com,0,,,unknown,1440,3533,portrait,,MAIN
+flysaa.com,0,,,unknown,1425,430,landscape,swiper swiper-hero swiper-initialized swiper-horizontal swiper-backface-hidden w-100 swiper-autoheight,DIV
+wyndhamhotels.com,0,,,unknown,1440,8449,portrait,outer-wrapper page homepage has-retail-banner extended-hero,DIV
+accor.com,0,,,unknown,1440,6486,portrait,,MAIN
+bestwestern.com,0,,,unknown,1425,810,landscape,hero,DIV
+mandarinoriental.com,0,,,unknown,1440,5154,portrait,main-site-container no-top-spacing alert-visible,MAIN
+ritzcarlton.com,0,,,unknown,1440,575,landscape,hero-video top-no-spacing bottom-no-spacing,DIV
+riu.com,0,,,unknown,1440,6430,portrait,u-overflow-hidden,MAIN
+citizenm.com,0,,,unknown,1440,6106,portrait,,MAIN
+slh.com,0,,,unknown,1440,4395,portrait,,MAIN
+carnival.com,0,,,unknown,1400,425,landscape,hero-header hero1,DIV
+ncl.com,0,,,unknown,1440,5140,portrait,container responsivegrid aem-GridColumn aem-GridColumn--default--12,MAIN
+princess.com,0,,,unknown,1440,9163,portrait,main-wrapper responsivegrid aem-GridColumn aem-GridColumn--default--12,MAIN
+hollandamerica.com,0,,,unknown,1440,590,landscape,homepagehero aem-GridColumn aem-GridColumn--default--12,DIV
+azamara.com,0,,,unknown,1440,2812,portrait,editorial-page ,MAIN
+silversea.com,0,,,unknown,1440,7844,portrait,,MAIN
+seabourn.com,0,,,unknown,1440,498,landscape,homepagehero aem-GridColumn aem-GridColumn--default--12,DIV
+avis.com,0,,,unknown,1440,6221,portrait,cSyxFW_main,MAIN
+budget.com,0,,,unknown,1440,666,landscape,res-heroBanner,DIV
+nationalcar.com,0,,,unknown,1212,2311,portrait,container responsivegrid page__content,MAIN
+thrifty.com,0,,,unknown,1440,3787,portrait,utils_layout__main__Mbpuv,MAIN
+europcar.com,0,,,unknown,1440,3681,portrait,,MAIN
+rentalcars.com,0,,,unknown,1440,1768,square,,MAIN
+discovercars.com,0,,,unknown,1440,6677,portrait,,MAIN
+amtrak.com,0,,,unknown,1440,3170,portrait,container responsivegrid page-content content-page aem-GridColumn aem-GridColumn--default--12,MAIN
+eurostar.com,0,,,unknown,1440,5027,portrait,,MAIN
+trenitalia.com,0,,,unknown,1440,2605,portrait,,MAIN
+renfe.com,0,,,unknown,1440,626,landscape,rvheroimage,DIV
+waze.com,0,,,unknown,1440,9591,portrait,,MAIN
+flixbus.com,0,,,unknown,1440,2414,portrait,,MAIN
+greyhound.com,0,,,unknown,1440,2613,portrait,,MAIN
+nationalrail.co.uk,0,,,unknown,1440,3754,portrait,sc-f5f82c22-2 fIGuNG,MAIN
+railyatri.in,0,,,unknown,1440,36,landscape,,SECTION
+confirmtkt.com,0,,,unknown,0,0,invalid,mobile-home-hero bg-primary md:hidden,SECTION
+kiwitaxi.com,0,,,unknown,1440,5333,portrait,page home-page,MAIN
+suntransfers.com,0,,,unknown,1440,7289,portrait,,MAIN
+hostelworld.com,0,,,unknown,1440,9504,portrait,,MAIN
+couchsurfing.com,0,,,unknown,1364,3621,portrait,flex w-full flex-1 flex-col,MAIN
+homestay.com,0,,,unknown,1440,626,landscape,hero-banner,SECTION
+misterbandb.com,0,,,unknown,1240,8464,portrait,hp-17sjmsx e80edl00,MAIN
+headout.com,0,,,unknown,1425,4222,portrait,content-main opacity_opacity.100 pointer-events_auto,MAIN
+civitatis.com,0,,,unknown,1440,2988,portrait,,MAIN
+tiqets.com,0,,,unknown,1200,3934,portrait,,MAIN
+musement.com,0,,,unknown,1440,3431,portrait,col wrapper,MAIN
+tourradar.com,0,,,unknown,1440,8835,portrait,,MAIN
+intrepidtravel.com,0,,,unknown,1440,5902,portrait,,MAIN
+gadventures.com,0,,,unknown,1440,4473,portrait,,MAIN
+exoticca.com,0,,,unknown,1440,13520,portrait,MainLayout-styles__LayoutWrapper-sc-b852e75b-0 gesklz,MAIN
+secretescapes.com,0,,,unknown,1440,485,landscape,hero-slider__container,DIV
+skift.com,0,,,unknown,1440,10805,portrait,c-main is-flush-top is-flush-bottom,MAIN
+lonelyplanet.com,0,,,unknown,1440,8037,portrait,mb-auto min-h-0 w-full focus:outline-none max-lg:flex-1 lg:mb-0,MAIN
+roughguides.com,0,,,unknown,1440,640,landscape,hero-section-container js-hero-section-container,SECTION
+frommers.com,0,,,unknown,1440,9997,portrait,,MAIN
+atlasobscura.com,0,,,unknown,1440,7378,portrait,,MAIN
+timeout.com,0,,,unknown,1102,13716,portrait,_grid_xppf9_1,MAIN
+travelandleisure.com,0,,,unknown,1440,12226,portrait,loc main ,MAIN
+cntraveler.com,0,,,unknown,1440,266,landscape,StickyHeroAdWrapper-kurarC gSpllZ ad-stickyhero ad-stickyhero-enable-mobile,DIV
+nationalgeographic.com,0,,,unknown,667,423,landscape,CardContainer__Card CardContainer__Card--hero CardContainer__Card--undefined,DIV
+roadtrippers.com,0,,,unknown,1440,4926,portrait,article-wrapper,MAIN
+ioverlander.com,0,,,unknown,1440,610,landscape,py-6 page-section page-section--bg-dunes,SECTION
+park4night.com,0,,,unknown,1440,855,landscape,hero,HEADER
+flightstats.com,0,,,unknown,1170,2040,portrait,container ,MAIN
+expertflyer.com,0,,,unknown,1440,6312,portrait,grid w-full grid-rows-[auto_1fr_auto] overflow-x-clip font-sans,MAIN
+prioritypass.com,0,,,unknown,1440,5652,portrait,print:pt-0 pt-[123px] min-[991px]:pt-[212px],MAIN
+cdc.gov,0,,,unknown,1440,1978,portrait,fade-in,MAIN
+weather.com,0,,,unknown,1240,5570,portrait,min-w-0 shrink grow md:pl-8,MAIN
+tui.com,0,,,unknown,1440,5711,portrait,,MAIN
+jet2holidays.com,0,,,unknown,1440,516,landscape,hero-recent-searches-banner-wrapper,DIV
+sunwing.ca,0,,,unknown,1440,2767,portrait,page__container,MAIN
+westjet.com,0,,,unknown,888,838,square,com-origin-targeted-hero-banner parbase,DIV
+pobeda.aero,0,,,unknown,1440,2328,portrait,dp-1vwgk15-root,MAIN
+airbaltic.com,0,,,unknown,1440,3681,portrait,,MAIN
+luxair.lu,0,,,unknown,1440,6323,portrait,,MAIN
+tunisair.com,0,,,unknown,1440,5543,portrait,main-content col,MAIN
+flynas.com,0,,,unknown,1440,2850,portrait,page-content,MAIN
+airmauritius.com,0,,,unknown,0,0,invalid,cookie-banner container-fluid hidden,SECTION
+taag.com,0,,,unknown,1440,620,landscape,carousel-container carousel-hero,DIV
+rwandair.com,0,,,unknown,1440,4996,portrait,container,MAIN
+hkexpress.com,0,,,unknown,1440,530,landscape,heroBannerCarousel MuiBox-root css-0,DIV
+greaterbay-airlines.com,0,,,unknown,1440,4444,portrait,container responsivegrid aem-GridColumn aem-GridColumn--default--12,MAIN
+nokair.com,0,,,unknown,1440,828,landscape,hero,DIV
+travel.rakuten.co.jp,0,,,unknown,360,211,landscape,bottom-sheet__content,MAIN
+jr-central.co.jp,0,,,unknown,750,6172,portrait,main,MAIN
+partiful.com,0,,,unknown,0,0,invalid,framer-hiUyi framer-n56gk framer-VkqFR framer-PWLJ9 framer-WwIpd framer-WuLeu framer-Y7sEZ framer-1xt76ab,MAIN
+ekispert.jp,0,,,unknown,1440,3667,portrait,,MAIN
+yahoo.co.jp,0,,,unknown,990,360,landscape,_1E44HBKDmnr5AqaU83dU3b,MAIN
+jtb.co.jp,0,,,unknown,1440,5562,portrait,main-content,MAIN
+hankyu-travel.com,0,,,unknown,1440,6236,portrait,,MAIN
+rurubu.travel,0,,,unknown,1440,922,landscape,HomeReactContainer,MAIN
+ikyu.co.jp,0,,,unknown,1440,690,landscape,section _c252 _pe _p2w _p31 _p4n,SECTION
+srt.co.kr,0,,,unknown,1440,1865,square,,MAIN
+yanolja.com,0,,,unknown,1425,7586,portrait,relative mx-auto flex w-full flex-col ds-pc:min-h-screen,MAIN
+hanatour.com,0,,,unknown,1440,6491,portrait,,MAIN
+ly.com,0,,,unknown,1440,440,landscape,figma-hero,SECTION
+cleartrip.com,0,,,unknown,1440,3942,portrait,,MAIN
+ixigo.com,0,,,unknown,1440,3352,portrait,min-w-[1240px] overflow-x-scroll,MAIN
+abhibus.com,0,,,unknown,323,22,landscape,h6 hero-title,H1
+treebo.com,0,,,unknown,1440,5761,portrait,body-wrapper,MAIN
+tiket.com,0,,,unknown,1440,6478,portrait,,MAIN
+nusatrip.com,0,,,unknown,1440,4878,portrait,,MAIN
+goldenrama.com,0,,,unknown,1440,5190,portrait,flex-1,MAIN
+panorama-tours.com,0,,,unknown,1150,820,landscape,page-content,MAIN
+mytour.vn,0,,,unknown,1440,2223,portrait,,MAIN
+vietnam.vn,0,,,unknown,1440,20899,portrait,flex min-h-screen flex-col items-center,MAIN
+redbus.my,0,,,unknown,1440,2884,portrait,main__sea-home-styles-module-scss-HF2CX,MAIN
+bookaway.com,0,,,unknown,1440,530,landscape,jsx-2001230712 hero,DIV
+trainline.eu,0,,,unknown,1440,2800,portrait,,MAIN
+interrail.eu,0,,,unknown,1440,4383,portrait,page-content page-content--default,MAIN
+eurail.com,0,,,unknown,1440,4383,portrait,page-content page-content--default,MAIN
+ns.nl,0,,,unknown,1440,3066,portrait,,MAIN
+oebb.at,0,,,unknown,1440,2304,portrait,content,MAIN
+cd.cz,0,,,unknown,1440,1377,square,main main--homepage,MAIN
+mavcsoport.hu,0,,,unknown,940,0,invalid,grid-12 clearfix,MAIN
+bdz.bg,0,,,unknown,1440,1428,square,,MAIN
+vy.no,0,,,unknown,1425,4853,portrait,css-1gmcq3q,MAIN
+vr.fi,0,,,unknown,1440,6900,portrait,,MAIN
+dsb.dk,0,,,unknown,1440,820,landscape,fixed z-10 h-[calc(100vh-var(--navigation-height))] w-full bg-surface-50 initial:opacity-0 initial:[clip-path:inset(100%_0_0_0)] lg:top-[var(--navigation-height)] initial:lg:[clip-path:inset(0_0_100%),SECTION
+irishrail.ie,0,,,unknown,1440,1657,square,,MAIN
+scotrail.co.uk,0,,,unknown,1170,2643,portrait,col-lg-12 page-with-banner page-with-offcanvas,MAIN
+avantiwestcoast.co.uk,0,,,unknown,1440,9283,portrait,,MAIN
+southeasternrailway.co.uk,0,,,unknown,1440,3739,portrait,is-homepage,MAIN
+wmata.com,0,,,unknown,1440,3290,portrait,core-container full-width-template,MAIN
+translink.ca,0,,,unknown,0,0,invalid,hero-promo-mobile-tabs-styling,STYLE
+ttc.ca,0,,,unknown,1440,4801,portrait,,MAIN
+metrolinx.com,0,,,unknown,1440,3853,portrait,relative drop-shadow-none,MAIN
+gotransit.com,0,,,unknown,1440,3752,portrait,relative flex-1 drop-shadow-none,MAIN
+monbus.es,0,,,unknown,1440,540,landscape,,MAIN
+movelia.es,0,,,unknown,1280,430,landscape,main-content col order-last,MAIN
+blablacar.com,0,,,unknown,1016,1124,square,_6igt6c1op _6igt6c1uo _6igt6c1qd _6igt6c1p9 _6igt6c1po _6igt6c1pt _6igt6c1nb _6igt6c21m _6igt6c28p _6igt6c25x _6igt6c26c _6igt6c2b4 _6igt6c2kz _6igt6c2dm _6igt6c2ih _6igt6c2y6,MAIN
+flixtrain.com,0,,,unknown,1440,3518,portrait,,MAIN
+regiojet.com,0,,,unknown,1440,2429,portrait,__className_86aea7,MAIN
+leoexpress.com,0,,,unknown,1440,3289,portrait,page padding,MAIN
+polskibus.com,0,,,unknown,1440,2414,portrait,,MAIN
+luxexpress.eu,0,,,unknown,1440,3124,portrait,MainLayout_main__KI3Tu,MAIN
+ostrovok.ru,0,,,unknown,1380,5186,portrait,DefaultLayout_content__jHY4T,MAIN
+lastminute.com,0,,,unknown,1440,5855,portrait,,MAIN
+bravofly.com,0,,,unknown,1440,2304,portrait,,MAIN
+rumbo.es,0,,,unknown,1440,6483,portrait,,MAIN
+volagratis.com,0,,,unknown,1440,4679,portrait,,MAIN
+destinia.com,0,,,unknown,1440,3132,portrait,content-wrapper,MAIN
+centraldereservas.com,0,,,unknown,1439,8174,portrait,core-content wrapper--content,MAIN
+priceTravel.com,0,,,unknown,1440,3550,portrait,ng-scope,MAIN
+cvc.com.br,0,,,unknown,1284,2244,portrait,content__home css-i68gvs,MAIN
+maxmilhas.com.br,0,,,unknown,1440,2860,portrait,,MAIN
+123milhas.com,0,,,unknown,1440,2217,portrait,,MAIN
+buser.com.br,0,,,unknown,1425,4828,portrait,home,MAIN
+queropassagem.com.br,0,,,unknown,1440,5111,portrait,home-2026,MAIN
+ado.com.mx,0,,,unknown,1440,400,landscape,page-row page-row-expanded,MAIN
+etn.com.mx,0,,,unknown,1440,8572,portrait,,MAIN
+pullmantur.com,0,,,unknown,1440,1843,square,,MAIN
+disneylandparis.com,0,,,unknown,1440,4343,portrait,l-main-wrapper,MAIN
+buschgardens.com,0,,,unknown,1440,3424,portrait,main-padded,MAIN
+sixflags.com,0,,,unknown,1440,5347,portrait,"mt-[var(--sticky-header-height,120px)]",MAIN
+cedarpoint.com,0,,,unknown,1440,2644,portrait,"mt-[var(--sticky-header-height,130px)] park-mobile:mt-0! [@media(max-width:1023px)]:park-banner:mt-[var(--sticky-header-height,190px)] header-tablet:park-banner:mt-[var(--sticky-header-height,181px)] ",MAIN
+knotts.com,0,,,unknown,1440,3203,portrait,"mt-[var(--sticky-header-height,130px)] park-mobile:mt-0! [@media(max-width:1023px)]:park-banner:mt-[var(--sticky-header-height,190px)] header-tablet:park-banner:mt-[var(--sticky-header-height,181px)] ",MAIN
+legoland.com,0,,,unknown,1440,704,landscape,page-content,MAIN
+europapark.de,0,,,unknown,1375,14319,portrait,,MAIN
+phantasialand.de,0,,,unknown,1440,11432,portrait,,MAIN
+efteling.com,0,,,unknown,1440,5727,portrait,main,MAIN
+portaventuraworld.com,0,,,unknown,1440,752,landscape,t-type-OutputHero t-id-HomeHero hero_root__fJgn5,DIV
+parquewarner.com,0,,,unknown,1440,750,landscape,bannerHero,DIV
+thorpepark.com,0,,,unknown,1440,4554,portrait,page-content,MAIN
+chessington.com,0,,,unknown,1440,6194,portrait,page-content,MAIN
+puydufou.com,0,,,unknown,1440,8269,portrait,,MAIN
+parcasterix.fr,0,,,unknown,1425,4368,portrait,,MAIN
+futuroscope.com,0,,,unknown,1440,6192,portrait,flex-grow,MAIN
+nps.gov,0,,,unknown,1440,540,landscape,HeroHomepage Hero,DIV
+recreation.gov,0,,,unknown,1440,475,landscape,nav-hero-wrap,SECTION
+thedyrt.com,0,,,unknown,1440,7372,portrait,AppPage_main__wlyJU AppPage_main--no-frame__pRBof,MAIN
+alltrails.com,0,,,unknown,1440,6590,portrait,,MAIN
+strava.com,0,,,unknown,1440,514,landscape,,MAIN
+outdooractive.com,0,,,unknown,1440,3760,portrait,oax-top-cont,MAIN
+onthesnow.com,0,,,unknown,1440,900,landscape,hero-wrapper,DIV
+snow-forecast.com,0,,,unknown,1440,884,landscape,homepage-hero,DIV
+epicpass.com,0,,,unknown,1440,511,landscape,heroCarousel heroCarousel--,DIV
+ikonpass.com,0,,,unknown,1440,5680,portrait,,MAIN
+vail.com,0,,,unknown,1440,456,landscape,hero_with_promotion hero_with_promotion--has_4x3 clip-supported,DIV
+aspensnowmass.com,0,,,unknown,1440,6453,portrait,,MAIN
+whistlerblackcomb.com,0,,,unknown,1440,454,landscape,hero_with_promotion hero_with_promotion--has_4x3 clip-supported,DIV
+chamonix.com,0,,,unknown,1440,4373,portrait,,MAIN
+stmoritz.com,0,,,unknown,1440,8247,portrait,,MAIN
+malaysia.travel,0,,,unknown,1440,900,landscape,banner_slider hero-controls-idle,SECTION
+indonesia.travel,0,,,unknown,1440,4294,portrait,min-h-[100vh],MAIN
+australia.com,0,,,unknown,1440,6976,portrait,,MAIN
+visitbritain.com,0,,,unknown,1170,11929,portrait,main u-flex-auto,MAIN
+ireland.com,0,,,unknown,1440,294,landscape,profile-hero loaded,DIV
+france.fr,0,,,unknown,1440,6626,portrait,AfHomePage,MAIN
+spain.info,0,,,unknown,1440,8639,portrait,i4t-include-elems,MAIN
+italia.it,0,,,unknown,1440,880,landscape,col-sm-12 newHeroAsset,SECTION
+germany.travel,0,,,unknown,1440,5897,portrait,,MAIN
+visitfinland.com,0,,,unknown,1440,11235,portrait,,MAIN
+visitdenmark.com,0,,,unknown,1440,5402,portrait,z-10,MAIN
+visitgreece.gr,0,,,unknown,1440,11900,portrait,w-full flex-1,MAIN
+visitdubai.com,0,,,unknown,1425,1680,square,main overflowXClip,MAIN
+visitsaudi.com,0,,,unknown,1440,4961,portrait,!h-auto,MAIN
+destinationcanada.com,0,,,unknown,1440,5143,portrait,relative,MAIN
+visitmexico.com,0,,,unknown,1440,293,landscape,hero,SECTION
+visitbrasil.com,0,,,unknown,1440,6131,portrait,,MAIN
+argentina.travel,0,,,unknown,1440,3550,portrait,min-h-screen,MAIN
+chile.travel,0,,,unknown,1440,6779,portrait,main-content,MAIN
+peru.travel,0,,,unknown,1440,5633,portrait,,MAIN
+colombia.travel,0,,,unknown,1180,0,invalid,large-12 columns,MAIN
+visitcostarica.com,0,,,unknown,1440,9318,portrait,main-content,MAIN
+heathrow.com,0,,,unknown,1360,856,landscape,flight-search-wrapper s3 relative comp-mb  hero-carousel-wrapper,DIV
+gatwickairport.com,0,,,unknown,0,0,invalid,custom-arrow hero-arrow-left custom-arrow-left icon-arrow-left slick-arrow,DIV
+manchesterairport.co.uk,0,,,unknown,1440,3062,portrait,,MAIN
+stanstedairport.com,0,,,unknown,1440,3087,portrait,,MAIN
+frankfurt-airport.com,0,,,unknown,1280,2817,portrait,fra-m-page-main,MAIN
+munich-airport.de,0,,,unknown,1440,500,landscape,keyvisual-slider flexslider pi-et-hero,DIV
+schiphol.nl,0,,,unknown,1440,5813,portrait,,MAIN
+adr.it,0,,,unknown,1440,513,landscape,lfr-layout-structure-item-hero-home lfr-layout-structure-item-48f66cf1-aa1a-1b6b-52bf-73d49cc41d7d ,DIV
+zurich-airport.com,0,,,unknown,1425,7403,portrait,,MAIN
+viennaairport.com,0,,,unknown,1530,3915,portrait,main,MAIN
+avinor.no,0,,,unknown,1425,930,landscape,page start-page,MAIN
+finavia.fi,0,,,unknown,1440,2487,portrait,site-content,MAIN
+istairport.com,0,,,unknown,1440,3301,portrait,,MAIN
+dubaiairports.ae,0,,,unknown,1440,5890,portrait,,MAIN
+bengaluruairport.com,0,,,unknown,1440,4116,portrait,,MAIN
+sydneyairport.com.au,0,,,unknown,1440,704,landscape,hero-banner,DIV
+melbourneairport.com.au,0,,,unknown,1440,2886,portrait,layout-main layout-main-min-height edge-lines,MAIN
+torontopearson.com,0,,,unknown,1425,7203,portrait,main,MAIN
+yvr.ca,0,,,unknown,1440,2376,portrait,yvr-main,MAIN
+flysfo.com,0,,,unknown,1440,630,landscape,hero-home hero-home--has-image,DIV
+jfkairport.com,0,,,unknown,1440,4270,portrait,,MAIN
+atl.com,0,,,unknown,1440,4422,portrait,site-main post-24841 page type-page status-publish hentry,MAIN
+miami-airport.com,0,,,unknown,1440,716,landscape,cd-hero ,SECTION
+aicm.com.mx,0,,,unknown,1240,978,square,site-main,MAIN
+lima-airport.com,0,,,unknown,1440,2049,portrait,tw-min-h-[60vh],MAIN
+directferries.com,0,,,unknown,1425,900,landscape,home-hero,SECTION
+ferryhopper.com,0,,,unknown,0,0,invalid,fh-modal__body,SECTION
+stenaline.com,0,,,unknown,1440,725,landscape,hero-front  adjust-for-video,DIV
+dfds.com,0,,,unknown,1440,5270,portrait,,MAIN
+brittany-ferries.co.uk,0,,,unknown,1440,0,invalid,container,MAIN
+irishferries.com,0,,,unknown,0,0,invalid,c-modal__content,MAIN
+vikingline.com,0,,,unknown,1440,3403,portrait,c-main,MAIN
+tallink.com,0,,,unknown,1440,4349,portrait,cwt-page__content ,MAIN
+colorline.com,0,,,unknown,1440,4619,portrait,,MAIN
+hurtigruten.com,0,,,unknown,1440,4002,portrait,,MAIN
+havilavoyages.com,0,,,unknown,1440,5889,portrait,grow,MAIN
+gnv.it,0,,,unknown,1440,4411,portrait,,MAIN
+trasmed.com,0,,,unknown,1440,3223,portrait,w-full,MAIN
+fredolsen.es,0,,,unknown,1440,2630,portrait,,MAIN
+navieraarmas.com,0,,,unknown,1440,5409,portrait,w-full bg-grey-300 mt-if-secondary-hidden global-container mx-auto,MAIN
+minoan.gr,0,,,unknown,1440,5925,portrait,main,MAIN
+anek.gr,0,,,unknown,1440,720,landscape,s-strip s-hero medium,SECTION
+bluestarferries.com,0,,,unknown,1440,720,landscape,s-strip s-hero medium,SECTION
+seajets.com,0,,,unknown,1440,5358,portrait,relative,MAIN
+hellenicseaways.gr,0,,,unknown,1440,720,landscape,s-strip s-hero medium,SECTION
+jadrolinija.hr,0,,,unknown,1440,1027,landscape,hero,SECTION
+bcferries.com,0,,,unknown,1440,4729,portrait,page-margin,MAIN
+alaskaferry.com,0,,,unknown,1440,3673,portrait,tours-wrp,SECTION
+interislander.co.nz,0,,,unknown,1440,6920,portrait,site-content,MAIN
+bluebridge.co.nz,0,,,unknown,1440,1118,square,,SECTION
+starferry.com.hk,0,,,unknown,1440,4568,portrait,,MAIN
+buquebus.com,0,,,unknown,1440,491,landscape,BQBHeroSearchBox_wrapper___aRty,DIV
+coloniaexpress.com,0,,,unknown,1440,852,landscape,,MAIN
+outdoorsy.com,0,,,unknown,1280,284,landscape,[[data-ai-hero]_&]:hidden,DIV
+rvshare.com,0,,,unknown,1440,401,landscape,home-2026-search-hero-shell,SECTION
+cruiseamerica.com,0,,,unknown,1440,3483,portrait,page,MAIN
+elmonterv.com,0,,,unknown,1440,6908,portrait,,MAIN
+roadbearrv.com,0,,,unknown,1440,6854,portrait,,MAIN
+apollocamper.com,0,,,unknown,1440,5344,portrait,,MAIN
+britz.com,0,,,unknown,1440,400,landscape,[ heroImage  tallBanner  ][ row ][  ],DIV
+maui-rentals.com,0,,,unknown,1440,5246,portrait,,MAIN
+jucy.com,0,,,unknown,1440,6990,portrait,,MAIN
+wickedcampers.com,0,,,unknown,1440,5450,portrait,roadtrip-home,MAIN
+indiecampers.com,0,,,unknown,1440,4860,portrait,min-h-dvh,MAIN
+roadsurfer.com,0,,,unknown,1110,92,landscape,caption-hero,DIV
+yescapa.com,0,,,unknown,1440,5025,portrait,,MAIN
+paulcamper.com,0,,,unknown,1440,12312,portrait,flex flex-col bg-white,MAIN
+goboony.com,0,,,unknown,1440,680,landscape,hero hero--home hero--with-social-proof us,DIV
+spaceshipsrentals.co.uk,0,,,unknown,1440,13438,portrait,wpbf-main wpbf-medium-2-3 wpbf-single-content wpbf-page-content,MAIN
+momondo.com,0,,,unknown,1440,4005,portrait,WKSW,MAIN
+airfarewatchdog.com,0,,,unknown,1440,8381,portrait,,MAIN
+scottscheapflights.com,0,,,unknown,1440,10568,portrait,jsx-dec5f7c7f7b16200 jsx-1259862864,MAIN
+going.com,0,,,unknown,1440,5059,portrait,jsx-dec5f7c7f7b16200 jsx-1259862864,MAIN
+fly4free.com,0,,,unknown,1440,360,landscape,hero,SECTION
+holidaypirates.com,0,,,unknown,1440,6288,portrait,,MAIN
+urlaubspiraten.de,0,,,unknown,1440,6472,portrait,,MAIN
+viajerospiratas.es,0,,,unknown,1440,7467,portrait,,MAIN
+chollometro.com,0,,,unknown,1440,11135,portrait,flex--expand-v width--all-12 bg--off ,MAIN
+check24.de,0,,,unknown,1425,8131,portrait,c24-content,MAIN
+almosafer.com,0,,,unknown,1440,406,landscape,alm-desktop-13b4x1d-heroContainer,DIV
+musafir.com,0,,,unknown,1440,6850,portrait,Layout_ut-main-cnt__lSMOC,MAIN
+thomasCook.in,0,,,unknown,1440,0,invalid,hero_section,DIV
+sotc.in,0,,,unknown,1440,762,landscape,main-content,MAIN
+coxandkings.com,0,,,unknown,1440,9794,portrait,pt-26 overflow-x-clip,MAIN
+kuoni.co.uk,0,,,unknown,1440,11459,portrait,,MAIN
+abercrombiekent.com,0,,,unknown,1440,600,landscape,highlighted-hero-section flex-col items-center justify-center max-h-[600px] no-animation no-parallax,SECTION
+butterfield.com,0,,,unknown,1440,10722,portrait,MuiBox-root css-1nob2mz,MAIN
+backroads.com,0,,,unknown,1440,4692,portrait,page--node site-content,MAIN
+tauck.com,0,,,unknown,1440,866,landscape,c-hero-search c-hero-search-backgrounds lazyloaded,DIV
+insightvacations.com,0,,,unknown,1440,602,landscape,component-wrapper component-wrapper__hero component-container,DIV
+topdeck.travel,0,,,unknown,1425,5489,portrait,main,MAIN
+kilroy.net,0,,,unknown,1440,4336,portrait,v-main,MAIN
+flightcentre.com,0,,,unknown,1440,2634,portrait,aurora-c7p0e4,MAIN
+helloworld.com.au,0,,,unknown,1440,470,landscape,__hero--agent,DIV
+houseoftravel.co.nz,0,,,unknown,1440,6771,portrait,,MAIN
+thomascook.com,0,,,unknown,0,0,invalid,contents,MAIN
+dertour.de,0,,,unknown,1440,8151,portrait,,MAIN
+alltours.de,0,,,unknown,1440,508,landscape,HeroSliderSection,DIV
+palladiumhotelgroup.com,0,,,unknown,1440,4188,portrait,,MAIN
+hardrockhotels.com,0,,,unknown,1440,774,landscape,customWidget vizADAHeroCarousel2Widget pageWidgetId1440648,DIV
+karismahotels.com,0,,,unknown,1440,5401,portrait,,MAIN
+velasresorts.com,0,,,unknown,1440,900,landscape,uk-position-relative uk-visible-toggle hero-slideshow uk-overflow-hidden uk-slideshow,DIV
+generatorhostels.com,0,,,unknown,1440,4929,portrait,,MAIN
+meininger-hotels.com,0,,,unknown,1440,8452,portrait,,MAIN
+st-christophers.co.uk,0,,,unknown,1440,29439,portrait,"
+page-container  
+page--home 
+palette--inherit theme--inherit",MAIN
+yha.org.uk,0,,,unknown,1440,54,landscape,usp-banner  has-hero,SECTION
+hihostels.com,0,,,unknown,1440,64,landscape,nav_component w-variant-dd866659-1d7d-6447-6461-66ca86ca367f is-nav-on-hero,DIV
+nomadsworld.com,0,,,unknown,1440,8372,portrait,,MAIN
+basebackpackers.com,0,,,unknown,1440,2774,portrait,page-homepage,SECTION
+onefamhostels.com,0,,,unknown,1440,5475,portrait,home wp-singular page-template-default page page-id-575 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor wp-child-theme-hello-elementor-child hello-elementor-default elementor-default eleme,BODY
+airbnb.org,0,,,unknown,1425,7034,portrait,m1vekm8z atm_9s_1txwivl atm_fc_1y6m0gg atm_ax_kb7nvz atm_ar_1bp4okc atm_lo_13n212w atm_le_wl67f7 atm_lj_ysyi00 atm_li_1kk8o5g msertq4 atm_187blal_u29brm dir dir-ltr,MAIN
+plumguide.com,0,,,unknown,1440,9187,portrait,bg-sand-50,MAIN
+limehome.com,0,,,unknown,1280,4768,portrait,m-auto max-w-screen-xl,MAIN
+bobw.co,0,,,unknown,1440,11108,portrait,,MAIN
+kasa.com,0,,,unknown,1440,6394,portrait,LandingPage-module-scss-module__EZU-na__landing-page,MAIN
+landing.com,0,,,unknown,1440,636,landscape,hero,SECTION
+marriottbonvoy.com,0,,,unknown,1440,4411,portrait,,MAIN
+all.accor.com,0,,,unknown,1336,2393,portrait,container responsivegrid,MAIN
+wyndhamrewards.com,0,,,unknown,1408,621,landscape,herocontainer base parbase,DIV
+gha.com,0,,,unknown,1440,816,landscape,MultipleHeroBannersPageBlock_cardSwiper__Nay2y w-full relative,DIV
+preferredhotels.com,0,,,unknown,1440,852,landscape,hero,SECTION
+mrandmrssmith.com,0,,,unknown,1440,2410,portrait,global,MAIN
+kiwi.com,0,,,unknown,1440,5125,portrait,flex grow flex-col,MAIN
+dohop.com,0,,,unknown,1440,891,landscape,home-section-hero,SECTION
+tripit.com,0,,,unknown,1440,858,landscape,background-image paragraph paragraph--type--component-global-heroes paragraph--view-mode--default,DIV
+awardwallet.com,0,,,unknown,1440,4498,portrait,page-landing__main,MAIN
+point.me,0,,,unknown,1440,736,landscape,relative w-full container-rows-grid row-1-0 row-6-0 container-cols-grid hero-spacing bg-deep-purple text-white,SECTION
+seats.aero,0,,,unknown,1272,2159,portrait,,MAIN
+roame.travel,0,,,unknown,1440,4507,portrait,w-full,MAIN
+vacasa.com,0,,,unknown,1440,560,landscape,w-100 position-absolute hero-img,DIV
+evolve.com,0,,,unknown,1440,422,landscape,,SECTION
+turnkeyvr.com,0,,,unknown,1440,560,landscape,w-100 position-absolute hero-img,DIV
+inspirato.com,0,,,unknown,1440,8412,portrait,min-h-svh bg-white,MAIN
+thirdhome.com,0,,,unknown,1440,7185,portrait,,MAIN
+homeexchange.com,0,,,unknown,1440,8471,portrait,,MAIN
+intervac-homeexchange.com,0,,,unknown,1440,608,landscape,startpage-hero,SECTION
+workaway.info,0,,,unknown,1440,10285,portrait,,MAIN
+hometogo.com,0,,,unknown,1440,7492,portrait,main,MAIN
+novasol.com,0,,,unknown,1440,48,landscape,Hero_uspsCentered__4Cx9U,DIV
+centerparcs.com,0,,,unknown,1425,835,landscape,prehomeCom-discover r-Grid,SECTION
+maeva.com,0,,,unknown,1440,4860,portrait,home-maeva-france,MAIN
+homair.com,0,,,unknown,1440,7407,portrait,relative,MAIN
+eurocamp.co.uk,0,,,unknown,1440,6404,portrait,,MAIN
+albatross.com,0,,,unknown,1440,3101,portrait,sections_group,MAIN
+vacanceselect.com,0,,,unknown,1440,3470,portrait,,MAIN
+gites-de-france.com,0,,,unknown,1440,4520,portrait,g2f-main g2f-container,MAIN
+clevacances.com,0,,,unknown,1440,4822,portrait,front-p9ocur,MAIN
+escapadarural.com,0,,,unknown,0,0,invalid,iconify i-heroicons:share shrink-0 size-6,SPAN
+tuscasasrurales.com,0,,,unknown,1440,7122,portrait,fluid fluidbis contenido push,MAIN
+pousadas.pt,0,,,unknown,1440,964,landscape,hero-banner-carousel aem-GridColumn aem-GridColumn--default--12,DIV
+hoseasons.co.uk,0,,,unknown,1440,48,landscape,Hero_uspsCentered__4Cx9U,DIV
+cottages.com,0,,,unknown,1440,48,landscape,Hero_uspsCentered__4Cx9U,DIV
+nationaltrust.org.uk,0,,,unknown,1440,5238,portrait,sc-lkciiw-0 vmQWg,MAIN
+landmarktrust.org.uk,0,,,unknown,1440,3106,portrait,homePage,MAIN
+canopyandstars.co.uk,0,,,unknown,1440,533,landscape,hero,DIV
+glampinghub.com,0,,,unknown,1440,2980,portrait,hide-searcher-navbar page-home page-landing-hero-search modal-open,BODY
+tentrr.com,0,,,unknown,1440,2094,portrait,main-content content-for-layout focus-none,MAIN
+worldnomads.com,0,,,unknown,1440,345,landscape,Hero Hero--bg Hero--image  ,SECTION
+allianztravelinsurance.com,0,,,unknown,1440,820,landscape,container container-hero_image_with_content_box component container-hero_image_with_content_box-component,DIV
+imglobal.com,0,,,unknown,1440,898,landscape,sf_colsIn img-hero-banner img-hero-banner--tall img-hero-banner--home overflow-x-clip,DIV
+geobluetravelinsurance.com,0,,,unknown,1440,5048,portrait,,MAIN
+safetywing.com,0,,,unknown,1440,1340,square,"group/hero relative h-[665px] w-full overflow-clip bg-[linear-gradient(180deg,#45BEBF_8.95%,#5DC6C7_13.25%,#84D4D5_20.25%,#A5DFE0_27.79%,#BEE8E8_35.86%,#D0EFEF_43.93%,#DAF2F2_52.55%,#DEF4F4_62.77%)] m",DIV
+heymondo.com,0,,,unknown,1425,76,landscape,main-header fixed z-50 w-full lg:py-4.5 hero top-0,HEADER
+iati.es,0,,,unknown,1440,7181,portrait,,MAIN
+axa-schengen.com,0,,,unknown,1440,7388,portrait,flex-fill,SECTION
+europ-assistance.com,0,,,unknown,1440,3095,portrait,elementor-element elementor-element-2ff4b25 e-con-full e-flex e-con e-parent e-lazyloaded,MAIN
+mapfre.com,0,,,unknown,1440,12259,portrait,wp-block-group is-layout-constrained wp-block-group-is-layout-constrained,MAIN
+universal-assistance.com,0,,,unknown,1440,4829,portrait,front-page,MAIN
+intermundial.es,0,,,unknown,1440,5630,portrait,main-container,MAIN
+insuremytrip.com,0,,,unknown,1440,3740,portrait,main,MAIN
+comparethemarket.com,0,,,unknown,1200,7048,portrait,,MAIN
+confused.com,0,,,unknown,1440,7239,portrait,,MAIN
+blacklane.com,0,,,unknown,1440,7202,portrait,Layout_main__h283P,MAIN
+lyft.com,0,,,unknown,1440,4815,portrait,sc-2bcdf7f3-0 jxWLGl,MAIN
+bolt.eu,0,,,unknown,1440,10494,portrait,,MAIN
+cabify.com,0,,,unknown,1440,2493,portrait,,MAIN
+careem.com,0,,,unknown,1440,2046,portrait,flex-1,MAIN
+curb.com,0,,,unknown,1440,3947,portrait,clearfix width-100,MAIN
+waymo.com,0,,,unknown,1440,9177,portrait,,MAIN
+carmellimo.com,0,,,unknown,1440,3196,portrait,,MAIN
+supershuttle.com,0,,,unknown,1440,4064,portrait,home wp-singular page-template page-template-page_hero-single-cta page-template-page_hero-single-cta-php page page-id-7 wp-theme-genesis wp-child-theme-supershuttle sp-easy-accordion-enabled safari os,BODY
+flibco.com,0,,,unknown,1440,4756,portrait,main-container clearfix,MAIN
+nationalexpress.com,0,,,unknown,1440,2549,portrait,m_8983817 mantine-AppShell-main,MAIN
+firstbus.co.uk,0,,,unknown,1440,2230,portrait,,MAIN
+go-ahead.com,0,,,unknown,1440,5972,portrait,site-main,MAIN
+aircoach.ie,0,,,unknown,1440,589,landscape,page-header bg-light mb-7 image-header,SECTION
+flybus.is,0,,,unknown,1425,6502,portrait,Main-module-scss-module__tli4iW__main,MAIN
+arlandaexpress.se,0,,,unknown,1425,5254,portrait,StandardPageLayout-module__mainContent___-hk8m,MAIN
+flytoget.no,0,,,unknown,1440,2521,portrait,maincontent,MAIN
+malpensaexpress.it,0,,,unknown,176,40,landscape,button herospace primary-on-dark,BUTTON
+heathrowexpress.com,0,,,unknown,1440,12371,portrait,flex-1,MAIN
+kliaekspres.com,0,,,unknown,1440,758,landscape,sec_standard lightbg_txt general-partial-view,SECTION
+upexpress.com,0,,,unknown,1440,2291,portrait,relative flex-1,MAIN
+spothero.com,0,,,unknown,1440,4286,portrait,css-0,MAIN
+parkwhiz.com,0,,,unknown,1440,554,landscape,hero-search padding-top-xs-80 padding-top-md-120 padding-bottom-md-40 padding-bottom-xs-80 padding-bottom-sm-0,DIV
+justpark.com,0,,,unknown,1440,827,landscape,searchHero-w1X5y-0 searchHeroWithSlot-MehrH-0,DIV
+yourparkingspace.co.uk,0,,,unknown,1440,5442,portrait,,MAIN
+apcoa.com,0,,,unknown,1440,4150,portrait,site-main,MAIN
+interparking.com,0,,,unknown,1430,10276,portrait,mb-auto,MAIN
+saba.es,0,,,unknown,1440,6686,portrait,saba-content,SECTION
+empark.com,0,,,unknown,1440,4689,portrait,,MAIN
+skyparksecure.com,0,,,unknown,1440,7587,portrait,,MAIN
+aph.com,0,,,unknown,1440,3125,portrait,,MAIN
+looking4.com,0,,,unknown,1440,1111,square,,MAIN
+parkvia.com,0,,,unknown,1440,3615,portrait,,MAIN
+theparking-spot.com,0,,,unknown,1424,5165,portrait,main-container__body,MAIN
+ticketmaster.com,0,,,unknown,1440,5100,portrait,,MAIN
+todaytix.com,0,,,unknown,1440,4212,portrait,,MAIN
+londontheatre.co.uk,0,,,unknown,1440,5140,portrait,,MAIN
+officiallondontheatre.com,0,,,unknown,1440,3330,portrait,site-main,MAIN
+feverup.com,0,,,unknown,1440,4189,portrait,,MAIN
+eventbrite.com,0,,,unknown,1440,3664,portrait,HomePageContainer-module-scss-module___hQ2aq__root,MAIN
+meetup.com,0,,,unknown,1440,4009,portrait,relative flex flex-grow flex-col items-center overflow-hidden pb-12 text-gray7 smd:pb-16,MAIN
+withlocals.com,0,,,unknown,1440,10276,portrait,,MAIN
+toursbylocals.com,0,,,unknown,1440,10105,portrait,,MAIN
+contexttravel.com,0,,,unknown,1440,6772,portrait,display:block,MAIN
+takewalks.com,0,,,unknown,1440,7599,portrait,flex-1,MAIN
+guruwalk.com,0,,,unknown,1440,4230,portrait,"pointer-events-none absolute top-0 left-0 w-[calc(100%-var(--assistant-panel-width,0px))] md:pb-0 pb-[calc(4rem+var(--safe-area-bottom)+var(--assistant-bar-height,0px))]",MAIN
+freetour.com,0,,,unknown,1440,2456,portrait,page-content home,MAIN
+civitatis.es,0,,,unknown,1440,2988,portrait,,MAIN
+adrenaline.com.au,0,,,unknown,0,0,invalid,,MAIN
+virginexperiencedays.co.uk,0,,,unknown,1440,4572,portrait,,MAIN
+buyagift.co.uk,0,,,unknown,1440,5356,portrait,_0Jrs9HjGX twII0M9dD gqVtts1ja rgGykzaEK xZfR3wX_m,MAIN
+redletterdays.co.uk,0,,,unknown,1440,4908,portrait,_0Jrs9HjGX twII0M9dD gqVtts1ja rgGykzaEK xZfR3wX_m,MAIN
+pelago.com,0,,,unknown,1440,2318,portrait,,MAIN
+veltra.com,0,,,unknown,1440,468,landscape,vw-hero,DIV
+activityjapan.com,0,,,unknown,1440,630,landscape,top--hero,DIV
+peek.com,0,,,unknown,1440,4733,portrait,flex-1,MAIN
+fareharbor.com,0,,,unknown,1440,635,landscape,section-1 padding-bottom-2xl margin-top-0 feature-row hero-container surface-blue section-full-width,SECTION
+bokun.io,0,,,unknown,1440,11913,portrait,,MAIN
+checkfront.com,0,,,unknown,1320,4046,portrait,container,MAIN
+rezdy.com,0,,,unknown,1440,8072,portrait,main,MAIN
+trekksoft.com,0,,,unknown,1440,7419,portrait,,MAIN
+regiondo.com,0,,,unknown,1440,4609,portrait,site-main,MAIN
+ventrata.com,0,,,unknown,1440,7421,portrait,,MAIN
+prioticket.com,0,,,unknown,1440,5780,portrait,main-wrapper,MAIN
+citypass.com,0,,,unknown,1440,3077,portrait,,MAIN
+turbopass.com,0,,,unknown,1440,636,landscape,styles-module__jTo9ca__heroContainer,DIV
+parks.canada.ca,0,,,unknown,1440,4620,portrait,,MAIN
+doc.govt.nz,0,,,unknown,1440,600,landscape,doc-main-layout__hero,SECTION
+tanzaniaparks.go.tz,0,,,unknown,1440,5850,portrait,font-sans bg-light w-full min-h-screen antialiased,MAIN
+sernanp.gob.pe,0,,,unknown,1440,6075,portrait,yield js-sharect ,MAIN
+naturvardsverket.se,0,,,unknown,1440,3459,portrait,,MAIN
+metsa.fi,0,,,unknown,1440,5070,portrait,main,MAIN
+miljodirektoratet.no,0,,,unknown,1440,3441,portrait,t_front-page__main,MAIN
+vatnajokulsthjodgardur.is,0,,,unknown,1440,10369,portrait,Layout_layout__main__NtmfY,MAIN
+thingvellir.is,0,,,unknown,1440,4311,portrait,,MAIN
+serengeti.com,0,,,unknown,1440,11032,portrait,,MAIN
+masaimara.com,0,,,unknown,1440,11066,portrait,,MAIN
+machupicchu.gob.pe,0,,,unknown,796,0,invalid,site-main,MAIN
+incatrailreservations.com,0,,,unknown,1440,16220,portrait,home wp-singular page-template-default page page-id-1217 wp-custom-logo wp-embed-responsive wp-theme-incatrail-adventure has-hero,BODY
+decathlon.com,0,,,unknown,1440,4900,portrait,content-for-layout,MAIN
+switchbacktravel.com,0,,,unknown,1300,82,landscape,slideshow-content,SECTION
+cleverhiker.com,0,,,unknown,1440,8899,portrait,wp-block-group site-content,MAIN
+backpacker.com,0,,,unknown,1440,10699,portrait,l-main,MAIN
+outsideonline.com,0,,,unknown,1440,9800,portrait,l-main,MAIN
+climbing.com,0,,,unknown,1440,5585,portrait,l-main,MAIN
+desnivel.com,0,,,unknown,1440,11290,portrait,main,MAIN
+barrabes.com,0,,,unknown,1440,3377,portrait,view--home,MAIN
+alpenverein.de,0,,,unknown,1440,12382,portrait,,MAIN
+cai.it,0,,,unknown,1140,3585,portrait,site-main,MAIN
+fedme.es,0,,,unknown,1440,7591,portrait,site-main post-68448 page type-page status-publish has-post-thumbnail hentry,MAIN
+americanalpineclub.org,0,,,unknown,1020,2323,portrait,,MAIN
+alpineclubofcanada.ca,0,,,unknown,1440,2849,portrait,site-main post-25173 page type-page status-publish hentry,MAIN
+explore.co.uk,0,,,unknown,1440,4865,portrait,,MAIN
+exodus.co.uk,0,,,unknown,1440,5735,portrait,main,MAIN
+keadventure.com,0,,,unknown,1380,7447,portrait,site-body,MAIN
+mountainkingdoms.com,0,,,unknown,1440,3345,portrait,site-wrap,MAIN
+adventureconsultants.com,0,,,unknown,1440,8089,portrait,,MAIN
+alpineascents.com,0,,,unknown,0,0,invalid,mobile-menu,SECTION
+rmiguides.com,0,,,unknown,1440,900,landscape,section-home__hero section-home__hero--background-video,SECTION
+exumguides.com,0,,,unknown,1200,581,landscape,wpb_revslider_element wpb_content_element revslider-hero,DIV
+nols.edu,0,,,unknown,786,322,landscape,fl-module fl-module-info-box fl-node-l06zs4r27aiw infobox-hero-light nols-info-wrap,DIV
+outwardbound.org,0,,,unknown,1440,12178,portrait,,MAIN
+evo.com,0,,,unknown,1440,9054,portrait,,MAIN
+skimag.com,0,,,unknown,1440,7086,portrait,l-main,MAIN
+tetongravity.com,0,,,unknown,1440,6332,portrait,MuiBox-root css-0,MAIN
+j2ski.com,0,,,unknown,1200,5416,portrait,m25,MAIN
+skiclub.co.uk,0,,,unknown,1440,7320,portrait,,MAIN
+inghams.co.uk,0,,,unknown,1440,706,landscape,c-heroes hero-banner--full-bleed,DIV
+neilson.co.uk,0,,,unknown,1440,476,landscape,header__hero position-relative,DIV
+markwarner.co.uk,0,,,unknown,1440,7652,portrait,main main__home homePage,MAIN
+sunweb.com,0,,,unknown,1400,1085,square,,MAIN
+skisolutions.com,0,,,unknown,1440,10383,portrait,main,MAIN
+zizoo.com,0,,,unknown,1440,10313,portrait,,MAIN
+boatsetter.com,0,,,unknown,1440,2966,portrait,,MAIN
+getmyboat.com,0,,,unknown,1200,229,landscape,Hero_root__s0nOh,DIV
+borrowaboat.com,0,,,unknown,1440,10313,portrait,,MAIN
+moorings.com,0,,,unknown,1440,7605,portrait,home wp-singular page-template-default page page-id-5285 wp-embed-responsive wp-theme-moorings has-hero-search,BODY
+sunsail.com,0,,,unknown,1440,7059,portrait,home wp-singular page-template-default page page-id-8 wp-embed-responsive wp-theme-sunsail has-hero-search,BODY
+dreamyachtcharter.com,0,,,unknown,1440,9684,portrait,,MAIN
+kiriacoulis.com,0,,,unknown,1440,6812,portrait,,MAIN
+boatinternational.com,0,,,unknown,1440,9167,portrait,main,MAIN
+cruisemapper.com,0,,,unknown,1440,829,landscape,mainMap,MAIN
+cruisedeckplans.com,0,,,unknown,1440,1150,square,page-wrapper,MAIN
+cruiseline.com,0,,,unknown,1440,5367,portrait,,MAIN
+padi.com,0,,,unknown,1440,5623,portrait,min-h-screen bg-surface-white,MAIN
+scubadiving.com,0,,,unknown,1170,5031,portrait,,MAIN
+divernet.com,0,,,unknown,237,229,square,elementor elementor-125137 e-loop-item e-loop-item-143294 post-143294 post type-post status-publish format-standard has-post-thumbnail hentry category-scuba-news tag-help-for-heroes tag-rnli tag-vobst,DIV
+zubludiving.com,0,,,unknown,1425,5679,portrait,pt-16 md:pt-20 focus:outline-none,MAIN
+liveaboard.com,0,,,unknown,1440,3484,portrait,bg-white,MAIN
+bluewaterdivetravel.com,0,,,unknown,1440,6806,portrait,mx-auto w-full,MAIN
+dive-the-world.com,0,,,unknown,1140,3654,portrait,,MAIN
+golfnow.com,0,,,unknown,1440,4925,portrait,min-h-screen home-widget-container,MAIN
+teeoff.com,0,,,unknown,1440,4775,portrait,home-widget-container,SECTION
+golfpass.com,0,,,unknown,1440,4403,portrait,Page-main,MAIN
+top100golfcourses.com,0,,,unknown,1440,5459,portrait,flex min-h-screen flex-col,MAIN
+golfdigest.com,0,,,unknown,1440,14527,portrait,,MAIN
+golf.com,0,,,unknown,1440,6641,portrait,content,MAIN
+pgatour.com,0,,,unknown,996,2833,portrait,,MAIN
+yourgolftravel.com,0,,,unknown,1200,106,landscape,aria-hero-wrapper,DIV
+gleneagles.com,0,,,unknown,1440,11660,portrait,main,MAIN
+standrews.com,0,,,unknown,1440,792,landscape,sc-jWUzzU kqXRpx center  isStage carousel-hero-banner,DIV
+pinehurst.com,0,,,unknown,1440,675,landscape,hero-video top-mask lazyloaded,DIV
+bandondunesgolf.com,0,,,unknown,1440,980,landscape,header-slider,SECTION
+nomadlist.com,0,,,unknown,1440,800,landscape,hero,DIV
+hackerparadise.org,0,,,unknown,1440,7117,portrait,flex-1,MAIN
+remoti.io,0,,,unknown,1440,9917,portrait,main-wrapper,MAIN
+thepointsguy.com,0,,,unknown,1440,5961,portrait,overflow-x-clip,MAIN
+onemileatatime.com,0,,,unknown,1440,7491,portrait,site-main,MAIN
+viewfromthewing.com,0,,,unknown,790,5261,portrait,site-content content,MAIN
+headforpoints.com,0,,,unknown,1440,3623,portrait,main,MAIN
+millionmilesecrets.com,0,,,unknown,1440,3799,portrait,content-wrapper,SECTION
+upgradedpoints.com,0,,,unknown,1440,7050,portrait,,MAIN
+godsavethepoints.com,0,,,unknown,780,4796,portrait,site-main,MAIN
+travelcodex.com,0,,,unknown,1140,1972,portrait,content,MAIN
+princeoftravel.com,0,,,unknown,1440,5951,portrait,"flex-1 bg-background pt-[calc(4rem+var(--top-offer-h,0px)+env(safe-area-inset-top,0px))] md:pt-[calc(5rem+var(--top-offer-h,0px)+env(safe-area-inset-top,0px))]",MAIN
+pointhacks.com.au,0,,,unknown,1440,7486,portrait,main p-0,MAIN
+australianfrequentflyer.com.au,0,,,unknown,1248,3472,portrait,main,MAIN
+planespotters.net,0,,,unknown,1440,1871,portrait, ,MAIN
+simpleflying.com,0,,,unknown,1440,7983,portrait,w-content  ,MAIN
+onemileatatime.net,0,,,unknown,1440,7491,portrait,site-main,MAIN
+airlinegeeks.com,0,,,unknown,1200,4629,portrait,fw-template-composable-blocks site-main lg:max-w-screen-lg xl:max-w-screen-xl mx-auto mb-20 lg:mb-30 mt-20 lg:mt-30,MAIN
+ch-aviation.com,0,,,unknown,1440,8090,portrait,,MAIN
+centreforaviation.com,0,,,unknown,1440,7158,portrait,,SECTION
+routesonline.com,0,,,unknown,1440,80,landscape,searchContainer,SECTION
+flightglobal.com,0,,,unknown,822,3015,portrait,,MAIN
+travelpulse.com,0,,,unknown,1424,97,landscape,hero-image-with-options h-100 w-100,DIV
+hosteltur.com,0,,,unknown,1440,6018,portrait,main,MAIN
+agenttravel.es,0,,,unknown,990,2377,portrait,,MAIN
+ladevi.info,0,,,unknown,1440,0,invalid,openings-wrapper,SECTION
+panrotas.com.br,0,,,unknown,1440,13910,portrait,flex-grow-1,MAIN
+ttgmedia.com,0,,,unknown,1320,7477,portrait,main-content col order-first,MAIN
+traveldailymedia.com,0,,,unknown,1440,29002,portrait,site-main,MAIN
+hospitalitynet.org,0,,,unknown,1440,6068,portrait,,MAIN
+boutiquehotelnews.com,0,,,unknown,1440,2037,portrait,site-main post-21077 page type-page status-publish has-post-thumbnail hentry,MAIN
+tophotel.news,0,,,unknown,1440,3827,portrait,site-main post-574922 page type-page status-publish hentry,MAIN
+visitlondon.com,0,,,unknown,1440,5590,portrait,main,MAIN
+barcelonaturisme.com,0,,,unknown,1440,900,landscape,cmp-hero-component teaser cmp-teaser--hero-home aem-GridColumn aem-GridColumn--default--12,DIV
+veneziaunica.it,0,,,unknown,1440,5540,portrait,grid-container,MAIN
+visitflorence.com,0,,,unknown,1440,598,landscape,hero,SECTION
+visitberlin.de,0,,,unknown,1440,10866,portrait,,MAIN
+muenchen.de,0,,,unknown,1440,9381,portrait,,MAIN
+wien.info,0,,,unknown,1440,700,landscape,header header_hero-video-container,DIV
+iamsterdam.com,0,,,unknown,1440,5247,portrait,,MAIN
+visitcopenhagen.com,0,,,unknown,1440,6580,portrait,z-10,MAIN
+visitstockholm.com,0,,,unknown,1440,7963,portrait,,MAIN
+visitoslo.com,0,,,unknown,1425,7421,portrait,bg-pure-white frontpage,MAIN
+myhelsinki.fi,0,,,unknown,1440,11242,portrait,entry-content wp-block-post-content has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained,MAIN
+visitreykjavik.is,0,,,unknown,1440,7376,portrait,,MAIN
+visitporto.travel,0,,,unknown,1440,3752,portrait,,MAIN
+visitdublin.com,0,,,unknown,1440,4582,portrait,,MAIN
+edinburgh.org,0,,,unknown,1440,5291,portrait,content-wrapper mt-6 min-h-[80vh],SECTION
+visitmanchester.com,0,,,unknown,1440,32,landscape,panel-header hamburger theme_1 main with-hero,HEADER
+visitscotland.com,0,,,unknown,1440,6881,portrait,vs-main-container,MAIN
+visitwales.com,0,,,unknown,1200,6809,portrait,,MAIN
+discoverireland.ie,0,,,unknown,1440,6480,portrait,,MAIN
+atout-france.fr,0,,,unknown,1440,4534,portrait,,MAIN
+provenceguide.com,0,,,unknown,1424,3592,portrait,,MAIN
+cotedazurfrance.fr,0,,,unknown,1440,6829,portrait,content-type-page front_page,MAIN
+normandie-tourisme.fr,0,,,unknown,1440,6019,portrait,,MAIN
+bretagne-vacances.com,0,,,unknown,1440,5014,portrait,its--wrapper-full ,MAIN
+andalucia.org,0,,,unknown,1440,849,landscape,contentRender contentRender_8 contentRender_type_widget contentRender_name_plugins_collections_type_custom_header_slides contentRender_name_plugins_collections_template_custom_mosaic_hero_grid,DIV
+turismo.gal,0,,,unknown,1440,5120,portrait,,MAIN
+turismodecanarias.com,0,,,unknown,1440,4466,portrait,,MAIN
+illesbalears.travel,0,,,unknown,1440,550,landscape,,MAIN
+toscana.info,0,,,unknown,1440,8938,portrait,,MAIN
+visitsicily.info,0,,,unknown,1440,4452,portrait,clearfix width-100,MAIN
+tirol.at,0,,,unknown,1440,8767,portrait,,MAIN
+salzburgerland.com,0,,,unknown,1440,20322,portrait,,MAIN
+geneve.com,0,,,unknown,1440,9219,portrait,,MAIN
+zuerich.com,0,,,unknown,173,16,landscape,logo-theme-bottom text-scheme-invert tablet:!text-scheme-invert [.has-hero-image_&]:text-white,DIV
+luzern.com,0,,,unknown,1425,4874,portrait,pagebody,MAIN
+interlaken.ch,0,,,unknown,1425,4027,portrait,pagebody,MAIN
+prague.eu,0,,,unknown,1440,6214,portrait,content,MAIN
+budapestinfo.hu,0,,,unknown,1440,2710,portrait,pt-[3.75rem] lg:pt-[13.375rem],MAIN
+visitljubljana.com,0,,,unknown,1440,17157,portrait,main js-main,MAIN
+zagreb-touristinfo.hr,0,,,unknown,1440,11435,portrait,bottom-wrap,MAIN
+santorini.net,0,,,unknown,1440,6286,portrait,,MAIN
+osaka-info.jp,0,,,unknown,1440,9968,portrait,,MAIN
+kyoto.travel,0,,,unknown,1440,13731,portrait,md:mt-[144px] mt-[90px],MAIN
+visit-hokkaido.jp,0,,,unknown,1440,7880,portrait,,MAIN
+bali.com,0,,,unknown,1440,7648,portrait,,MAIN
+bhutan.travel,0,,,unknown,1440,7827,portrait,,MAIN
+maharashtratourism.gov.in,0,,,unknown,1440,6587,portrait,site-main,MAIN
+uttarakhandtourism.gov.in,0,,,unknown,1440,6919,portrait,,MAIN
+discoverlosangeles.com,0,,,unknown,843,321,landscape,dla-hero-wrapper dla-hero-image-container,FIGURE
+choosechicago.com,0,,,unknown,1440,8619,portrait,,MAIN
+miamiandbeaches.com,0,,,unknown,1440,11051,portrait,,MAIN
+visitlasvegas.com,0,,,unknown,1440,6455,portrait,root-panel panel-page no-hero site-primary,DIV
+visitorlando.com,0,,,unknown,0,0,invalid,header-menu-container styled-scrollbar,SECTION
+washington.org,0,,,unknown,1440,7566,portrait,main-content,MAIN
+neworleans.com,0,,,unknown,1440,810,landscape,contentRender contentRender_11 contentRender_type_widget contentRender_name_plugins_collections_type_custom_header_slides contentRender_name_plugins_collections_template_custom_core_v2_hero_slideshow_,DIV
+visitaustin.org,0,,,unknown,1440,648,landscape,contentRender contentRender_24 contentRender_type_widget contentRender_name_plugins_common_hero_video,DIV
+visitsandiego.com,0,,,unknown,1440,4209,portrait,,MAIN
+visitcalifornia.com,0,,,unknown,1440,5781,portrait,has-travel-banner,MAIN
+destinationtoronto.com,0,,,unknown,719,719,square,contentRender contentRender_27 contentRender_type_widget contentRender_name_plugins_common_hero_video,DIV
+tourismvancouver.com,0,,,unknown,1440,11046,portrait,wYn10G_mainContent,MAIN
+mtl.org,0,,,unknown,1440,4981,portrait,svelte-1v2axqk is-home,MAIN
+quebec-cite.com,0,,,unknown,1440,7796,portrait,has-video-hero path-frontpage page-node-type-homepage fr node-26931 page-26931,BODY
+banfflakelouise.com,0,,,unknown,1440,5034,portrait,,MAIN
+cdmxtravel.com,0,,,unknown,1000,20876,portrait,wrap,MAIN
+visitaloscabos.travel,0,,,unknown,1440,80,landscape,panel-header hamburger homepage main fixed-toggle with-hero,HEADER
+rivieramaya.com,0,,,unknown,122,40,landscape,"py-2 text-base font-semibold underline-offset-8 transition hover:text-[var(--brand-nav-hover,var(--brand-hero-title))] group-data-solid/header:hover:text-(--brand-fg) text-(--brand-hero-title) underli",A
+turismo.buenosaires.gob.ar,0,,,unknown,1440,605,landscape,,SECTION
+barilocheturismo.gob.ar,0,,,unknown,1440,620,landscape,container-fluid hero-home text-center,DIV
+mendoza.tur.ar,0,,,unknown,1440,7711,portrait,site-main post-1250 page type-page status-publish hentry,MAIN
+iguazuturismo.gob.ar,0,,,unknown,1440,2266,portrait,elementor elementor-4340 elementor-location-archive,MAIN
+visitesaopaulo.com,0,,,unknown,1440,6748,portrait,,MAIN
+cusco.gob.pe,0,,,unknown,1425,840,landscape,main-slider style2 hero-mpc,SECTION
+quito-turismo.gob.ec,0,,,unknown,1440,2190,portrait,site-main,MAIN
+bogota.gov.co,0,,,unknown,1440,7203,portrait,main-content,MAIN
+godominicanrepublic.com,0,,,unknown,1440,900,landscape,,MAIN
+discoverpuertorico.com,0,,,unknown,1440,155,landscape,hero-max-width en,HEADER
+visitjamaica.com,0,,,unknown,1440,759,landscape,contentRender contentRender_12 contentRender_type_panel contentRender_name_plugins_common_hero_booking_container,DIV
+louvre.fr,0,,,unknown,1440,6645,portrait,Ecrin_white,MAIN
+chateauversailles.fr,0,,,unknown,1440,5764,portrait,,MAIN
+centrepompidou.fr,0,,,unknown,1440,4743,portrait,bp-page-content main-section,MAIN
+museoreinasofia.es,0,,,unknown,1440,7211,portrait,,MAIN
+museothyssen.org,0,,,unknown,1440,5578,portrait,site-main,MAIN
+sagradafamilia.org,0,,,unknown,1280,3012,portrait,container-fluid-1280,SECTION
+parkguell.barcelona,0,,,unknown,1470,2957,portrait,main-content col,MAIN
+alhambra-patronato.es,0,,,unknown,1440,5686,portrait,content,MAIN
+guggenheim-bilbao.eus,0,,,unknown,0,0,invalid,Header_headerLogoOverHero__kTqla,DIV
+uffizi.it,0,,,unknown,1432,3640,portrait,relative z-[1] min-h-[80vh],MAIN
+galleriaaccademiafirenze.it,0,,,unknown,1440,8534,portrait,wrapper,MAIN
+duomomilano.it,0,,,unknown,1440,8110,portrait,site-main,MAIN
+britishmuseum.org,0,,,unknown,1440,6303,portrait,js-main,MAIN
+nationalgallery.org.uk,0,,,unknown,1440,5689,portrait,main home-page,MAIN
+tate.org.uk,0,,,unknown,1440,4024,portrait,container-16 ,MAIN
+vam.ac.uk,0,,,unknown,1440,5010,portrait,,MAIN
+sciencemuseum.org.uk,0,,,unknown,1440,5427,portrait,,MAIN
+hrp.org.uk,0,,,unknown,1440,5415,portrait,,MAIN
+stpauls.co.uk,0,,,unknown,386,239,landscape,image-style-homepage-hero-image-tablet,IMG
+rijksmuseum.nl,0,,,unknown,1440,3600,portrait,,MAIN
+vangoghmuseum.nl,0,,,unknown,1440,5220,portrait,page-transition,MAIN
+deutsches-museum.de,0,,,unknown,1440,14085,portrait,,MAIN
+khm.at,0,,,unknown,1440,7820,portrait,,MAIN
+belvedere.at,0,,,unknown,1425,3336,portrait,,MAIN
+schoenbrunn.at,0,,,unknown,1440,8454,portrait,,MAIN
+kreml.ru,0,,,unknown,1440,6268,portrait,css-1bqnmih,MAIN
+amnh.org,0,,,unknown,1440,1115,square,home-hero-variant pb-2h pb-xs-3,DIV
+guggenheim.org,0,,,unknown,1280,4748,portrait,,MAIN
+getty.edu,0,,,unknown,1320,4446,portrait,,MAIN
+lacma.org,0,,,unknown,1440,0,invalid,header--without-hero,HEADER
+sfmoma.org,0,,,unknown,1440,4955,portrait,,MAIN
+mfa.org,0,,,unknown,1440,3865,portrait,padding-bottom-lg background-page,MAIN
+philamuseum.org,0,,,unknown,1440,5063,portrait,outline-none,MAIN
+thehenryford.org,0,,,unknown,1440,10824,portrait,site-wrapper,MAIN
+kennedyspacecenter.com,0,,,unknown,1440,640,landscape,home-hero,HEADER
+masp.org.br,0,,,unknown,1400,804,landscape,hero-slide w-slide,DIV
+pinacoteca.org.br,0,,,unknown,1440,6797,portrait,site-main,MAIN
+teamlab.art,0,,,unknown,1440,3564,portrait,LayoutDefault_content__yU_Tq,MAIN
+ngv.vic.gov.au,0,,,unknown,1440,900,landscape,rd-section video-hero ,SECTION
+artgallery.nsw.gov.au,0,,,unknown,1440,905,landscape,homepageHeroVideo ,DIV
+tepapa.govt.nz,0,,,unknown,1440,5291,portrait,,MAIN
+resy.com,0,,,unknown,1440,2644,portrait,,MAIN
+eater.com,0,,,unknown,1440,5870,portrait,kruppj0,MAIN
+timeoutmarket.com,0,,,unknown,1312,4367,portrait,_gridWide_1exxm_12,MAIN
+winetourism.com,0,,,unknown,1425,900,landscape,h-full antialiased texgyreheros_88ce649a-module__aS2yPa__variable source_serif_4_97de033f-module__BKRCbG__variable,HTML
+decanter.com,0,,,unknown,0,0,invalid,clear-both widget widget-dynamic widget-takeover-i widget-dynamic-takeover-i sticky-hero flw-widget-title-border-color-premium-red flw-widget-hero-background-color-red flw-widget-hero-white-text flw-s,DIV
+winespectator.com,0,,,unknown,1440,7632,portrait,main-layout,MAIN
+rutadelvino.com,0,,,unknown,1440,652,landscape,mp-main,MAIN
+sonomacounty.com,0,,,unknown,1440,5886,portrait,home wp-singular page-template-default page page-id-23 wp-theme-bb-theme wp-child-theme-bb-theme-child fl-builder fl-builder-2-11-1-2 fl-themer-1-6-1 fl-theme-1-7-20 wp-schema-pro-2.12.3 hero-disabled,BODY
+bordeaux-tourisme.com,0,,,unknown,1440,10664,portrait,,MAIN
+riojawine.com,0,,,unknown,1440,7581,portrait,site-main,MAIN
+riberadelduero.es,0,,,unknown,1440,810,landscape,homepage-hero,DIV
+chianti.com,0,,,unknown,1440,576,landscape,hero,SECTION
+barossa.com,0,,,unknown,1440,7045,portrait,site-main post-20 page type-page status-publish hentry,MAIN
+marlboroughnz.com,0,,,unknown,1440,9007,portrait,,MAIN
+stellenbosch.travel,0,,,unknown,1440,0,invalid,banner-slider,SECTION

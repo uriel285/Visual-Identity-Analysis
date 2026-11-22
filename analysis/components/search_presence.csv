@@ -1,0 +1,6 @@
+metric,sites,percentage
+reported_true,569,62.73
+reported_false,338,37.27
+reported_missing,0,0.0
+inputs_detected,569,62.73
+any_signal,569,62.73

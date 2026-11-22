@@ -1,0 +1,5 @@
+﻿Metric,Sites (n),Sites (%),Base (n)
+Sites with at least one logo candidate,821,90.52,907
+Sites without logo candidates,86,9.48,907
+Sites with multiple logo candidates,697,76.85,907
+Sites with at least one SVG logo candidate,431,47.52,907

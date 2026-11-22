@@ -1,0 +1,6 @@
+﻿Metric,Valid (n),Missing (n),Mean,Median,Std. dev.,Min,P25,P75,P90,Max
+SVG file size (bytes),457,0,4161.53,1133.0,9868.4,61.0,357.0,4621.0,8731.4,133277.0
+Path elements,457,0,5.19,1.0,10.59,0.0,1.0,4.0,15.0,74.0
+Path data length (characters),457,0,2734.49,814.0,5406.93,0.0,123.0,3722.0,6941.2,60237.0
+Distinct fill/stroke colors declared,457,0,0.96,0.0,1.85,0.0,0.0,1.0,3.0,18.0
+viewBox aspect ratio (W/H),389,68,2.24,1.0,1.95,0.6,1.0,3.15,5.09,11.67

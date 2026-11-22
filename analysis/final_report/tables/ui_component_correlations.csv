@@ -1,0 +1,7 @@
+﻿Variable 1,Variable 2,Spearman rho,Valid pairs (n)
+Card candidates,Buttons,0.23,907
+Card candidates,Navigation links,0.04,664
+Card candidates,Search inputs,0.04,907
+Buttons,Navigation links,-0.01,664
+Buttons,Search inputs,0.19,907
+Navigation links,Search inputs,-0.01,664

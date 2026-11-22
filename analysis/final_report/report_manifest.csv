@@ -1,0 +1,92 @@
+﻿Research dimension,Artifact type,Filename,Rows,Description
+A. Dataset overview,table,tables/dataset_overview.csv,11.0,"Headline counts: scraped, valid, review, invalid, and completeness of analysed records."
+A. Dataset overview,table,tables/data_coverage.csv,11.0,Availability of each analysed dimension across valid records.
+A. Dataset overview,table,tables/http_class_distribution.csv,8.0,Distribution of http response class across all scraped records.
+A. Dataset overview,table,tables/content_quality_distribution.csv,3.0,Distribution of content quality class across all scraped records.
+A. Dataset overview,table,tables/review_reasons.csv,4.0,Reasons why scraped records were flagged (a record can have several).
+B. Visual identity,table,tables/visual_identity.csv,30.0,"Most frequent colors across background, text and border roles."
+B. Visual identity,table,tables/color_families.csv,9.0,Color families by number of sites and element share.
+B. Visual identity,table,tables/color_family_by_role.csv,27.0,"Color family composition within background, text and border roles."
+B. Visual identity,table,tables/color_roles.csv,3.0,Color usage summary by role.
+B. Visual identity,table,tables/color_top10_by_role.csv,30.0,Top 10 colors within each color role.
+B. Visual identity,table,tables/color_palette_stats.csv,5.0,"Palette size, neutrality, saturation and luminance statistics per site."
+B. Visual identity,table,tables/color_dominant_family.csv,9.0,Most used non-neutral color family per site (by element count).
+B. Visual identity,table,tables/typography.csv,30.0,Most frequent primary font families (icon and fallback fonts excluded).
+B. Visual identity,table,tables/typography_classification.csv,3.0,"Primary fonts by classification (serif, sans-serif, monospace, unknown/custom)."
+B. Visual identity,table,tables/typography_combinations.csv,6.0,Combinations of font classifications used on the same site.
+B. Visual identity,table,tables/typography_metrics.csv,2.0,Typography metrics: families per site and custom-font adoption.
+B. Visual identity,table,tables/typography_roles.csv,5.0,"Font observations by role (primary, secondary, fallback, icon, unknown)."
+B. Visual identity,table,tables/typography_loaded_fonts.csv,30.0,Web fonts explicitly loaded by sites.
+C. UI components and UX patterns,table,tables/ui_components.csv,9.0,"Prevalence of cards, buttons, navigation, search, header and hero detection."
+C. UI components and UX patterns,table,tables/ui_component_distributions.csv,4.0,Descriptive statistics of component counts per site.
+C. UI components and UX patterns,table,tables/ui_card_count_ranges.csv,8.0,Sites grouped by number of detected card candidates.
+C. UI components and UX patterns,table,tables/ui_button_count_ranges.csv,8.0,Sites grouped by number of detected buttons.
+C. UI components and UX patterns,table,tables/navigation_link_types.csv,2.0,"Navigation links by type (internal, external, anchor, special...)."
+C. UI components and UX patterns,table,tables/search_presence.csv,5.0,"Search availability by scraper flag, parsed inputs and combined signal."
+C. UI components and UX patterns,table,tables/search_input_types.csv,8.0,Parsed search/form input types.
+C. UI components and UX patterns,table,tables/search_input_attributes.csv,5.0,Attributes present on parsed search inputs.
+C. UI components and UX patterns,table,tables/search_placeholders.csv,30.0,Most common search placeholder texts.
+C. UI components and UX patterns,table,tables/layout_header_position.csv,6.0,"Detected header position (fixed, sticky, static...)."
+C. UI components and UX patterns,table,tables/layout_hero.csv,16.0,Hero container detection and container tags.
+C. UI components and UX patterns,table,tables/layout_hero_dimensions.csv,3.0,Dimensions of detected hero containers.
+C. UI components and UX patterns,table,tables/layout_technique_adoption.csv,5.0,"Adoption of sticky, grid, flex, video and SVG elements."
+C. UI components and UX patterns,table,tables/ui_component_correlations.csv,6.0,Pairwise Spearman correlations between component counts.
+C. UI components and UX patterns,table,tables/ui_component_cooccurrence.csv,15.0,Co-occurrence of detected UI components.
+C. UI components and UX patterns,table,tables/ui_search_vs_density.csv,2.0,Navigation and card density compared between sites with and without search.
+D. Images and graphical resources,table,tables/imagery.csv,3.0,Image availability and quantity per site (parsed assets).
+D. Images and graphical resources,table,tables/imagery_count_consistency.csv,3.0,Agreement between scraper-reported counts and parsed asset lists.
+D. Images and graphical resources,table,tables/imagery_formats.csv,23.0,Image format distribution by asset type.
+D. Images and graphical resources,table,tables/imagery_orientation.csv,12.0,Orientation (landscape/portrait/square) by asset type.
+D. Images and graphical resources,table,tables/imagery_size_classes.csv,15.0,"Size class by pixel area (small < 40k, medium < 300k, large < 1M, very large)."
+D. Images and graphical resources,table,tables/imagery_origin.csv,11.0,Image hosting origin (internal/external/embedded).
+D. Images and graphical resources,table,tables/imagery_dimensions.csv,3.0,Dimensions and aspect ratios of image assets.
+D. Images and graphical resources,table,tables/imagery_attributes.csv,12.0,"Alt text, srcset and lazy loading among assets where the attribute was captured."
+D. Images and graphical resources,table,tables/imagery_logos.csv,4.0,Logo candidate availability and SVG usage.
+D. Images and graphical resources,table,tables/imagery_reference_assets.csv,2.0,Favicon and Open Graph image availability.
+D. Images and graphical resources,table,tables/imagery_reference_formats.csv,21.0,Format and origin of favicon and Open Graph image URLs.
+D. Images and graphical resources,table,tables/imagery_cross_asset.csv,2.0,Overlap between asset types (exact URL match; both assets must exist).
+D. Images and graphical resources,table,tables/imagery_presence_summary.csv,6.0,Sites with each visual asset type.
+E. Digital identity and metadata,table,tables/metadata.csv,14.0,Availability of each metadata field.
+E. Digital identity and metadata,table,tables/metadata_lengths.csv,5.0,"Length statistics for titles, descriptions and keywords."
+E. Digital identity and metadata,table,tables/metadata_keywords_summary.csv,1.0,Number of keywords declared per site.
+E. Digital identity and metadata,table,tables/metadata_keywords_top.csv,30.0,Most frequent meta keywords (by number of sites).
+E. Digital identity and metadata,table,tables/metadata_social.csv,7.0,Open Graph and Twitter Card availability.
+E. Digital identity and metadata,table,tables/metadata_og_types.csv,17.0,Distribution of open graph type values.
+E. Digital identity and metadata,table,tables/metadata_twitter_cards.csv,10.0,Distribution of twitter card type values.
+E. Digital identity and metadata,table,tables/metadata_consistency.csv,2.0,Word-level similarity between standard and Open Graph metadata (0-1).
+E. Digital identity and metadata,table,tables/metadata_favicon_canonical.csv,4.0,Favicon and canonical URL availability.
+E. Digital identity and metadata,table,tables/metadata_favicon_extensions.csv,12.0,Favicon file extensions.
+E. Digital identity and metadata,table,tables/metadata_languages.csv,16.0,Declared page language (html lang attribute).
+E. Digital identity and metadata,table,tables/metadata_viewport.csv,6.0,Viewport declaration patterns (responsive design signals).
+E. Digital identity and metadata,table,tables/metadata_robots.csv,8.0,Robots meta directives.
+E. Digital identity and metadata,table,tables/metadata_robots_status.csv,3.0,robots.txt status as recorded by the scraper.
+E. Digital identity and metadata,table,tables/metadata_jsonld.csv,2.0,JSON-LD structured data availability.
+E. Digital identity and metadata,table,tables/metadata_completeness.csv,3.0,Metadata completeness scores per site.
+F. Content architecture and navigation,table,tables/content_heading_levels.csv,6.0,H1-H6 distribution (headings and sites).
+F. Content architecture and navigation,table,tables/content_heading_hierarchy.csv,8.0,Heading hierarchy quality indicators.
+F. Content architecture and navigation,table,tables/content_heading_texts.csv,30.0,Most frequent heading texts (normalised).
+F. Content architecture and navigation,table,tables/content_heading_transitions.csv,6.0,Consecutive heading level transitions.
+F. Content architecture and navigation,table,tables/content_navigation_structure.csv,7.0,Navigation link counts and internal/external proportions per site.
+F. Content architecture and navigation,table,tables/content_navigation_link_groups.csv,2.0,"Overall share of internal, external and other navigation links."
+F. Content architecture and navigation,table,tables/content_nav_destination_depth.csv,9.0,Path depth of internal navigation destinations.
+F. Content architecture and navigation,table,tables/content_nav_first_segments.csv,30.0,Most common first-level path segments among internal navigation links (category candidates).
+F. Content architecture and navigation,table,tables/content_url_depth.csv,4.0,Path depth of each analysed page URL.
+F. Content architecture and navigation,table,tables/content_url_structure.csv,3.0,URL structure flags of analysed pages.
+F. Content architecture and navigation,table,tables/content_url_segments.csv,30.0,Most frequent path segments in analysed page URLs.
+F. Content architecture and navigation,table,tables/content_architecture.csv,6.0,Content density and structure summary statistics.
+A. Dataset overview,chart,charts/01_dataset_overview.png,,"Record classification, HTTP classes and data coverage."
+B. Visual identity,chart,charts/02_color_identity.png,,"Top colors, families, role composition and palette size."
+B. Visual identity,chart,charts/03_typography.png,,"Top fonts, classification, families per site and combinations."
+C. UI components and UX patterns,chart,charts/04_ui_components.png,,"Component prevalence, card and button ranges, count distributions."
+C. UI components and UX patterns,chart,charts/05_navigation_and_search.png,,"Navigation types and labels, search availability and input attributes."
+D. Images and graphical resources,chart,charts/06_image_characteristics.png,,"Images per site, formats, orientation and size classes."
+D. Images and graphical resources,chart,charts/07_visual_assets.png,,"Asset availability, image attributes, reference formats and aspect ratios."
+E. Digital identity and metadata,chart,charts/08_social_metadata.png,,"Open Graph / Twitter Card availability, types and consistency."
+E. Digital identity and metadata,chart,charts/09_metadata_architecture.png,,"Field availability, title/description length, JSON-LD types, viewport, completeness."
+F. Content architecture and navigation,chart,charts/10_content_hierarchy.png,,"Heading levels, H1 usage, headings per site and transitions."
+F. Content architecture and navigation,chart,charts/11_navigation_structure.png,,"Navigation size, internal share, destination depth and path segments."
+F. Content architecture and navigation,chart,charts/12_content_density.png,,"Body length, headings relationship and density ratios."
+C. UI components and UX patterns,chart,charts/13_component_relationships.png,,"Correlation, scatter and conditional co-occurrence of components."
+Validation,table,tables/validation_report.csv,67.0,"Column availability, skipped metrics and data limitations."
+All,workbook,report_data.xlsx,,Consolidated workbook with one sheet per research dimension.
+All,manifest,report_manifest.csv,91.0,List of every generated artifact.

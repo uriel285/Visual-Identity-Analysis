@@ -1,0 +1,12 @@
+﻿Dimension / field,Websites with data (n),Websites with data (%),Websites missing (n),Websites missing (%),Base (n)
+UI counts (cards and buttons),907,100.0,0,0.0,907
+Search signal (reported or inputs),907,100.0,0,0.0,907
+Headings,907,100.0,0,0.0,907
+Body text length,907,100.0,0,0.0,907
+Colors (background / text / border),906,99.89,1,0.11,907
+Typography (font families),906,99.89,1,0.11,907
+Images,894,98.57,13,1.43,907
+Viewport declaration,893,98.46,14,1.54,907
+Title and description,830,91.51,77,8.49,907
+Social metadata (any Open Graph / Twitter field),744,82.03,163,17.97,907
+Navigation links,664,73.21,243,26.79,907

@@ -1,0 +1,4 @@
+﻿Metric,Valid values (n),Missing (n),Values > 0 (n),Values > 0 (%),Mean,Median,Std. dev.,Min,P25,P75,P90,Max
+Basic metadata fields present (of 6),907,0,907,100.0,5.62,6.0,0.73,1.0,5.0,6.0,6.0,6.0
+Social metadata fields present (of 5),907,0,744,82.03,3.35,4.0,1.87,0.0,2.0,5.0,5.0,5.0
+Metadata completeness (%),907,0,907,100.0,81.48,90.91,20.29,9.09,72.73,100.0,100.0,100.0

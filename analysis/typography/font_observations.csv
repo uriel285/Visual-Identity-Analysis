@@ -1,0 +1,292 @@
+domain,source,font,font_type,count
+flightaware.com,font_families,Roboto,Sans-serif,470
+flightaware.com,font_families,Helvetica Neue,Sans-serif,7
+flightaware.com,loaded_fonts,Roboto,Sans-serif,1
+flightaware.com,loaded_fonts,Roboto Fallback,Sans-serif,1
+vietnam.vn,font_families,Inter,Sans-serif,2435
+vietnam.vn,font_families,__Inter_2374c6,Sans-serif,1054
+vietnam.vn,font_families,ui-sans-serif,Serif,80
+vietnam.vn,font_families,__Merriweather_f7a810,Serif,69
+vietnam.vn,font_families,Merriweather,Serif,27
+vietnam.vn,loaded_fonts,__Inter_2374c6,Sans-serif,1
+vietnam.vn,loaded_fonts,__Inter_Fallback_2374c6,Sans-serif,1
+vietnam.vn,loaded_fonts,__Merriweather_f7a810,Serif,1
+vietnam.vn,loaded_fonts,__Merriweather_Fallback_f7a810,Serif,1
+vietnam.vn,loaded_fonts,slick,Custom / Other,1
+waze.com,font_families,Boing,Custom / Other,334
+waze.com,font_families,Google Sans,Custom / Other,29
+waze.com,loaded_fonts,Boing,Custom / Other,1
+waze.com,loaded_fonts,Google Sans,Custom / Other,1
+waze.com,loaded_fonts,Google Sans Text,Custom / Other,1
+flightradar24.com,font_families,Open Sans,Sans-serif,268
+flightradar24.com,font_families,Roboto,Sans-serif,12
+flightradar24.com,font_families,Roboto Condensed,Sans-serif,2
+flightradar24.com,loaded_fonts,Open Sans,Sans-serif,1
+flightradar24.com,loaded_fonts,Roboto,Sans-serif,1
+flightradar24.com,loaded_fonts,Roboto Condensed,Sans-serif,1
+ryanair.com,font_families,Roboto,Sans-serif,250
+ryanair.com,loaded_fonts,Roboto,Sans-serif,1
+thetrainline.com,font_families,-apple-system,Custom / Other,397
+thetrainline.com,font_families,TLCircular,Custom / Other,107
+thetrainline.com,font_families,Circular,Custom / Other,8
+thetrainline.com,loaded_fonts,TLCircular,Custom / Other,1
+getyourguide.com,font_families,GT Eesti,Custom / Other,1362
+getyourguide.com,loaded_fonts,GYGSans-VF,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansAR-VF,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansCYR-VF,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSans-VF-HVAR,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansAR-VF-HVAR,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansCYR-VF-HVAR,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansStatic-100,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansStaticAR-100,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansStaticCYR-100,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansStatic-150,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansStaticAR-150,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansStaticCYR-150,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansStatic-200,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansStaticAR-200,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansStaticCYR-200,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansStatic-250,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansStaticAR-250,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansStaticCYR-250,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansStatic-300,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansStaticAR-300,Custom / Other,1
+getyourguide.com,loaded_fonts,GYGSansStaticCYR-300,Custom / Other,1
+getyourguide.com,loaded_fonts,Adjusted Arial,Sans-serif,1
+getyourguide.com,loaded_fonts,Adjusted Roboto,Sans-serif,1
+getyourguide.com,loaded_fonts,GT Eesti,Custom / Other,1
+getyourguide.com,loaded_fonts,Noto Sans,Custom / Other,1
+getyourguide.com,loaded_fonts,fallback for GT Eesti,Custom / Other,1
+getyourguide.com,loaded_fonts,android fallback for GT Eesti,Custom / Other,1
+agoda.com,font_families,Helvetica Neue,Sans-serif,412
+agoda.com,loaded_fonts,CitiSans,Custom / Other,1
+agoda.com,loaded_fonts,ProximaNova,Custom / Other,1
+agoda.com,loaded_fonts,RedHatDisplay,Custom / Other,1
+agoda.com,loaded_fonts,USBankCircular,Custom / Other,1
+agoda.com,loaded_fonts,Connections,Custom / Other,1
+agoda.com,loaded_fonts,Roboto,Sans-serif,1
+agoda.com,loaded_fonts,ItalianPlateNo1,Custom / Other,1
+agoda.com,loaded_fonts,Lato,Sans-serif,1
+agoda.com,loaded_fonts,Mundial,Custom / Other,1
+agoda.com,loaded_fonts,AmericanSans,Custom / Other,1
+agoda.com,loaded_fonts,Inter,Sans-serif,1
+agoda.com,loaded_fonts,CoinbaseSans,Custom / Other,1
+agoda.com,loaded_fonts,PayPalPro,Custom / Other,1
+agoda.com,loaded_fonts,SamsSans,Custom / Other,1
+agoda.com,loaded_fonts,Noto Sans,Custom / Other,1
+agoda.com,loaded_fonts,Montserrat,Sans-serif,1
+rome2rio.com,font_families,Google Sans,Custom / Other,530
+rome2rio.com,loaded_fonts,Google Sans,Custom / Other,1
+railyatri.in,font_families,Lato,Sans-serif,511
+railyatri.in,loaded_fonts,Lato,Sans-serif,1
+railyatri.in,loaded_fonts,slick,Custom / Other,1
+obilet.com,font_families,Roboto,Sans-serif,575
+obilet.com,loaded_fonts,Roboto,Sans-serif,1
+mappy.com,font_families,Fira Sans,Custom / Other,281
+mappy.com,font_families,Helvetica Neue,Sans-serif,19
+mappy.com,loaded_fonts,Fira Sans,Custom / Other,1
+traveloka.com,font_families,Times New Roman,Serif,1307
+traveloka.com,font_families,Godwit,Custom / Other,394
+traveloka.com,font_families,-apple-system,Custom / Other,4
+traveloka.com,loaded_fonts,Godwit,Custom / Other,1
+jalan.net,font_families,メイリオ,Custom / Other,400
+jalan.net,font_families,-apple-system,Custom / Other,84
+jalan.net,font_families,Meiryo,Custom / Other,13
+jalan.net,font_families,Arial,Sans-serif,7
+jalan.net,font_families,a,Custom / Other,7
+bahn.de,font_families,DBScreenSans,Custom / Other,327
+bahn.de,font_families,DBScreenHead,Custom / Other,32
+bahn.de,loaded_fonts,DBScreenHead,Custom / Other,1
+bahn.de,loaded_fonts,DBScreenSans,Custom / Other,1
+bahn.de,loaded_fonts,db-ux-default,Custom / Other,1
+bahn.de,loaded_fonts,db-ux-filled,Custom / Other,1
+bahn.de,loaded_fonts,db-default,Custom / Other,1
+bahn.de,loaded_fonts,db-filled,Custom / Other,1
+bahn.de,loaded_fonts,DB Screen Head,Custom / Other,1
+bahn.de,loaded_fonts,DB Screen Sans Digital Regular,Custom / Other,1
+bahn.de,loaded_fonts,DB Screen Sans,Custom / Other,1
+paris.fr,font_families,Montserrat,Sans-serif,610
+paris.fr,loaded_fonts,Montserrat,Sans-serif,1
+paris.fr,loaded_fonts,Subjectivity,Custom / Other,1
+paris.fr,loaded_fonts,Palmer Lake,Custom / Other,1
+paris.fr,loaded_fonts,Myriad,Custom / Other,1
+paris.fr,loaded_fonts,Beausite,Custom / Other,1
+paris.fr,loaded_fonts,Paris2024,Custom / Other,1
+irctctourism.com,font_families,Roboto,Sans-serif,430
+irctctourism.com,loaded_fonts,Roboto Regular,Sans-serif,1
+irctctourism.com,loaded_fonts,Roboto Italic,Sans-serif,1
+irctctourism.com,loaded_fonts,Roboto Bold,Sans-serif,1
+irctctourism.com,loaded_fonts,Roboto Bold Italic,Sans-serif,1
+irctctourism.com,loaded_fonts,Roboto Thin,Sans-serif,1
+irctctourism.com,loaded_fonts,Roboto Thin Italic,Sans-serif,1
+irctctourism.com,loaded_fonts,Roboto Light,Sans-serif,1
+irctctourism.com,loaded_fonts,Roboto Light Italic,Sans-serif,1
+irctctourism.com,loaded_fonts,Roboto Medium,Sans-serif,1
+irctctourism.com,loaded_fonts,Roboto Medium Italic,Sans-serif,1
+irctctourism.com,loaded_fonts,Roboto Black,Sans-serif,1
+irctctourism.com,loaded_fonts,Roboto Black Italic,Sans-serif,1
+itatiaia.com.br,font_families,Roboto,Sans-serif,2198
+itatiaia.com.br,loaded_fonts,Roboto,Sans-serif,1
+itatiaia.com.br,loaded_fonts,Roboto Fallback,Sans-serif,1
+skyscanner.net,font_families,Skyscanner Relative,Custom / Other,493
+skyscanner.net,loaded_fonts,Skyscanner Relative,Custom / Other,1
+skyscanner.net,loaded_fonts,Noto Sans JP,Custom / Other,1
+skyscanner.net,loaded_fonts,Noto Sans KR,Custom / Other,1
+skyscanner.net,loaded_fonts,Noto Sans SC,Custom / Other,1
+skyscanner.net,loaded_fonts,Noto Sans TC,Custom / Other,1
+skyscanner.net,loaded_fonts,Noto Sans Thai,Custom / Other,1
+skyscanner.net,loaded_fonts,Noto Sans Devanagari,Custom / Other,1
+skyscanner.net,loaded_fonts,Noto Sans,Custom / Other,1
+skyscanner.net,loaded_fonts,Noto Sans Arabic,Custom / Other,1
+skyscanner.net,loaded_fonts,Noto Sans Hebrew,Custom / Other,1
+skyscanner.net,loaded_fonts,larken,Custom / Other,1
+skyscanner.net,loaded_fonts,Noto Serif Hebrew,Serif,1
+skyscanner.net,loaded_fonts,Noto Serif,Serif,1
+skyscanner.net,loaded_fonts,Noto Serif Devanagari,Serif,1
+skyscanner.net,loaded_fonts,Noto Serif Thai,Serif,1
+skyscanner.net,loaded_fonts,Noto Serif SC,Serif,1
+skyscanner.net,loaded_fonts,Noto Serif TC,Serif,1
+skyscanner.net,loaded_fonts,Noto Serif JP,Serif,1
+skyscanner.net,loaded_fonts,Noto Serif KR,Serif,1
+indianrail.gov.in,font_families,Helvetica Neue,Sans-serif,69
+trenitalia.com,font_families,Poppins,Sans-serif,581
+trenitalia.com,loaded_fonts,Poppins,Sans-serif,1
+confirmtkt.com,font_families,ixi-sans,Custom / Other,497
+confirmtkt.com,loaded_fonts,ixi-sans,Custom / Other,1
+enuygun.com,font_families,Open Sans,Sans-serif,1473
+enuygun.com,loaded_fonts,Noto Sans Arabic,Custom / Other,1
+enuygun.com,loaded_fonts,Noto Sans Arabic Fallback,Custom / Other,1
+enuygun.com,loaded_fonts,Open Sans,Sans-serif,1
+enuygun.com,loaded_fonts,Open Sans Fallback,Sans-serif,1
+airbnb.com,font_families,Airbnb Cereal VF,Custom / Other,694
+airbnb.com,loaded_fonts,Airbnb Cereal VF,Custom / Other,1
+airbnb.ae,font_families,Airbnb Cereal VF,Custom / Other,665
+airbnb.ae,loaded_fonts,Airbnb Cereal VF,Custom / Other,1
+nps.gov,font_families,InterVariable,Sans-serif,278
+nps.gov,font_families,Inter Variable,Sans-serif,46
+nps.gov,font_families,Inter,Sans-serif,3
+nps.gov,loaded_fonts,InterVariable,Sans-serif,1
+nps.gov,loaded_fonts,VideoJS,Custom / Other,1
+nps.gov,loaded_fonts,slick,Custom / Other,1
+nps.gov,loaded_fonts,Open Sans,Sans-serif,1
+nps.gov,loaded_fonts,Open Sans Condensed,Sans-serif,1
+jetsmart.com,font_families,Lato,Sans-serif,1509
+jetsmart.com,font_families,jetsmart-home,Custom / Other,23
+jetsmart.com,font_families,Encode Sans,Custom / Other,13
+jetsmart.com,loaded_fonts,Lato,Sans-serif,1
+jetsmart.com,loaded_fonts,Gotham-Bold,Custom / Other,1
+jetsmart.com,loaded_fonts,Gotham-Book,Custom / Other,1
+jetsmart.com,loaded_fonts,jetsmart-be2,Custom / Other,1
+jetsmart.com,loaded_fonts,jetsmart-home,Custom / Other,1
+jetsmart.com,loaded_fonts,Maven Pro,Custom / Other,1
+jetsmart.com,loaded_fonts,Encode Sans,Custom / Other,1
+kayak.com,font_families,TT Hoves Variable,Custom / Other,1124
+kayak.com,loaded_fonts,TT Hoves Variable,Custom / Other,1
+ixigo.com,font_families,__ixiFonts_dadd99,Custom / Other,1170
+ixigo.com,loaded_fonts,__ixiFonts_dadd99,Custom / Other,1
+ixigo.com,loaded_fonts,__ixiFonts_Fallback_dadd99,Custom / Other,1
+ixigo.com,loaded_fonts,__dmMono_ef86ac,Custom / Other,1
+ixigo.com,loaded_fonts,__dmMono_Fallback_ef86ac,Custom / Other,1
+renfe.com,font_families,Renfe Sans,Custom / Other,309
+renfe.com,font_families,Arial,Sans-serif,13
+renfe.com,loaded_fonts,RenfeSans,Custom / Other,1
+easemytrip.com,font_families,Poppins,Sans-serif,916
+easemytrip.com,font_families,Arial,Sans-serif,4
+easemytrip.com,loaded_fonts,Poppins,Sans-serif,1
+easemytrip.com,loaded_fonts,DM Sans,Custom / Other,1
+easemytrip.com,loaded_fonts,Nunito,Sans-serif,1
+easemytrip.com,loaded_fonts,Sora,Custom / Other,1
+southwest.com,font_families,Southwest Sans,Custom / Other,937
+southwest.com,loaded_fonts,Southwest Sans,Custom / Other,1
+southwest.com,loaded_fonts,Southwest Flare,Custom / Other,1
+airbnb.fr,font_families,Airbnb Cereal VF,Custom / Other,697
+airbnb.fr,loaded_fonts,Airbnb Cereal VF,Custom / Other,1
+nationalrail.co.uk,font_families,inter_regular,Sans-serif,477
+nationalrail.co.uk,font_families,open_sans_bold,Custom / Other,25
+nationalrail.co.uk,font_families,inter_medium,Sans-serif,19
+nationalrail.co.uk,font_families,inter_bold,Sans-serif,6
+nationalrail.co.uk,loaded_fonts,inter_regular,Sans-serif,1
+nationalrail.co.uk,loaded_fonts,inter_medium,Sans-serif,1
+nationalrail.co.uk,loaded_fonts,inter_semi_bold,Sans-serif,1
+nationalrail.co.uk,loaded_fonts,inter_bold,Sans-serif,1
+nationalrail.co.uk,loaded_fonts,open_sans_regular,Custom / Other,1
+nationalrail.co.uk,loaded_fonts,open_sans_semi_bold,Custom / Other,1
+nationalrail.co.uk,loaded_fonts,open_sans_bold,Custom / Other,1
+uk.com,font_families,Albert Sans,Custom / Other,619
+uk.com,loaded_fonts,Albert Sans,Custom / Other,1
+anwb.nl,font_families,Bernina Sans,Custom / Other,528
+anwb.nl,font_families,Clan Pro,Custom / Other,194
+anwb.nl,loaded_fonts,Bernina Sans Narrow,Custom / Other,1
+anwb.nl,loaded_fonts,Bernina Sans Condensed,Custom / Other,1
+anwb.nl,loaded_fonts,Bernina Sans,Custom / Other,1
+anwb.nl,loaded_fonts,Clan Pro,Custom / Other,1
+anwb.nl,loaded_fonts,Verveine,Custom / Other,1
+discover.com,font_families,DiscoverSans-Semibold,Custom / Other,378
+discover.com,font_families,DiscoverSans-Bold,Custom / Other,9
+discover.com,font_families,DiscoverSans-Medium,Custom / Other,7
+discover.com,font_families,Source-Sans-400-italic,Custom / Other,1
+discover.com,font_families,sans-serif,Serif,1
+discover.com,loaded_fonts,discover-style-guide,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSans-Bold,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSans-BoldItalic,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSans-Book,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSans-Extrabold,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSans-ExtraboldItalic,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSans-Italic,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSans-Light,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSans-LightItalic,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSans-Medium,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSans-MediumItalic,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSans-Semibold,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSans-SemiboldItalic,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSans-Thin,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSans-ThinItalic,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSansCond-Bold,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSansCond-BoldItl,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSansCond-Book,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSansCond-Extrabold,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSansCond-ExtraboldItl,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSansCond-Itl,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSansCond-Light,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSansCond-LightItl,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSansCond-Medium,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSansCond-MediumItl,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSansCond-Semibold,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSansCond-SemiboldItl,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSansCond-Thin,Custom / Other,1
+discover.com,loaded_fonts,DiscoverSansCond-ThinItl,Custom / Other,1
+discover.com,loaded_fonts,Gotham-Medium,Custom / Other,1
+discover.com,loaded_fonts,Gotham-Book,Custom / Other,1
+discover.com,loaded_fonts,Gotham-Bold,Custom / Other,1
+discover.com,loaded_fonts,Gotham-Light,Custom / Other,1
+discover.com,loaded_fonts,Gotham-Black,Custom / Other,1
+discover.com,loaded_fonts,Gotham-BookItalic,Custom / Other,1
+discover.com,loaded_fonts,Source-Sans-200-normal,Custom / Other,1
+discover.com,loaded_fonts,Source-Sans-200-italic,Custom / Other,1
+discover.com,loaded_fonts,Source-Sans-300-normal,Custom / Other,1
+discover.com,loaded_fonts,Source-Sans-300-italic,Custom / Other,1
+discover.com,loaded_fonts,Source-Sans-400-normal,Custom / Other,1
+discover.com,loaded_fonts,Source-Sans-400-italic,Custom / Other,1
+discover.com,loaded_fonts,Source-Sans-600-normal,Custom / Other,1
+discover.com,loaded_fonts,Source-Sans-600-italic,Custom / Other,1
+discover.com,loaded_fonts,Source-Sans-700,Custom / Other,1
+discover.com,loaded_fonts,Source-Sans-700-italic,Custom / Other,1
+discover.com,loaded_fonts,Source-Sans-900-normal,Custom / Other,1
+discover.com,loaded_fonts,Source-Sans-900-italic,Custom / Other,1
+discover.com,loaded_fonts,optimist-w-bd,Custom / Other,1
+discover.com,loaded_fonts,optimist-w-bdit,Custom / Other,1
+discover.com,loaded_fonts,optimist-w-it,Custom / Other,1
+discover.com,loaded_fonts,optimist-w-lt,Custom / Other,1
+discover.com,loaded_fonts,optimist-w-ltit,Custom / Other,1
+discover.com,loaded_fonts,optimist-w-rg,Custom / Other,1
+discover.com,loaded_fonts,optimist-w-sbd,Custom / Other,1
+discover.com,loaded_fonts,optimist-w-sbdit,Custom / Other,1
+discover.com,loaded_fonts,optimist-w-xlt,Custom / Other,1
+discover.com,loaded_fonts,Discover-Sans-Semibold,Custom / Other,1
+all.accor.com,font_families,Roboto,Sans-serif,529
+all.accor.com,font_families,Montserrat,Sans-serif,142
+all.accor.com,loaded_fonts,Montserrat,Sans-serif,1
+all.accor.com,loaded_fonts,Roboto,Sans-serif,1
+all.accor.com,loaded_fonts,Unna,Custom / Other,1
+colombia.com,font_families,system-ui,Sans-serif,1478
+marinetraffic.com,font_families,-apple-system,Custom / Other,29

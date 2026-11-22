@@ -1,0 +1,9 @@
+﻿Metric,Count (n),Share (%),Base (n)
+Sites with at least one heading,872,96.14,907
+Sites with an H1,682,78.21,872
+Sites with exactly one H1,580,66.51,872
+Sites with multiple H1,102,11.7,872
+Sites without H1,190,21.79,872
+Sites whose first heading is H1,682,78.21,872
+Sites with skipped heading levels (jump > 1),14,1.61,872
+Headings without text,0,0.0,18234

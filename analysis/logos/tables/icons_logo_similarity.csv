@@ -1,0 +1,7 @@
+﻿Metric,Valid (n),Missing (n),Mean,Median,Std. dev.,Min,P25,P75,P90,Max
+Icon width (px),587,0,109.2,76.0,104.47,16.0,36.0,159.5,192.0,1024.0
+Icon height (px),587,0,109.23,76.0,104.5,16.0,36.0,159.5,192.0,1024.0
+Dominant color distance to logo (deltaE),263,324,59.78,61.24,34.75,0.0,41.15,85.86,97.35,124.3
+Shape hash distance to full logo (0-1),263,324,0.35,0.38,0.12,0.0,0.28,0.44,0.48,0.56
+Shape hash distance to logo symbol (0-1),181,406,0.34,0.39,0.16,0.0,0.28,0.45,0.5,0.56
+Best shape distance (full logo or symbol),263,324,0.31,0.34,0.14,0.0,0.24,0.41,0.47,0.56

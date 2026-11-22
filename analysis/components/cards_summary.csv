@@ -1,0 +1,2 @@
+metric,valid_sites,missing_sites,sites_with_value,adoption_percentage,mean,median,std,min,p25,p50,p75,p90,max
+card_candidate_count,907,0,559,61.63175303197354,49.33186328555678,6.0,119.48566702239596,0.0,0.0,6.0,48.5,138.0,1955.0

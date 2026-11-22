@@ -1,0 +1,63 @@
+﻿Dimension,Type,Filename,Rows,Description
+Inventory,table,tables/inventory_site_funnel.csv,4.0,How many sites end up in the analysis and why the others are lost.
+Inventory,table,tables/inventory_site_status.csv,189.0,Outcome per site (included or reason for exclusion).
+Inventory,table,logo_features_all_assets.csv,1352.0,Every asset with all extracted features and flags.
+Inventory,table,logo_features_representative.csv,71.0,One representative logo per site with all features.
+Inventory,table,tables/inventory_overview.csv,7.0,Headline counts of the logo collection.
+Inventory,table,tables/inventory_download_status.csv,9.0,Download status of every asset row.
+Inventory,table,tables/inventory_asset_types.csv,3.0,Asset types by download outcome.
+Inventory,table,tables/inventory_formats.csv,6.0,File formats of downloaded assets.
+Inventory,table,tables/inventory_logos_per_site.csv,1.0,Logo candidates detected per site.
+Inventory,table,tables/inventory_duplicate_files.csv,31.0,Byte-identical assets shared by several sites (e.g. regional domains of one brand).
+Inventory,table,tables/inventory_quality_flags.csv,8.0,Quality flags raised during analysis (flagged assets stay in the dataset unless photographic).
+Inventory,table,tables/inventory_roles.csv,4.0,"Asset roles (primary logo, variants, favicon, apple touch icon)."
+Geometry,table,tables/logo_geometry_summary.csv,5.0,Geometry statistics (one logo per site).
+Geometry,table,tables/logo_orientation.csv,5.0,Logo orientation classes from the tight-crop aspect ratio.
+Geometry,table,tables/logo_background_types.csv,5.0,Original background type of the logo file.
+Geometry,table,tables/logo_file_formats.csv,4.0,File format of the representative logos.
+Composition,table,tables/logo_composition_types.csv,3.0,Heuristic composition type (one logo per site). Validate with the overlay sheet.
+Composition,table,tables/logo_symbol_layout.csv,3.0,Symbol position relative to the wordmark in combination logos.
+Composition,table,tables/logo_composition_metrics.csv,11.0,Quantitative composition metrics (combination metrics only where applicable).
+Composition,table,tables/logo_container_and_holes.csv,2.0,Container shapes and counters.
+Composition,table,tables/logo_composition_by_orientation.csv,11.0,Composition type vs orientation.
+Composition,table,tables/logo_composition_by_color_mode.csv,12.0,Composition type vs color mode.
+Composition,table,manual_labels_template.csv,71.0,Template to label compositions manually; save as manual_labels.csv and re-run.
+Color,table,tables/logo_color_modes.csv,4.0,Number of effective colors in the logo (after merging similar tones).
+Color,table,tables/logo_dominant_families.csv,8.0,Color family of the dominant logo color.
+Color,table,tables/logo_accent_families.csv,6.0,"Family of the most saturated palette color, chromatic logos only."
+Color,table,tables/logo_color_summary.csv,8.0,Color statistics.
+Color,table,tables/logo_color_flags.csv,4.0,"Achromatic, gradient and contrast indicators."
+Color,table,tables/logo_foreground_lightness.csv,3.0,Foreground lightness classes.
+Color,table,tables/logo_palettes_by_brand.csv,71.0,Top three palette colors and shares per logo.
+Color,table,tables/logo_color_family_by_composition.csv,18.0,Dominant color family vs composition type.
+Shape and stroke,table,tables/logo_shape_summary.csv,11.0,"Shape, contour and stroke metrics."
+Shape and stroke,table,tables/logo_symmetry_balance.csv,9.0,Symmetry (threshold IoU >= 0.9) and visual balance.
+Shape and stroke,table,tables/logo_stroke_weight_classes.csv,3.0,Relative stroke weight (dataset terciles). Classes are relative to this dataset.
+Shape and stroke,table,tables/logo_angularity_classes.csv,3.0,Contour character (dataset terciles of corner density). Classes are relative to this dataset.
+Scalability and complexity,table,tables/logo_complexity_classes.csv,3.0,Complexity (dataset terciles of contour length). Classes are relative to this dataset.
+Scalability and complexity,table,tables/logo_scalability.csv,6.0,How much of the logo shape survives downscaling to small heights.
+Scalability and complexity,table,tables/logo_complexity_metrics.csv,4.0,Stroke width at small size and complexity metrics.
+Variants,table,tables/logo_variants_summary.csv,4.0,Availability of alternative logo versions per site.
+SVG structure,table,tables/svg_structure_summary.csv,9.0,Structural properties of vector logos.
+SVG structure,table,tables/svg_structure_metrics.csv,5.0,Size and complexity of SVG logos.
+Icons,table,tables/icons_form.csv,6.0,"Icon form: tile, rounded tile or transparent glyph."
+Icons,table,tables/icons_logo_similarity.csv,6.0,Icon resolution and similarity to the representative logo (lower distance = more similar; hash is a coarse measure).
+Archetypes,table,tables/archetype_cluster_selection.csv,5.0,Silhouette score by number of clusters (the highest is used).
+Archetypes,table,tables/archetype_profiles.csv,2.0,Median feature profile of each data-driven archetype (labels are numeric; interpretation is left to the analyst).
+Archetypes,table,tables/archetype_members.csv,71.0,Cluster membership of each logo.
+Inventory,chart,charts/01_inventory.png,,"Download outcomes, asset types, formats and candidates per site."
+Geometry,chart,charts/02_geometry.png,,"Aspect ratio, orientation, canvas usage and fill."
+Composition,chart,charts/03_composition.png,,"Composition types, symbol position, symbol/text proportion and orientation."
+Color,chart,charts/04_color.png,,"Color mode, palette size, dominant family, background, lightness and contrast."
+Shape and stroke,chart,charts/05_shape_and_stroke.png,,"Circularity, solidity, corners, stroke weight, symmetry and balance."
+Scalability and complexity,chart,charts/06_scalability_and_complexity.png,,"Small-size retention, stroke vs retention, contour complexity and components."
+Icons,chart,charts/07_icons.png,,"Icon form, resolution and similarity to the logo."
+SVG structure,chart,charts/08_svg_structure.png,,Structural properties of SVG logos.
+Archetypes,chart,charts/09_archetypes.png,,"PCA map, archetype sizes and silhouette-based selection."
+Composition,contact sheet,contact_sheets/contact_sheet_representative_logos.png,71.0,Representative logos ordered by composition type and orientation.
+Composition,contact sheet,contact_sheets/contact_sheet_composition_overlays.png,71.0,"Detected visual groups (blue = text-like, red = symbol-like) to validate the composition heuristic."
+Archetypes,contact sheet,contact_sheets/contact_sheet_archetype_1.png,17.0,Logos assigned to Archetype 1.
+Archetypes,contact sheet,contact_sheets/contact_sheet_archetype_2.png,54.0,Logos assigned to Archetype 2.
+Icons,contact sheet,contact_sheets/contact_sheet_icons.png,587.0,Favicons and apple touch icons.
+Validation,table,tables/validation_report.csv,24.0,"Column checks, exclusions and heuristic limitations."
+All,workbook,logo_report_data.xlsx,,"All tables, one sheet per dimension."

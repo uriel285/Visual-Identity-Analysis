@@ -1,0 +1,5 @@
+origin,asset_count,site_count,asset_percentage,site_percentage
+internal,31057,722,64.14,79.6
+external,13376,531,27.63,58.54
+embedded,3973,186,8.21,20.51
+relative_or_unknown,12,1,0.02,0.11

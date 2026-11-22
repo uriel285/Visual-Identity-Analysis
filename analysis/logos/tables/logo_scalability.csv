@@ -1,0 +1,7 @@
+﻿Metric,Valid (n),Mean,Median,P25,Min
+Shape retention at 48px height (IoU),71,0.95,0.98,0.94,0.59
+Component retention at 48px height,71,0.87,0.96,0.78,0.31
+Shape retention at 24px height (IoU),71,0.87,0.92,0.82,0.36
+Component retention at 24px height,71,0.73,0.77,0.51,0.02
+Shape retention at 16px height (IoU),71,0.8,0.87,0.73,0.18
+Component retention at 16px height,71,0.64,0.62,0.35,0.02

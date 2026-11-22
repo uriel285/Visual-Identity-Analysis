@@ -1,0 +1,4 @@
+﻿Metric,Valid values (n),Missing (n),Values > 0 (n),Values > 0 (%),Mean,Median,Std. dev.,Min,P25,P75,P90,Max
+Hero container width (px),705,0,690,97.87,1368.95,1440.0,255.42,0.0,1440.0,1440.0,1440.0,1530.0
+Hero container height (px),705,0,681,96.6,4494.99,4286.0,3734.43,0.0,900.0,6491.0,8979.4,29439.0
+Hero container aspect ratio (W/H),681,24,681,100.0,1.28,0.32,3.75,0.05,0.22,0.92,2.41,45.0

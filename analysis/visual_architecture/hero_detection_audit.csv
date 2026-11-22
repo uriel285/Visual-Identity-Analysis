@@ -1,0 +1,914 @@
+domain,detected,tag,class_name,width,height,hero_keyword
+agoda.com,True,MAIN,HomeReactContainer,1425.0,1548.0,False
+airbnb.com,True,MAIN,m1460ofs atm_gq_189ypq0 atm_gy_y71723__2ygr2h atm_gx_1gbbub3__2ygr2h atm_lj_ysyi00__2ygr2h atm_li_1kk8o5g__2ygr2h dir dir-ltr,1425.0,0.0,False
+ryanair.com,True,MAIN,ng-tns-c3763290479-0,1440.0,2853.0,False
+flightradar24.com,True,MAIN,relative size-full,1108.0,900.0,False
+flightaware.com,True,MAIN,bg-p-50,1440.0,2102.0,False
+skyscanner.com,True,MAIN,,1440.0,2209.0,False
+bahn.de,True,MAIN,doc,1280.0,2701.0,False
+traveloka.com,False,,,,,False
+kayak.com,True,MAIN,WKSW,1440.0,3414.0,False
+thetrainline.com,True,MAIN,,1440.0,4482.0,False
+priceline.com,False,,,,,False
+qantas.com,True,MAIN,,0.0,0.0,False
+ana.co.jp,True,DIV,asw-layout-grid asw-layout-grid--nomargin asw-layout-grid--nomargin-top hero-area,1440.0,360.0,True
+jetblue.com,True,MAIN,,1440.0,3231.0,False
+gol.com.br,True,MAIN,site-content,660.0,835.0,False
+azul.com.br,False,,,,,False
+tapairportugal.com,True,MAIN,jsx-668153745,1440.0,3021.0,False
+finnair.com,True,MAIN,,1440.0,690.0,False
+elal.com,True,IMG,hero-img,1440.0,569.0,True
+vietnamairlines.com,True,MAIN,vna-main,1240.0,3536.0,False
+malaysiaairlines.com,True,MAIN,,1440.0,1153.0,False
+philippineairlines.com,False,,,,,False
+airasia.com,False,,,,,False
+spicejet.com,False,,,,,False
+akasaair.com,True,MAIN,container-fluid,1440.0,2711.0,False
+omanair.com,True,MAIN,"content
+            
+            
+                    ",1440.0,2350.0,False
+royalairmaroc.com,True,DIV,hero hero--resume,1425.0,670.0,True
+kenya-airways.com,True,MAIN,,1440.0,3533.0,False
+flysaa.com,True,DIV,swiper swiper-hero swiper-initialized swiper-horizontal swiper-backface-hidden w-100 swiper-autoheight,1425.0,430.0,True
+wyndhamhotels.com,True,DIV,outer-wrapper page homepage has-retail-banner extended-hero,1440.0,8449.0,True
+accor.com,True,MAIN,,1440.0,6486.0,False
+bestwestern.com,True,DIV,hero,1425.0,810.0,True
+mandarinoriental.com,True,MAIN,main-site-container no-top-spacing alert-visible,1440.0,5154.0,False
+ritzcarlton.com,True,DIV,hero-video top-no-spacing bottom-no-spacing,1440.0,575.0,True
+riu.com,True,MAIN,u-overflow-hidden,1440.0,6430.0,False
+citizenm.com,True,MAIN,,1440.0,6106.0,False
+slh.com,True,MAIN,,1440.0,4395.0,False
+carnival.com,True,DIV,hero-header hero1,1400.0,425.0,True
+ncl.com,True,MAIN,container responsivegrid aem-GridColumn aem-GridColumn--default--12,1440.0,5140.0,False
+princess.com,True,MAIN,main-wrapper responsivegrid aem-GridColumn aem-GridColumn--default--12,1440.0,9163.0,False
+hollandamerica.com,True,DIV,homepagehero aem-GridColumn aem-GridColumn--default--12,1440.0,590.0,False
+azamara.com,True,MAIN,editorial-page ,1440.0,2812.0,False
+silversea.com,True,MAIN,,1440.0,7844.0,False
+seabourn.com,True,DIV,homepagehero aem-GridColumn aem-GridColumn--default--12,1440.0,498.0,False
+enterprise.com,False,,,,,False
+avis.com,True,MAIN,cSyxFW_main,1440.0,6221.0,False
+budget.com,True,DIV,res-heroBanner,1440.0,666.0,False
+alamo.com,False,,,,,False
+nationalcar.com,True,MAIN,container responsivegrid page__content,1212.0,2311.0,False
+sixt.com,False,,,,,False
+thrifty.com,True,MAIN,utils_layout__main__Mbpuv,1440.0,3787.0,False
+europcar.com,True,MAIN,,1440.0,3681.0,False
+rentalcars.com,True,MAIN,,1440.0,1768.0,False
+discovercars.com,True,MAIN,,1440.0,6677.0,False
+amtrak.com,True,MAIN,container responsivegrid page-content content-page aem-GridColumn aem-GridColumn--default--12,1440.0,3170.0,False
+eurostar.com,True,MAIN,,1440.0,5027.0,False
+trenitalia.com,True,MAIN,,1440.0,2605.0,False
+renfe.com,True,DIV,rvheroimage,1440.0,626.0,True
+waze.com,True,MAIN,,1440.0,9591.0,False
+flixbus.com,True,MAIN,,1440.0,2414.0,False
+greyhound.com,True,MAIN,,1440.0,2613.0,False
+nationalrail.co.uk,True,MAIN,sc-f5f82c22-2 fIGuNG,1440.0,3754.0,False
+railyatri.in,True,SECTION,,1440.0,36.0,False
+confirmtkt.com,True,SECTION,mobile-home-hero bg-primary md:hidden,0.0,0.0,True
+12go.asia,False,,,,,False
+kiwitaxi.com,True,MAIN,page home-page,1440.0,5333.0,False
+suntransfers.com,True,MAIN,,1440.0,7289.0,False
+hostelworld.com,True,MAIN,,1440.0,9504.0,False
+couchsurfing.com,True,MAIN,flex w-full flex-1 flex-col,1364.0,3621.0,False
+homestay.com,True,SECTION,hero-banner,1440.0,626.0,True
+misterbandb.com,True,MAIN,hp-17sjmsx e80edl00,1240.0,8464.0,False
+headout.com,True,MAIN,content-main opacity_opacity.100 pointer-events_auto,1425.0,4222.0,False
+civitatis.com,True,MAIN,,1440.0,2988.0,False
+tiqets.com,True,MAIN,,1200.0,3934.0,False
+musement.com,True,MAIN,col wrapper,1440.0,3431.0,False
+tourradar.com,True,MAIN,,1440.0,8835.0,False
+intrepidtravel.com,True,MAIN,,1440.0,5902.0,False
+gadventures.com,True,MAIN,,1440.0,4473.0,False
+exoticca.com,True,MAIN,MainLayout-styles__LayoutWrapper-sc-b852e75b-0 gesklz,1440.0,13520.0,False
+secretescapes.com,True,DIV,hero-slider__container,1440.0,485.0,True
+hopper.com,False,,,,,False
+skift.com,True,MAIN,c-main is-flush-top is-flush-bottom,1440.0,10805.0,False
+lonelyplanet.com,True,MAIN,mb-auto min-h-0 w-full focus:outline-none max-lg:flex-1 lg:mb-0,1440.0,8037.0,False
+roughguides.com,True,SECTION,hero-section-container js-hero-section-container,1440.0,640.0,True
+frommers.com,True,MAIN,,1440.0,9997.0,False
+atlasobscura.com,True,MAIN,,1440.0,7378.0,False
+timeout.com,True,MAIN,_grid_xppf9_1,1102.0,13716.0,False
+travelandleisure.com,True,MAIN,loc main ,1440.0,12226.0,False
+cntraveler.com,True,DIV,StickyHeroAdWrapper-kurarC gSpllZ ad-stickyhero ad-stickyhero-enable-mobile,1440.0,266.0,True
+nationalgeographic.com,True,DIV,CardContainer__Card CardContainer__Card--hero CardContainer__Card--undefined,667.0,423.0,True
+roadtrippers.com,True,MAIN,article-wrapper,1440.0,4926.0,False
+ioverlander.com,True,SECTION,py-6 page-section page-section--bg-dunes,1440.0,610.0,False
+park4night.com,True,HEADER,hero,1440.0,855.0,True
+campercontact.com,False,,,,,False
+flightstats.com,True,MAIN,container ,1170.0,2040.0,False
+expertflyer.com,True,MAIN,grid w-full grid-rows-[auto_1fr_auto] overflow-x-clip font-sans,1440.0,6312.0,False
+sleepinginairports.net,False,,,,,False
+prioritypass.com,True,MAIN,print:pt-0 pt-[123px] min-[991px]:pt-[212px],1440.0,5652.0,False
+cdc.gov,True,MAIN,fade-in,1440.0,1978.0,False
+weather.com,True,MAIN,min-w-0 shrink grow md:pl-8,1240.0,5570.0,False
+tui.com,True,MAIN,,1440.0,5711.0,False
+jet2holidays.com,True,DIV,hero-recent-searches-banner-wrapper,1440.0,516.0,True
+sunwing.ca,True,MAIN,page__container,1440.0,2767.0,False
+westjet.com,True,DIV,com-origin-targeted-hero-banner parbase,888.0,838.0,True
+utair.ru,False,,,,,False
+pobeda.aero,True,MAIN,dp-1vwgk15-root,1440.0,2328.0,False
+airbaltic.com,True,MAIN,,1440.0,3681.0,False
+luxair.lu,True,MAIN,,1440.0,6323.0,False
+nouvelair.com,False,,,,,False
+tunisair.com,True,MAIN,main-content col,1440.0,5543.0,False
+flynas.com,True,MAIN,page-content,1440.0,2850.0,False
+srilankan.com,False,,,,,False
+airmauritius.com,True,SECTION,cookie-banner container-fluid hidden,0.0,0.0,False
+airmadagascar.com,False,,,,,False
+taag.com,True,DIV,carousel-container carousel-hero,1440.0,620.0,True
+rwandair.com,True,MAIN,container,1440.0,4996.0,False
+ugandairlines.com,False,,,,,False
+hkexpress.com,True,DIV,heroBannerCarousel MuiBox-root css-0,1440.0,530.0,False
+greaterbay-airlines.com,True,MAIN,container responsivegrid aem-GridColumn aem-GridColumn--default--12,1440.0,4444.0,False
+nokair.com,True,DIV,hero,1440.0,828.0,True
+laoairlines.com,False,,,,,False
+jalan.net,False,,,,,False
+indianrail.gov.in,False,,,,,False
+travel.rakuten.co.jp,True,MAIN,bottom-sheet__content,360.0,211.0,False
+jr-central.co.jp,True,MAIN,main,750.0,6172.0,False
+partiful.com,True,MAIN,framer-hiUyi framer-n56gk framer-VkqFR framer-PWLJ9 framer-WwIpd framer-WuLeu framer-Y7sEZ framer-1xt76ab,0.0,0.0,False
+ekispert.jp,True,MAIN,,1440.0,3667.0,False
+yahoo.co.jp,True,MAIN,_1E44HBKDmnr5AqaU83dU3b,990.0,360.0,False
+jtb.co.jp,True,MAIN,main-content,1440.0,5562.0,False
+hankyu-travel.com,True,MAIN,,1440.0,6236.0,False
+rurubu.travel,True,MAIN,HomeReactContainer,1440.0,922.0,False
+ikyu.co.jp,True,SECTION,section _c252 _pe _p2w _p31 _p4n,1440.0,690.0,False
+srt.co.kr,True,MAIN,,1440.0,1865.0,False
+interpark.com,False,,,,,False
+yanolja.com,True,MAIN,relative mx-auto flex w-full flex-col ds-pc:min-h-screen,1425.0,7586.0,False
+hanatour.com,True,MAIN,,1440.0,6491.0,False
+waug.com,False,,,,,False
+ctrip.com,False,,,,,False
+ly.com,True,SECTION,figma-hero,1440.0,440.0,True
+elong.com,False,,,,,False
+huazhu.com,False,,,,,False
+easemytrip.com,False,,,,,False
+cleartrip.com,True,MAIN,,1440.0,3942.0,False
+ixigo.com,True,MAIN,min-w-[1240px] overflow-x-scroll,1440.0,3352.0,False
+paytm.com,False,,,,,False
+abhibus.com,True,H1,h6 hero-title,323.0,22.0,True
+etrain.info,False,,,,,False
+oyorooms.com,False,,,,,False
+treebo.com,True,MAIN,body-wrapper,1440.0,5761.0,False
+fabhotels.com,False,,,,,False
+lemontreehotels.com,False,,,,,False
+oberoihotels.com,False,,,,,False
+tiket.com,True,MAIN,,1440.0,6478.0,False
+nusatrip.com,True,MAIN,,1440.0,4878.0,False
+reddoorz.com,False,,,,,False
+antavaya.com,False,,,,,False
+dwidayatour.co.id,False,,,,,False
+goldenrama.com,True,MAIN,flex-1,1440.0,5190.0,False
+panorama-tours.com,True,MAIN,page-content,1150.0,820.0,False
+mytour.vn,True,MAIN,,1440.0,2223.0,False
+dsvn.vn,False,,,,,False
+vietnam.vn,True,MAIN,flex min-h-screen flex-col items-center,1440.0,20899.0,False
+baolau.com,False,,,,,False
+busonlineticket.com,False,,,,,False
+redbus.my,True,MAIN,main__sea-home-styles-module-scss-HF2CX,1440.0,2884.0,False
+bookaway.com,True,DIV,jsx-2001230712 hero,1440.0,530.0,True
+trainline.eu,True,MAIN,,1440.0,2800.0,False
+interrail.eu,True,MAIN,page-content page-content--default,1440.0,4383.0,False
+eurail.com,True,MAIN,page-content page-content--default,1440.0,4383.0,False
+ns.nl,True,MAIN,,1440.0,3066.0,False
+oebb.at,True,MAIN,content,1440.0,2304.0,False
+cd.cz,True,MAIN,main main--homepage,1440.0,1377.0,False
+mavcsoport.hu,True,MAIN,grid-12 clearfix,940.0,0.0,False
+bdz.bg,True,MAIN,,1440.0,1428.0,False
+vy.no,True,MAIN,css-1gmcq3q,1425.0,4853.0,False
+vr.fi,True,MAIN,,1440.0,6900.0,False
+dsb.dk,True,SECTION,fixed z-10 h-[calc(100vh-var(--navigation-height))] w-full bg-surface-50 initial:opacity-0 initial:[clip-path:inset(100%_0_0_0)] lg:top-[var(--navigation-height)] initial:lg:[clip-path:inset(0_0_100%),1440.0,820.0,False
+irishrail.ie,True,MAIN,,1440.0,1657.0,False
+scotrail.co.uk,True,MAIN,col-lg-12 page-with-banner page-with-offcanvas,1170.0,2643.0,False
+avantiwestcoast.co.uk,True,MAIN,,1440.0,9283.0,False
+southeasternrailway.co.uk,True,MAIN,is-homepage,1440.0,3739.0,False
+wmata.com,True,MAIN,core-container full-width-template,1440.0,3290.0,False
+translink.ca,True,STYLE,hero-promo-mobile-tabs-styling,0.0,0.0,True
+ttc.ca,True,MAIN,,1440.0,4801.0,False
+metrolinx.com,True,MAIN,relative drop-shadow-none,1440.0,3853.0,False
+gotransit.com,True,MAIN,relative flex-1 drop-shadow-none,1440.0,3752.0,False
+viarail.ca,False,,,,,False
+alsa.es,False,,,,,False
+avanzabus.com,False,,,,,False
+monbus.es,True,MAIN,,1440.0,540.0,False
+movelia.es,True,MAIN,main-content col order-last,1280.0,430.0,False
+blablacar.com,True,MAIN,_6igt6c1op _6igt6c1uo _6igt6c1qd _6igt6c1p9 _6igt6c1po _6igt6c1pt _6igt6c1nb _6igt6c21m _6igt6c28p _6igt6c25x _6igt6c26c _6igt6c2b4 _6igt6c2kz _6igt6c2dm _6igt6c2ih _6igt6c2y6,1016.0,1124.0,False
+ouigo.com,False,,,,,False
+flixtrain.com,True,MAIN,,1440.0,3518.0,False
+regiojet.com,True,MAIN,__className_86aea7,1440.0,2429.0,False
+leoexpress.com,True,MAIN,page padding,1440.0,3289.0,False
+polskibus.com,True,MAIN,,1440.0,2414.0,False
+luxexpress.eu,True,MAIN,MainLayout_main__KI3Tu,1440.0,3124.0,False
+infobus.eu,False,,,,,False
+aviasales.ru,False,,,,,False
+onetwotrip.com,False,,,,,False
+ostrovok.ru,True,MAIN,DefaultLayout_content__jHY4T,1380.0,5186.0,False
+2gis.ru,False,,,,,False
+edreams.com,False,,,,,False
+opodo.com,False,,,,,False
+govoyages.com,False,,,,,False
+travellink.com,False,,,,,False
+lastminute.com,True,MAIN,,1440.0,5855.0,False
+bravofly.com,True,MAIN,,1440.0,2304.0,False
+rumbo.es,True,MAIN,,1440.0,6483.0,False
+volagratis.com,True,MAIN,,1440.0,4679.0,False
+destinia.com,True,MAIN,content-wrapper,1440.0,3132.0,False
+centraldereservas.com,True,MAIN,core-content wrapper--content,1439.0,8174.0,False
+almundo.com,False,,,,,False
+turismocity.com,False,,,,,False
+avantrip.com,False,,,,,False
+priceTravel.com,True,MAIN,ng-scope,1440.0,3550.0,False
+cocha.com,False,,,,,False
+atrapalo.cl,False,,,,,False
+cvc.com.br,True,MAIN,content__home css-i68gvs,1284.0,2244.0,False
+maxmilhas.com.br,True,MAIN,,1440.0,2860.0,False
+123milhas.com,True,MAIN,,1440.0,2217.0,False
+zarpo.com.br,False,,,,,False
+clickbus.com.br,False,,,,,False
+buser.com.br,True,MAIN,home,1425.0,4828.0,False
+queropassagem.com.br,True,MAIN,home-2026,1440.0,5111.0,False
+ado.com.mx,True,MAIN,page-row page-row-expanded,1440.0,400.0,False
+etn.com.mx,True,MAIN,,1440.0,8572.0,False
+primeraplus.com.mx,False,,,,,False
+pullmantur.com,True,MAIN,,1440.0,1843.0,False
+cruceros.com,False,,,,,False
+disneylandparis.com,True,MAIN,l-main-wrapper,1440.0,4343.0,False
+uss.com.sg,False,,,,,False
+buschgardens.com,True,MAIN,main-padded,1440.0,3424.0,False
+sixflags.com,True,MAIN,"mt-[var(--sticky-header-height,120px)]",1440.0,5347.0,False
+cedarpoint.com,True,MAIN,"mt-[var(--sticky-header-height,130px)] park-mobile:mt-0! [@media(max-width:1023px)]:park-banner:mt-[var(--sticky-header-height,190px)] header-tablet:park-banner:mt-[var(--sticky-header-height,181px)] ",1440.0,2644.0,False
+knotts.com,True,MAIN,"mt-[var(--sticky-header-height,130px)] park-mobile:mt-0! [@media(max-width:1023px)]:park-banner:mt-[var(--sticky-header-height,190px)] header-tablet:park-banner:mt-[var(--sticky-header-height,181px)] ",1440.0,3203.0,False
+legoland.com,True,MAIN,page-content,1440.0,704.0,False
+europapark.de,True,MAIN,,1375.0,14319.0,False
+phantasialand.de,True,MAIN,,1440.0,11432.0,False
+efteling.com,True,MAIN,main,1440.0,5727.0,False
+portaventuraworld.com,True,DIV,t-type-OutputHero t-id-HomeHero hero_root__fJgn5,1440.0,752.0,False
+parquewarner.com,True,DIV,bannerHero,1440.0,750.0,False
+thorpepark.com,True,MAIN,page-content,1440.0,4554.0,False
+chessington.com,True,MAIN,page-content,1440.0,6194.0,False
+puydufou.com,True,MAIN,,1440.0,8269.0,False
+parcasterix.fr,True,MAIN,,1425.0,4368.0,False
+futuroscope.com,True,MAIN,flex-grow,1440.0,6192.0,False
+nps.gov,True,DIV,HeroHomepage Hero,1440.0,540.0,True
+recreation.gov,True,SECTION,nav-hero-wrap,1440.0,475.0,True
+hipcamp.com,False,,,,,False
+thedyrt.com,True,MAIN,AppPage_main__wlyJU AppPage_main--no-frame__pRBof,1440.0,7372.0,False
+alltrails.com,True,MAIN,,1440.0,6590.0,False
+komoot.com,False,,,,,False
+strava.com,True,MAIN,,1440.0,514.0,False
+outdooractive.com,True,MAIN,oax-top-cont,1440.0,3760.0,False
+onthesnow.com,True,DIV,hero-wrapper,1440.0,900.0,True
+snow-forecast.com,True,DIV,homepage-hero,1440.0,884.0,True
+skiresort.info,False,,,,,False
+epicpass.com,True,DIV,heroCarousel heroCarousel--,1440.0,511.0,False
+ikonpass.com,True,MAIN,,1440.0,5680.0,False
+vail.com,True,DIV,hero_with_promotion hero_with_promotion--has_4x3 clip-supported,1440.0,456.0,False
+aspensnowmass.com,True,MAIN,,1440.0,6453.0,False
+whistlerblackcomb.com,True,DIV,hero_with_promotion hero_with_promotion--has_4x3 clip-supported,1440.0,454.0,False
+chamonix.com,True,MAIN,,1440.0,4373.0,False
+zermatt.ch,False,,,,,False
+stmoritz.com,True,MAIN,,1440.0,8247.0,False
+visitsingapore.com,False,,,,,False
+visitkorea.or.kr,False,,,,,False
+malaysia.travel,True,SECTION,banner_slider hero-controls-idle,1440.0,900.0,True
+indonesia.travel,True,MAIN,min-h-[100vh],1440.0,4294.0,False
+australia.com,True,MAIN,,1440.0,6976.0,False
+visitbritain.com,True,MAIN,main u-flex-auto,1170.0,11929.0,False
+ireland.com,True,DIV,profile-hero loaded,1440.0,294.0,True
+france.fr,True,MAIN,AfHomePage,1440.0,6626.0,False
+spain.info,True,MAIN,i4t-include-elems,1440.0,8639.0,False
+italia.it,True,SECTION,col-sm-12 newHeroAsset,1440.0,880.0,False
+germany.travel,True,MAIN,,1440.0,5897.0,False
+visitfinland.com,True,MAIN,,1440.0,11235.0,False
+visitdenmark.com,True,MAIN,z-10,1440.0,5402.0,False
+visitgreece.gr,True,MAIN,w-full flex-1,1440.0,11900.0,False
+visitdubai.com,True,MAIN,main overflowXClip,1425.0,1680.0,False
+visitsaudi.com,True,MAIN,!h-auto,1440.0,4961.0,False
+visitmorocco.com,False,,,,,False
+destinationcanada.com,True,MAIN,relative,1440.0,5143.0,False
+visitmexico.com,True,SECTION,hero,1440.0,293.0,True
+visitbrasil.com,True,MAIN,,1440.0,6131.0,False
+argentina.travel,True,MAIN,min-h-screen,1440.0,3550.0,False
+chile.travel,True,MAIN,main-content,1440.0,6779.0,False
+peru.travel,True,MAIN,,1440.0,5633.0,False
+colombia.travel,True,MAIN,large-12 columns,1180.0,0.0,False
+visitcostarica.com,True,MAIN,main-content,1440.0,9318.0,False
+heathrow.com,True,DIV,flight-search-wrapper s3 relative comp-mb  hero-carousel-wrapper,1360.0,856.0,True
+gatwickairport.com,True,DIV,custom-arrow hero-arrow-left custom-arrow-left icon-arrow-left slick-arrow,0.0,0.0,True
+manchesterairport.co.uk,True,MAIN,,1440.0,3062.0,False
+stanstedairport.com,True,MAIN,,1440.0,3087.0,False
+frankfurt-airport.com,True,MAIN,fra-m-page-main,1280.0,2817.0,False
+munich-airport.de,True,DIV,keyvisual-slider flexslider pi-et-hero,1440.0,500.0,True
+schiphol.nl,True,MAIN,,1440.0,5813.0,False
+adr.it,True,DIV,lfr-layout-structure-item-hero-home lfr-layout-structure-item-48f66cf1-aa1a-1b6b-52bf-73d49cc41d7d ,1440.0,513.0,True
+zurich-airport.com,True,MAIN,,1425.0,7403.0,False
+viennaairport.com,True,MAIN,main,1530.0,3915.0,False
+avinor.no,True,MAIN,page start-page,1425.0,930.0,False
+finavia.fi,True,MAIN,site-content,1440.0,2487.0,False
+istairport.com,True,MAIN,,1440.0,3301.0,False
+dubaiairports.ae,True,MAIN,,1440.0,5890.0,False
+changiairport.com,False,,,,,False
+hongkongairport.com,False,,,,,False
+newdelhiairport.in,False,,,,,False
+bengaluruairport.com,True,MAIN,,1440.0,4116.0,False
+sydneyairport.com.au,True,DIV,hero-banner,1440.0,704.0,True
+melbourneairport.com.au,True,MAIN,layout-main layout-main-min-height edge-lines,1440.0,2886.0,False
+torontopearson.com,True,MAIN,main,1425.0,7203.0,False
+yvr.ca,True,MAIN,yvr-main,1440.0,2376.0,False
+admtl.com,False,,,,,False
+flysfo.com,True,DIV,hero-home hero-home--has-image,1440.0,630.0,True
+jfkairport.com,True,MAIN,,1440.0,4270.0,False
+atl.com,True,MAIN,site-main post-24841 page type-page status-publish hentry,1440.0,4422.0,False
+miami-airport.com,True,SECTION,cd-hero ,1440.0,716.0,True
+aicm.com.mx,True,MAIN,site-main,1240.0,978.0,False
+lima-airport.com,True,MAIN,tw-min-h-[60vh],1440.0,2049.0,False
+directferries.com,True,SECTION,home-hero,1425.0,900.0,True
+ferryhopper.com,True,SECTION,fh-modal__body,0.0,0.0,False
+stenaline.com,True,DIV,hero-front  adjust-for-video,1440.0,725.0,True
+dfds.com,True,MAIN,,1440.0,5270.0,False
+brittany-ferries.co.uk,True,MAIN,container,1440.0,0.0,False
+irishferries.com,True,MAIN,c-modal__content,0.0,0.0,False
+vikingline.com,True,MAIN,c-main,1440.0,3403.0,False
+tallink.com,True,MAIN,cwt-page__content ,1440.0,4349.0,False
+colorline.com,True,MAIN,,1440.0,4619.0,False
+hurtigruten.com,True,MAIN,,1440.0,4002.0,False
+havilavoyages.com,True,MAIN,grow,1440.0,5889.0,False
+gnv.it,True,MAIN,,1440.0,4411.0,False
+trasmed.com,True,MAIN,w-full,1440.0,3223.0,False
+fredolsen.es,True,MAIN,,1440.0,2630.0,False
+navieraarmas.com,True,MAIN,w-full bg-grey-300 mt-if-secondary-hidden global-container mx-auto,1440.0,5409.0,False
+minoan.gr,True,MAIN,main,1440.0,5925.0,False
+anek.gr,True,SECTION,s-strip s-hero medium,1440.0,720.0,True
+bluestarferries.com,True,SECTION,s-strip s-hero medium,1440.0,720.0,True
+seajets.com,True,MAIN,relative,1440.0,5358.0,False
+hellenicseaways.gr,True,SECTION,s-strip s-hero medium,1440.0,720.0,True
+jadrolinija.hr,True,SECTION,hero,1440.0,1027.0,True
+bcferries.com,True,MAIN,page-margin,1440.0,4729.0,False
+wsdot.wa.gov,False,,,,,False
+alaskaferry.com,True,SECTION,tours-wrp,1440.0,3673.0,False
+spiritoftasmania.com.au,False,,,,,False
+interislander.co.nz,True,MAIN,site-content,1440.0,6920.0,False
+bluebridge.co.nz,True,SECTION,,1440.0,1118.0,False
+starferry.com.hk,True,MAIN,,1440.0,4568.0,False
+cotaiwaterjet.com,False,,,,,False
+buquebus.com,True,DIV,BQBHeroSearchBox_wrapper___aRty,1440.0,491.0,False
+coloniaexpress.com,True,MAIN,,1440.0,852.0,False
+outdoorsy.com,True,DIV,[[data-ai-hero]_&]:hidden,1280.0,284.0,True
+rvshare.com,True,SECTION,home-2026-search-hero-shell,1440.0,401.0,True
+cruiseamerica.com,True,MAIN,page,1440.0,3483.0,False
+elmonterv.com,True,MAIN,,1440.0,6908.0,False
+roadbearrv.com,True,MAIN,,1440.0,6854.0,False
+apollocamper.com,True,MAIN,,1440.0,5344.0,False
+britz.com,True,DIV,[ heroImage  tallBanner  ][ row ][  ],1440.0,400.0,True
+maui-rentals.com,True,MAIN,,1440.0,5246.0,False
+jucy.com,True,MAIN,,1440.0,6990.0,False
+wickedcampers.com,True,MAIN,roadtrip-home,1440.0,5450.0,False
+indiecampers.com,True,MAIN,min-h-dvh,1440.0,4860.0,False
+roadsurfer.com,True,DIV,caption-hero,1110.0,92.0,True
+yescapa.com,True,MAIN,,1440.0,5025.0,False
+paulcamper.com,True,MAIN,flex flex-col bg-white,1440.0,12312.0,False
+goboony.com,True,DIV,hero hero--home hero--with-social-proof us,1440.0,680.0,True
+spaceshipsrentals.co.uk,True,MAIN,wpbf-main wpbf-medium-2-3 wpbf-single-content wpbf-page-content,1440.0,13438.0,False
+momondo.com,True,MAIN,WKSW,1440.0,4005.0,False
+cheapflights.com,False,,,,,False
+airfarewatchdog.com,True,MAIN,,1440.0,8381.0,False
+scottscheapflights.com,True,MAIN,jsx-dec5f7c7f7b16200 jsx-1259862864,1440.0,10568.0,False
+going.com,True,MAIN,jsx-dec5f7c7f7b16200 jsx-1259862864,1440.0,5059.0,False
+fly4free.com,True,SECTION,hero,1440.0,360.0,True
+holidaypirates.com,True,MAIN,,1440.0,6288.0,False
+urlaubspiraten.de,True,MAIN,,1440.0,6472.0,False
+viajerospiratas.es,True,MAIN,,1440.0,7467.0,False
+chollometro.com,True,MAIN,flex--expand-v width--all-12 bg--off ,1440.0,11135.0,False
+trabber.com,False,,,,,False
+check24.de,True,MAIN,c24-content,1425.0,8131.0,False
+almosafer.com,True,DIV,alm-desktop-13b4x1d-heroContainer,1440.0,406.0,False
+musafir.com,True,MAIN,Layout_ut-main-cnt__lSMOC,1440.0,6850.0,False
+cleartrip.ae,False,,,,,False
+via.com,False,,,,,False
+akbartravels.com,False,,,,,False
+thomasCook.in,True,DIV,hero_section,1440.0,0.0,False
+sotc.in,True,MAIN,main-content,1440.0,762.0,False
+coxandkings.com,True,MAIN,pt-26 overflow-x-clip,1440.0,9794.0,False
+kuoni.co.uk,True,MAIN,,1440.0,11459.0,False
+abercrombiekent.com,True,SECTION,highlighted-hero-section flex-col items-center justify-center max-h-[600px] no-animation no-parallax,1440.0,600.0,True
+butterfield.com,True,MAIN,MuiBox-root css-1nob2mz,1440.0,10722.0,False
+backroads.com,True,MAIN,page--node site-content,1440.0,4692.0,False
+tauck.com,True,DIV,c-hero-search c-hero-search-backgrounds lazyloaded,1440.0,866.0,True
+trafalgar.com,False,,,,,False
+insightvacations.com,True,DIV,component-wrapper component-wrapper__hero component-container,1440.0,602.0,False
+contiki.com,False,,,,,False
+topdeck.travel,True,MAIN,main,1425.0,5489.0,False
+kilroy.net,True,MAIN,v-main,1440.0,4336.0,False
+flightcentre.com,True,MAIN,aurora-c7p0e4,1440.0,2634.0,False
+helloworld.com.au,True,DIV,__hero--agent,1440.0,470.0,True
+houseoftravel.co.nz,True,MAIN,,1440.0,6771.0,False
+thomascook.com,True,MAIN,contents,0.0,0.0,False
+dertour.de,True,MAIN,,1440.0,8151.0,False
+alltours.de,True,DIV,HeroSliderSection,1440.0,508.0,False
+palladiumhotelgroup.com,True,MAIN,,1440.0,4188.0,False
+hardrockhotels.com,True,DIV,customWidget vizADAHeroCarousel2Widget pageWidgetId1440648,1440.0,774.0,False
+karismahotels.com,True,MAIN,,1440.0,5401.0,False
+velasresorts.com,True,DIV,uk-position-relative uk-visible-toggle hero-slideshow uk-overflow-hidden uk-slideshow,1440.0,900.0,True
+decameron.com,False,,,,,False
+generatorhostels.com,True,MAIN,,1440.0,4929.0,False
+aohostels.com,False,,,,,False
+meininger-hotels.com,True,MAIN,,1440.0,8452.0,False
+st-christophers.co.uk,True,MAIN,"
+page-container  
+page--home 
+palette--inherit theme--inherit",1440.0,29439.0,False
+yha.org.uk,True,SECTION,usp-banner  has-hero,1440.0,54.0,True
+hihostels.com,True,DIV,nav_component w-variant-dd866659-1d7d-6447-6461-66ca86ca367f is-nav-on-hero,1440.0,64.0,True
+nomadsworld.com,True,MAIN,,1440.0,8372.0,False
+basebackpackers.com,True,SECTION,page-homepage,1440.0,2774.0,False
+onefamhostels.com,True,BODY,home wp-singular page-template-default page page-id-575 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor wp-child-theme-hello-elementor-child hello-elementor-default elementor-default eleme,1440.0,5475.0,False
+airbnb.org,True,MAIN,m1vekm8z atm_9s_1txwivl atm_fc_1y6m0gg atm_ax_kb7nvz atm_ar_1bp4okc atm_lo_13n212w atm_le_wl67f7 atm_lj_ysyi00 atm_li_1kk8o5g msertq4 atm_187blal_u29brm dir dir-ltr,1425.0,7034.0,False
+plumguide.com,True,MAIN,bg-sand-50,1440.0,9187.0,False
+onefinestay.com,False,,,,,False
+blueground.com,False,,,,,False
+limehome.com,True,MAIN,m-auto max-w-screen-xl,1280.0,4768.0,False
+numa.com,False,,,,,False
+bobw.co,True,MAIN,,1440.0,11108.0,False
+kasa.com,True,MAIN,LandingPage-module-scss-module__EZU-na__landing-page,1440.0,6394.0,False
+landing.com,True,SECTION,hero,1440.0,636.0,True
+marriottbonvoy.com,True,MAIN,,1440.0,4411.0,False
+all.accor.com,True,MAIN,container responsivegrid,1336.0,2393.0,False
+wyndhamrewards.com,True,DIV,herocontainer base parbase,1408.0,621.0,False
+gha.com,True,DIV,MultipleHeroBannersPageBlock_cardSwiper__Nay2y w-full relative,1440.0,816.0,False
+preferredhotels.com,True,SECTION,hero,1440.0,852.0,True
+relaischateaux.com,False,,,,,False
+designhotels.com,False,,,,,False
+mrandmrssmith.com,True,MAIN,global,1440.0,2410.0,False
+kiwi.com,True,MAIN,flex grow flex-col,1440.0,5125.0,False
+dohop.com,True,SECTION,home-section-hero,1440.0,891.0,True
+azair.eu,False,,,,,False
+bing.com,False,,,,,False
+tripit.com,True,DIV,background-image paragraph paragraph--type--component-global-heroes paragraph--view-mode--default,1440.0,858.0,False
+flighty.app,False,,,,,False
+awardwallet.com,True,MAIN,page-landing__main,1440.0,4498.0,False
+point.me,True,SECTION,relative w-full container-rows-grid row-1-0 row-6-0 container-cols-grid hero-spacing bg-deep-purple text-white,1440.0,736.0,True
+seats.aero,True,MAIN,,1272.0,2159.0,False
+roame.travel,True,MAIN,w-full,1440.0,4507.0,False
+vacasa.com,True,DIV,w-100 position-absolute hero-img,1440.0,560.0,True
+evolve.com,True,SECTION,,1440.0,422.0,False
+turnkeyvr.com,True,DIV,w-100 position-absolute hero-img,1440.0,560.0,True
+avantstay.com,False,,,,,False
+inspirato.com,True,MAIN,min-h-svh bg-white,1440.0,8412.0,False
+thirdhome.com,True,MAIN,,1440.0,7185.0,False
+homeexchange.com,True,MAIN,,1440.0,8471.0,False
+lovehomeswap.com,False,,,,,False
+intervac-homeexchange.com,True,SECTION,startpage-hero,1440.0,608.0,True
+mindmyhouse.com,False,,,,,False
+nomador.com,False,,,,,False
+workaway.info,True,MAIN,,1440.0,10285.0,False
+worldpackers.com,False,,,,,False
+wwoof.net,False,,,,,False
+hometogo.com,True,MAIN,main,1440.0,7492.0,False
+belvilla.com,False,,,,,False
+novasol.com,True,DIV,Hero_uspsCentered__4Cx9U,1440.0,48.0,False
+dancenter.com,False,,,,,False
+landal.com,False,,,,,False
+centerparcs.com,True,SECTION,prehomeCom-discover r-Grid,1425.0,835.0,False
+maeva.com,True,MAIN,home-maeva-france,1440.0,4860.0,False
+homair.com,True,MAIN,relative,1440.0,7407.0,False
+eurocamp.co.uk,True,MAIN,,1440.0,6404.0,False
+albatross.com,True,MAIN,sections_group,1440.0,3101.0,False
+vacanceselect.com,True,MAIN,,1440.0,3470.0,False
+gites-de-france.com,True,MAIN,g2f-main g2f-container,1440.0,4520.0,False
+clevacances.com,True,MAIN,front-p9ocur,1440.0,4822.0,False
+escapadarural.com,True,SPAN,iconify i-heroicons:share shrink-0 size-6,0.0,0.0,False
+tuscasasrurales.com,True,MAIN,fluid fluidbis contenido push,1440.0,7122.0,False
+rusticae.es,False,,,,,False
+pousadas.pt,True,DIV,hero-banner-carousel aem-GridColumn aem-GridColumn--default--12,1440.0,964.0,True
+hoseasons.co.uk,True,DIV,Hero_uspsCentered__4Cx9U,1440.0,48.0,False
+cottages.com,True,DIV,Hero_uspsCentered__4Cx9U,1440.0,48.0,False
+nationaltrust.org.uk,True,MAIN,sc-lkciiw-0 vmQWg,1440.0,5238.0,False
+landmarktrust.org.uk,True,MAIN,homePage,1440.0,3106.0,False
+canopyandstars.co.uk,True,DIV,hero,1440.0,533.0,True
+coolcamping.com,False,,,,,False
+glampinghub.com,True,BODY,hide-searcher-navbar page-home page-landing-hero-search modal-open,1440.0,2980.0,True
+glamping.com,False,,,,,False
+tentrr.com,True,MAIN,main-content content-for-layout focus-none,1440.0,2094.0,False
+worldnomads.com,True,SECTION,Hero Hero--bg Hero--image  ,1440.0,345.0,True
+allianztravelinsurance.com,True,DIV,container container-hero_image_with_content_box component container-hero_image_with_content_box-component,1440.0,820.0,False
+travelguard.com,False,,,,,False
+imglobal.com,True,DIV,sf_colsIn img-hero-banner img-hero-banner--tall img-hero-banner--home overflow-x-clip,1440.0,898.0,True
+geobluetravelinsurance.com,True,MAIN,,1440.0,5048.0,False
+hthtravelinsurance.com,False,,,,,False
+safetywing.com,True,DIV,"group/hero relative h-[665px] w-full overflow-clip bg-[linear-gradient(180deg,#45BEBF_8.95%,#5DC6C7_13.25%,#84D4D5_20.25%,#A5DFE0_27.79%,#BEE8E8_35.86%,#D0EFEF_43.93%,#DAF2F2_52.55%,#DEF4F4_62.77%)] m",1440.0,1340.0,True
+heymondo.com,True,HEADER,main-header fixed z-50 w-full lg:py-4.5 hero top-0,1425.0,76.0,True
+iati.es,True,MAIN,,1440.0,7181.0,False
+axa-schengen.com,True,SECTION,flex-fill,1440.0,7388.0,False
+europ-assistance.com,True,MAIN,elementor-element elementor-element-2ff4b25 e-con-full e-flex e-con e-parent e-lazyloaded,1440.0,3095.0,False
+mapfre.com,True,MAIN,wp-block-group is-layout-constrained wp-block-group-is-layout-constrained,1440.0,12259.0,False
+assistcard.com,False,,,,,False
+universal-assistance.com,True,MAIN,front-page,1440.0,4829.0,False
+intermundial.es,True,MAIN,main-container,1440.0,5630.0,False
+insuremytrip.com,True,MAIN,main,1440.0,3740.0,False
+comparethemarket.com,True,MAIN,,1200.0,7048.0,False
+confused.com,True,MAIN,,1440.0,7239.0,False
+blacklane.com,True,MAIN,Layout_main__h283P,1440.0,7202.0,False
+welcomepickups.com,False,,,,,False
+lyft.com,True,MAIN,sc-2bcdf7f3-0 jxWLGl,1440.0,4815.0,False
+bolt.eu,True,MAIN,,1440.0,10494.0,False
+cabify.com,True,MAIN,,1440.0,2493.0,False
+grab.com,False,,,,,False
+gojek.com,False,,,,,False
+careem.com,True,MAIN,flex-1,1440.0,2046.0,False
+curb.com,True,MAIN,clearfix width-100,1440.0,3947.0,False
+waymo.com,True,MAIN,,1440.0,9177.0,False
+carmellimo.com,True,MAIN,,1440.0,3196.0,False
+supershuttle.com,True,BODY,home wp-singular page-template page-template-page_hero-single-cta page-template-page_hero-single-cta-php page page-id-7 wp-theme-genesis wp-child-theme-supershuttle sp-easy-accordion-enabled safari os,1440.0,4064.0,True
+goairportshuttle.com,False,,,,,False
+terrashuttle.com,False,,,,,False
+flibco.com,True,MAIN,main-container clearfix,1440.0,4756.0,False
+nationalexpress.com,True,MAIN,m_8983817 mantine-AppShell-main,1440.0,2549.0,False
+firstbus.co.uk,True,MAIN,,1440.0,2230.0,False
+go-ahead.com,True,MAIN,site-main,1440.0,5972.0,False
+aircoach.ie,True,SECTION,page-header bg-light mb-7 image-header,1440.0,589.0,False
+flybus.is,True,MAIN,Main-module-scss-module__tli4iW__main,1425.0,6502.0,False
+airportexpress.no,False,,,,,False
+arlandaexpress.se,True,MAIN,StandardPageLayout-module__mainContent___-hk8m,1425.0,5254.0,False
+flytoget.no,True,MAIN,maincontent,1440.0,2521.0,False
+cat.at,False,,,,,False
+malpensaexpress.it,True,BUTTON,button herospace primary-on-dark,176.0,40.0,False
+heathrowexpress.com,True,MAIN,flex-1,1440.0,12371.0,False
+kliaekspres.com,True,SECTION,sec_standard lightbg_txt general-partial-view,1440.0,758.0,False
+arl.co.th,False,,,,,False
+upexpress.com,True,MAIN,relative flex-1,1440.0,2291.0,False
+spotangels.com,False,,,,,False
+spothero.com,True,MAIN,css-0,1440.0,4286.0,False
+parkwhiz.com,True,DIV,hero-search padding-top-xs-80 padding-top-md-120 padding-bottom-md-40 padding-bottom-xs-80 padding-bottom-sm-0,1440.0,554.0,True
+justpark.com,True,DIV,searchHero-w1X5y-0 searchHeroWithSlot-MehrH-0,1440.0,827.0,True
+yourparkingspace.co.uk,True,MAIN,,1440.0,5442.0,False
+apcoa.com,True,MAIN,site-main,1440.0,4150.0,False
+interparking.com,True,MAIN,mb-auto,1430.0,10276.0,False
+saba.es,True,SECTION,saba-content,1440.0,6686.0,False
+empark.com,True,MAIN,,1440.0,4689.0,False
+skyparksecure.com,True,MAIN,,1440.0,7587.0,False
+holidayextras.com,False,,,,,False
+aph.com,True,MAIN,,1440.0,3125.0,False
+looking4.com,True,MAIN,,1440.0,1111.0,False
+parkvia.com,True,MAIN,,1440.0,3615.0,False
+theparking-spot.com,True,MAIN,main-container__body,1424.0,5165.0,False
+ticketmaster.com,True,MAIN,,1440.0,5100.0,False
+todaytix.com,True,MAIN,,1440.0,4212.0,False
+broadway.com,False,,,,,False
+londontheatre.co.uk,True,MAIN,,1440.0,5140.0,False
+officiallondontheatre.com,True,MAIN,site-main,1440.0,3330.0,False
+feverup.com,True,MAIN,,1440.0,4189.0,False
+eventbrite.com,True,MAIN,HomePageContainer-module-scss-module___hQ2aq__root,1440.0,3664.0,False
+meetup.com,True,MAIN,relative flex flex-grow flex-col items-center overflow-hidden pb-12 text-gray7 smd:pb-16,1440.0,4009.0,False
+withlocals.com,True,MAIN,,1440.0,10276.0,False
+showaround.com,False,,,,,False
+toursbylocals.com,True,MAIN,,1440.0,10105.0,False
+contexttravel.com,True,MAIN,display:block,1440.0,6772.0,False
+walks.com,False,,,,,False
+takewalks.com,True,MAIN,flex-1,1440.0,7599.0,False
+guruwalk.com,True,MAIN,"pointer-events-none absolute top-0 left-0 w-[calc(100%-var(--assistant-panel-width,0px))] md:pb-0 pb-[calc(4rem+var(--safe-area-bottom)+var(--assistant-bar-height,0px))]",1440.0,4230.0,False
+freetour.com,True,MAIN,page-content home,1440.0,2456.0,False
+civitatis.es,True,MAIN,,1440.0,2988.0,False
+aladinia.com,False,,,,,False
+smartbox.com,False,,,,,False
+dakotabox.es,False,,,,,False
+adrenaline.com.au,True,MAIN,,0.0,0.0,False
+virginexperiencedays.co.uk,True,MAIN,,1440.0,4572.0,False
+buyagift.co.uk,True,MAIN,_0Jrs9HjGX twII0M9dD gqVtts1ja rgGykzaEK xZfR3wX_m,1440.0,5356.0,False
+redletterdays.co.uk,True,MAIN,_0Jrs9HjGX twII0M9dD gqVtts1ja rgGykzaEK xZfR3wX_m,1440.0,4908.0,False
+pelago.com,True,MAIN,,1440.0,2318.0,False
+veltra.com,True,DIV,vw-hero,1440.0,468.0,True
+activityjapan.com,True,DIV,top--hero,1440.0,630.0,True
+peek.com,True,MAIN,flex-1,1440.0,4733.0,False
+fareharbor.com,True,SECTION,section-1 padding-bottom-2xl margin-top-0 feature-row hero-container surface-blue section-full-width,1440.0,635.0,True
+bokun.io,True,MAIN,,1440.0,11913.0,False
+checkfront.com,True,MAIN,container,1320.0,4046.0,False
+rezdy.com,True,MAIN,main,1440.0,8072.0,False
+trekksoft.com,True,MAIN,,1440.0,7419.0,False
+regiondo.com,True,MAIN,site-main,1440.0,4609.0,False
+ventrata.com,True,MAIN,,1440.0,7421.0,False
+prioticket.com,True,MAIN,main-wrapper,1440.0,5780.0,False
+citypass.com,True,MAIN,,1440.0,3077.0,False
+turbopass.com,True,DIV,styles-module__jTo9ca__heroContainer,1440.0,636.0,False
+parks.canada.ca,True,MAIN,,1440.0,4620.0,False
+doc.govt.nz,True,SECTION,doc-main-layout__hero,1440.0,600.0,False
+tanzaniaparks.go.tz,True,MAIN,font-sans bg-light w-full min-h-screen antialiased,1440.0,5850.0,False
+ugandawildlife.org,False,,,,,False
+parquesnacionales.gov.co,False,,,,,False
+sernanp.gob.pe,True,MAIN,yield js-sharect ,1440.0,6075.0,False
+naturvardsverket.se,True,MAIN,,1440.0,3459.0,False
+metsa.fi,True,MAIN,main,1440.0,5070.0,False
+miljodirektoratet.no,True,MAIN,t_front-page__main,1440.0,3441.0,False
+vatnajokulsthjodgardur.is,True,MAIN,Layout_layout__main__NtmfY,1440.0,10369.0,False
+thingvellir.is,True,MAIN,,1440.0,4311.0,False
+galapagos.gob.ec,False,,,,,False
+krugerpark.co.za,False,,,,,False
+serengeti.com,True,MAIN,,1440.0,11032.0,False
+masaimara.com,True,MAIN,,1440.0,11066.0,False
+victoriafalls-guide.net,False,,,,,False
+machupicchu.gob.pe,True,MAIN,site-main,796.0,0.0,False
+incatrailreservations.com,True,BODY,home wp-singular page-template-default page page-id-1217 wp-custom-logo wp-embed-responsive wp-theme-incatrail-adventure has-hero,1440.0,16220.0,True
+decathlon.com,True,MAIN,content-for-layout,1440.0,4900.0,False
+theoutbound.com,False,,,,,False
+switchbacktravel.com,True,SECTION,slideshow-content,1300.0,82.0,False
+cleverhiker.com,True,MAIN,wp-block-group site-content,1440.0,8899.0,False
+sectionhiker.com,False,,,,,False
+backpacker.com,True,MAIN,l-main,1440.0,10699.0,False
+outsideonline.com,True,MAIN,l-main,1440.0,9800.0,False
+climbing.com,True,MAIN,l-main,1440.0,5585.0,False
+planetmountain.com,False,,,,,False
+desnivel.com,True,MAIN,main,1440.0,11290.0,False
+barrabes.com,True,MAIN,view--home,1440.0,3377.0,False
+alpenverein.de,True,MAIN,,1440.0,12382.0,False
+sac-cas.ch,False,,,,,False
+cai.it,True,MAIN,site-main,1140.0,3585.0,False
+fedme.es,True,MAIN,site-main post-68448 page type-page status-publish has-post-thumbnail hentry,1440.0,7591.0,False
+thebmc.co.uk,False,,,,,False
+americanalpineclub.org,True,MAIN,,1020.0,2323.0,False
+alpineclubofcanada.ca,True,MAIN,site-main post-25173 page type-page status-publish hentry,1440.0,2849.0,False
+nepalmountaineering.org,False,,,,,False
+bookmundi.com,False,,,,,False
+muchbetteradventures.com,False,,,,,False
+explore.co.uk,True,MAIN,,1440.0,4865.0,False
+exodus.co.uk,True,MAIN,main,1440.0,5735.0,False
+keadventure.com,True,MAIN,site-body,1380.0,7447.0,False
+mountainkingdoms.com,True,MAIN,site-wrap,1440.0,3345.0,False
+jagged-globe.co.uk,False,,,,,False
+adventureconsultants.com,True,MAIN,,1440.0,8089.0,False
+alpineascents.com,True,SECTION,mobile-menu,0.0,0.0,False
+rmiguides.com,True,SECTION,section-home__hero section-home__hero--background-video,1440.0,900.0,True
+exumguides.com,True,DIV,wpb_revslider_element wpb_content_element revslider-hero,1200.0,581.0,True
+nols.edu,True,DIV,fl-module fl-module-info-box fl-node-l06zs4r27aiw infobox-hero-light nols-info-wrap,786.0,322.0,True
+outwardbound.org,True,MAIN,,1440.0,12178.0,False
+evo.com,True,MAIN,,1440.0,9054.0,False
+skimag.com,True,MAIN,l-main,1440.0,7086.0,False
+tetongravity.com,True,MAIN,MuiBox-root css-0,1440.0,6332.0,False
+lugaresdenieve.com,False,,,,,False
+nevasport.com,False,,,,,False
+skiinfo.fr,False,,,,,False
+j2ski.com,True,MAIN,m25,1200.0,5416.0,False
+skiclub.co.uk,True,MAIN,,1440.0,7320.0,False
+inghams.co.uk,True,DIV,c-heroes hero-banner--full-bleed,1440.0,706.0,True
+neilson.co.uk,True,DIV,header__hero position-relative,1440.0,476.0,False
+markwarner.co.uk,True,MAIN,main main__home homePage,1440.0,7652.0,False
+sunweb.com,True,MAIN,,1400.0,1085.0,False
+snowtrex.co.uk,False,,,,,False
+skisolutions.com,True,MAIN,main,1440.0,10383.0,False
+igluski.com,False,,,,,False
+clickandboat.com,False,,,,,False
+samboat.com,False,,,,,False
+zizoo.com,True,MAIN,,1440.0,10313.0,False
+boatsetter.com,True,MAIN,,1440.0,2966.0,False
+getmyboat.com,True,DIV,Hero_root__s0nOh,1200.0,229.0,False
+borrowaboat.com,True,MAIN,,1440.0,10313.0,False
+sailogy.com,False,,,,,False
+moorings.com,True,BODY,home wp-singular page-template-default page page-id-5285 wp-embed-responsive wp-theme-moorings has-hero-search,1440.0,7605.0,True
+sunsail.com,True,BODY,home wp-singular page-template-default page page-id-8 wp-embed-responsive wp-theme-sunsail has-hero-search,1440.0,7059.0,True
+dreamyachtcharter.com,True,MAIN,,1440.0,9684.0,False
+navigare-yachting.com,False,,,,,False
+kiriacoulis.com,True,MAIN,,1440.0,6812.0,False
+latesail.com,False,,,,,False
+yachtcharterfleet.com,False,,,,,False
+boatinternational.com,True,MAIN,main,1440.0,9167.0,False
+marinetraffic.com,False,,,,,False
+cruisemapper.com,True,MAIN,mainMap,1440.0,829.0,False
+cruisetimetables.com,False,,,,,False
+whatsinport.com,False,,,,,False
+cruisedeckplans.com,True,MAIN,page-wrapper,1440.0,1150.0,False
+cruiseline.com,True,MAIN,,1440.0,5367.0,False
+padi.com,True,MAIN,min-h-screen bg-surface-white,1440.0,5623.0,False
+naui.org,False,,,,,False
+scubadiving.com,True,MAIN,,1170.0,5031.0,False
+divernet.com,True,DIV,elementor elementor-125137 e-loop-item e-loop-item-143294 post-143294 post type-post status-publish format-standard has-post-thumbnail hentry category-scuba-news tag-help-for-heroes tag-rnli tag-vobst,237.0,229.0,False
+diveboard.com,False,,,,,False
+zubludiving.com,True,MAIN,pt-16 md:pt-20 focus:outline-none,1425.0,5679.0,False
+liveaboard.com,True,MAIN,bg-white,1440.0,3484.0,False
+bluewaterdivetravel.com,True,MAIN,mx-auto w-full,1440.0,6806.0,False
+dive-the-world.com,True,MAIN,,1140.0,3654.0,False
+golfnow.com,True,MAIN,min-h-screen home-widget-container,1440.0,4925.0,False
+teeoff.com,True,SECTION,home-widget-container,1440.0,4775.0,False
+golfpass.com,True,MAIN,Page-main,1440.0,4403.0,False
+top100golfcourses.com,True,MAIN,flex min-h-screen flex-col,1440.0,5459.0,False
+golfdigest.com,True,MAIN,,1440.0,14527.0,False
+golf.com,True,MAIN,content,1440.0,6641.0,False
+pgatour.com,True,MAIN,,996.0,2833.0,False
+yourgolftravel.com,True,DIV,aria-hero-wrapper,1200.0,106.0,True
+gleneagles.com,True,MAIN,main,1440.0,11660.0,False
+standrews.com,True,DIV,sc-jWUzzU kqXRpx center  isStage carousel-hero-banner,1440.0,792.0,True
+pinehurst.com,True,DIV,hero-video top-mask lazyloaded,1440.0,675.0,True
+bandondunesgolf.com,True,SECTION,header-slider,1440.0,980.0,False
+nomadlist.com,True,DIV,hero,1440.0,800.0,True
+remoteok.com,False,,,,,False
+outsite.co,False,,,,,False
+roam.co,False,,,,,False
+hackerparadise.org,True,MAIN,flex-1,1440.0,7117.0,False
+remoti.io,True,MAIN,main-wrapper,1440.0,9917.0,False
+thepointsguy.com,True,MAIN,overflow-x-clip,1440.0,5961.0,False
+onemileatatime.com,True,MAIN,site-main,1440.0,7491.0,False
+viewfromthewing.com,True,MAIN,site-content content,790.0,5261.0,False
+headforpoints.com,True,MAIN,main,1440.0,3623.0,False
+millionmilesecrets.com,True,SECTION,content-wrapper,1440.0,3799.0,False
+upgradedpoints.com,True,MAIN,,1440.0,7050.0,False
+godsavethepoints.com,True,MAIN,site-main,780.0,4796.0,False
+travelcodex.com,True,MAIN,content,1140.0,1972.0,False
+princeoftravel.com,True,MAIN,"flex-1 bg-background pt-[calc(4rem+var(--top-offer-h,0px)+env(safe-area-inset-top,0px))] md:pt-[calc(5rem+var(--top-offer-h,0px)+env(safe-area-inset-top,0px))]",1440.0,5951.0,False
+pointhacks.com.au,True,MAIN,main p-0,1440.0,7486.0,False
+australianfrequentflyer.com.au,True,MAIN,main,1248.0,3472.0,False
+airliners.net,False,,,,,False
+planespotters.net,True,MAIN, ,1440.0,1871.0,False
+simpleflying.com,True,MAIN,w-content  ,1440.0,7983.0,False
+onemileatatime.net,True,MAIN,site-main,1440.0,7491.0,False
+liveandletsfly.com,False,,,,,False
+airlinegeeks.com,True,MAIN,fw-template-composable-blocks site-main lg:max-w-screen-lg xl:max-w-screen-xl mx-auto mb-20 lg:mb-30 mt-20 lg:mt-30,1200.0,4629.0,False
+ch-aviation.com,True,MAIN,,1440.0,8090.0,False
+centreforaviation.com,True,SECTION,,1440.0,7158.0,False
+routesonline.com,True,SECTION,searchContainer,1440.0,80.0,False
+flightglobal.com,True,MAIN,,822.0,3015.0,False
+travelweekly.com,False,,,,,False
+travelpulse.com,True,DIV,hero-image-with-options h-100 w-100,1424.0,97.0,True
+phocuswire.com,False,,,,,False
+tnooz.com,False,,,,,False
+hosteltur.com,True,MAIN,main,1440.0,6018.0,False
+tourinews.es,False,,,,,False
+agenttravel.es,True,MAIN,,990.0,2377.0,False
+nexotur.com,False,,,,,False
+ladevi.info,True,SECTION,openings-wrapper,1440.0,0.0,False
+mensajeroweb.com.ar,False,,,,,False
+panrotas.com.br,True,MAIN,flex-grow-1,1440.0,13910.0,False
+brasilturis.com.br,False,,,,,False
+ttgmedia.com,True,MAIN,main-content col order-first,1320.0,7477.0,False
+ttgasia.com,False,,,,,False
+traveldailymedia.com,True,MAIN,site-main,1440.0,29002.0,False
+breakingtravelnews.com,False,,,,,False
+hospitalitynet.org,True,MAIN,,1440.0,6068.0,False
+boutiquehotelnews.com,True,MAIN,site-main post-21077 page type-page status-publish has-post-thumbnail hentry,1440.0,2037.0,False
+tophotel.news,True,MAIN,site-main post-574922 page type-page status-publish hentry,1440.0,3827.0,False
+visitlondon.com,True,MAIN,main,1440.0,5590.0,False
+esmadrid.com,False,,,,,False
+barcelonaturisme.com,True,DIV,cmp-hero-component teaser cmp-teaser--hero-home aem-GridColumn aem-GridColumn--default--12,1440.0,900.0,True
+turismoroma.it,False,,,,,False
+veneziaunica.it,True,MAIN,grid-container,1440.0,5540.0,False
+visitflorence.com,True,SECTION,hero,1440.0,598.0,True
+visitberlin.de,True,MAIN,,1440.0,10866.0,False
+muenchen.de,True,MAIN,,1440.0,9381.0,False
+wien.info,True,DIV,header header_hero-video-container,1440.0,700.0,True
+iamsterdam.com,True,MAIN,,1440.0,5247.0,False
+visitcopenhagen.com,True,MAIN,z-10,1440.0,6580.0,False
+visitstockholm.com,True,MAIN,,1440.0,7963.0,False
+visitoslo.com,True,MAIN,bg-pure-white frontpage,1425.0,7421.0,False
+myhelsinki.fi,True,MAIN,entry-content wp-block-post-content has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained,1440.0,11242.0,False
+visitreykjavik.is,True,MAIN,,1440.0,7376.0,False
+visitlisboa.com,False,,,,,False
+visitporto.travel,True,MAIN,,1440.0,3752.0,False
+visitdublin.com,True,MAIN,,1440.0,4582.0,False
+edinburgh.org,True,SECTION,content-wrapper mt-6 min-h-[80vh],1440.0,5291.0,False
+visitmanchester.com,True,HEADER,panel-header hamburger theme_1 main with-hero,1440.0,32.0,True
+visitscotland.com,True,MAIN,vs-main-container,1440.0,6881.0,False
+visitwales.com,True,MAIN,,1200.0,6809.0,False
+discoverireland.ie,True,MAIN,,1440.0,6480.0,False
+atout-france.fr,True,MAIN,,1440.0,4534.0,False
+provenceguide.com,True,MAIN,,1424.0,3592.0,False
+cotedazurfrance.fr,True,MAIN,content-type-page front_page,1440.0,6829.0,False
+normandie-tourisme.fr,True,MAIN,,1440.0,6019.0,False
+bretagne-vacances.com,True,MAIN,its--wrapper-full ,1440.0,5014.0,False
+andalucia.org,True,DIV,contentRender contentRender_8 contentRender_type_widget contentRender_name_plugins_collections_type_custom_header_slides contentRender_name_plugins_collections_template_custom_mosaic_hero_grid,1440.0,849.0,False
+turismo.gal,True,MAIN,,1440.0,5120.0,False
+turismodecanarias.com,True,MAIN,,1440.0,4466.0,False
+illesbalears.travel,True,MAIN,,1440.0,550.0,False
+turismo.euskadi.eus,False,,,,,False
+toscana.info,True,MAIN,,1440.0,8938.0,False
+visitsicily.info,True,MAIN,clearfix width-100,1440.0,4452.0,False
+sardegnaturismo.it,False,,,,,False
+visitveneto.it,False,,,,,False
+suedtirol.info,False,,,,,False
+tirol.at,True,MAIN,,1440.0,8767.0,False
+salzburgerland.com,True,MAIN,,1440.0,20322.0,False
+geneve.com,True,MAIN,,1440.0,9219.0,False
+zuerich.com,True,DIV,logo-theme-bottom text-scheme-invert tablet:!text-scheme-invert [.has-hero-image_&]:text-white,173.0,16.0,True
+luzern.com,True,MAIN,pagebody,1425.0,4874.0,False
+interlaken.ch,True,MAIN,pagebody,1425.0,4027.0,False
+prague.eu,True,MAIN,content,1440.0,6214.0,False
+krakow.pl,False,,,,,False
+budapestinfo.hu,True,MAIN,pt-[3.75rem] lg:pt-[13.375rem],1440.0,2710.0,False
+visitljubljana.com,True,MAIN,main js-main,1440.0,17157.0,False
+zagreb-touristinfo.hr,True,MAIN,bottom-wrap,1440.0,11435.0,False
+dubrovnik-riviera.hr,False,,,,,False
+visitbelgrade.org,False,,,,,False
+santorini.net,True,MAIN,,1440.0,6286.0,False
+osaka-info.jp,True,MAIN,,1440.0,9968.0,False
+kyoto.travel,True,MAIN,md:mt-[144px] mt-[90px],1440.0,13731.0,False
+visit-hokkaido.jp,True,MAIN,,1440.0,7880.0,False
+visitseoul.net,False,,,,,False
+taiwan.net.tw,False,,,,,False
+travel.taipei,False,,,,,False
+bali.com,True,MAIN,,1440.0,7648.0,False
+tourismcambodia.com,False,,,,,False
+visitmaldives.com,False,,,,,False
+welcomenepal.com,False,,,,,False
+bhutan.travel,True,MAIN,,1440.0,7827.0,False
+maharashtratourism.gov.in,True,MAIN,site-main,1440.0,6587.0,False
+gujarattourism.com,False,,,,,False
+uttarakhandtourism.gov.in,True,MAIN,,1440.0,6919.0,False
+discoverlosangeles.com,True,FIGURE,dla-hero-wrapper dla-hero-image-container,843.0,321.0,True
+choosechicago.com,True,MAIN,,1440.0,8619.0,False
+miamiandbeaches.com,True,MAIN,,1440.0,11051.0,False
+visitlasvegas.com,True,DIV,root-panel panel-page no-hero site-primary,1440.0,6455.0,True
+visitorlando.com,True,SECTION,header-menu-container styled-scrollbar,0.0,0.0,False
+visitseattle.org,False,,,,,False
+bostonusa.com,False,,,,,False
+washington.org,True,MAIN,main-content,1440.0,7566.0,False
+neworleans.com,True,DIV,contentRender contentRender_11 contentRender_type_widget contentRender_name_plugins_collections_type_custom_header_slides contentRender_name_plugins_collections_template_custom_core_v2_hero_slideshow_,1440.0,810.0,False
+visitaustin.org,True,DIV,contentRender contentRender_24 contentRender_type_widget contentRender_name_plugins_common_hero_video,1440.0,648.0,False
+visitsandiego.com,True,MAIN,,1440.0,4209.0,False
+visitcalifornia.com,True,MAIN,has-travel-banner,1440.0,5781.0,False
+visitflorida.com,False,,,,,False
+traveltexas.com,False,,,,,False
+iloveny.com,False,,,,,False
+destinationtoronto.com,True,DIV,contentRender contentRender_27 contentRender_type_widget contentRender_name_plugins_common_hero_video,719.0,719.0,False
+tourismvancouver.com,True,MAIN,wYn10G_mainContent,1440.0,11046.0,False
+mtl.org,True,MAIN,svelte-1v2axqk is-home,1440.0,4981.0,False
+quebec-cite.com,True,BODY,has-video-hero path-frontpage page-node-type-homepage fr node-26931 page-26931,1440.0,7796.0,True
+banfflakelouise.com,True,MAIN,,1440.0,5034.0,False
+cdmxtravel.com,True,MAIN,wrap,1000.0,20876.0,False
+visitaloscabos.travel,True,HEADER,panel-header hamburger homepage main fixed-toggle with-hero,1440.0,80.0,True
+visitpuertovallarta.com,False,,,,,False
+rivieramaya.com,True,A,"py-2 text-base font-semibold underline-offset-8 transition hover:text-[var(--brand-nav-hover,var(--brand-hero-title))] group-data-solid/header:hover:text-(--brand-fg) text-(--brand-hero-title) underli",122.0,40.0,True
+turismo.buenosaires.gob.ar,True,SECTION,,1440.0,605.0,False
+barilocheturismo.gob.ar,True,DIV,container-fluid hero-home text-center,1440.0,620.0,True
+mendoza.tur.ar,True,MAIN,site-main post-1250 page type-page status-publish hentry,1440.0,7711.0,False
+iguazuturismo.gob.ar,True,MAIN,elementor elementor-4340 elementor-location-archive,1440.0,2266.0,False
+ushuaia.gob.ar,False,,,,,False
+riotur.rio,False,,,,,False
+visitesaopaulo.com,True,MAIN,,1440.0,6748.0,False
+cusco.gob.pe,True,SECTION,main-slider style2 hero-mpc,1425.0,840.0,True
+quito-turismo.gob.ec,True,MAIN,site-main,1440.0,2190.0,False
+cartagenadeindias.travel,False,,,,,False
+medellin.travel,False,,,,,False
+bogota.gov.co,True,MAIN,main-content,1440.0,7203.0,False
+visitpanama.com,False,,,,,False
+godominicanrepublic.com,True,MAIN,,1440.0,900.0,False
+discoverpuertorico.com,True,HEADER,hero-max-width en,1440.0,155.0,True
+visitjamaica.com,True,DIV,contentRender contentRender_12 contentRender_type_panel contentRender_name_plugins_common_hero_booking_container,1440.0,759.0,False
+curacao.com,False,,,,,False
+visitbarbados.org,False,,,,,False
+louvre.fr,True,MAIN,Ecrin_white,1440.0,6645.0,False
+chateauversailles.fr,True,MAIN,,1440.0,5764.0,False
+centrepompidou.fr,True,MAIN,bp-page-content main-section,1440.0,4743.0,False
+museoreinasofia.es,True,MAIN,,1440.0,7211.0,False
+museothyssen.org,True,MAIN,site-main,1440.0,5578.0,False
+sagradafamilia.org,True,SECTION,container-fluid-1280,1280.0,3012.0,False
+parkguell.barcelona,True,MAIN,main-content col,1470.0,2957.0,False
+alhambra-patronato.es,True,MAIN,content,1440.0,5686.0,False
+guggenheim-bilbao.eus,True,DIV,Header_headerLogoOverHero__kTqla,0.0,0.0,False
+uffizi.it,True,MAIN,relative z-[1] min-h-[80vh],1432.0,3640.0,False
+galleriaaccademiafirenze.it,True,MAIN,wrapper,1440.0,8534.0,False
+duomomilano.it,True,MAIN,site-main,1440.0,8110.0,False
+britishmuseum.org,True,MAIN,js-main,1440.0,6303.0,False
+nationalgallery.org.uk,True,MAIN,main home-page,1440.0,5689.0,False
+tate.org.uk,True,MAIN,container-16 ,1440.0,4024.0,False
+vam.ac.uk,True,MAIN,,1440.0,5010.0,False
+sciencemuseum.org.uk,True,MAIN,,1440.0,5427.0,False
+hrp.org.uk,True,MAIN,,1440.0,5415.0,False
+westminster-abbey.org,False,,,,,False
+stpauls.co.uk,True,IMG,image-style-homepage-hero-image-tablet,386.0,239.0,True
+rijksmuseum.nl,True,MAIN,,1440.0,3600.0,False
+vangoghmuseum.nl,True,MAIN,page-transition,1440.0,5220.0,False
+deutsches-museum.de,True,MAIN,,1440.0,14085.0,False
+khm.at,True,MAIN,,1440.0,7820.0,False
+belvedere.at,True,MAIN,,1425.0,3336.0,False
+schoenbrunn.at,True,MAIN,,1440.0,8454.0,False
+hermitagemuseum.org,False,,,,,False
+kreml.ru,True,MAIN,css-1bqnmih,1440.0,6268.0,False
+amnh.org,True,DIV,home-hero-variant pb-2h pb-xs-3,1440.0,1115.0,True
+guggenheim.org,True,MAIN,,1280.0,4748.0,False
+getty.edu,True,MAIN,,1320.0,4446.0,False
+lacma.org,True,HEADER,header--without-hero,1440.0,0.0,True
+sfmoma.org,True,MAIN,,1440.0,4955.0,False
+mfa.org,True,MAIN,padding-bottom-lg background-page,1440.0,3865.0,False
+philamuseum.org,True,MAIN,outline-none,1440.0,5063.0,False
+thehenryford.org,True,MAIN,site-wrapper,1440.0,10824.0,False
+spacecenter.org,False,,,,,False
+kennedyspacecenter.com,True,HEADER,home-hero,1440.0,640.0,True
+masp.org.br,True,DIV,hero-slide w-slide,1400.0,804.0,True
+pinacoteca.org.br,True,MAIN,site-main,1440.0,6797.0,False
+teamlab.art,True,MAIN,LayoutDefault_content__yU_Tq,1440.0,3564.0,False
+ngv.vic.gov.au,True,SECTION,rd-section video-hero ,1440.0,900.0,True
+artgallery.nsw.gov.au,True,DIV,homepageHeroVideo ,1440.0,905.0,False
+tepapa.govt.nz,True,MAIN,,1440.0,5291.0,False
+resy.com,True,MAIN,,1440.0,2644.0,False
+hotpepper.jp,False,,,,,False
+eater.com,True,MAIN,kruppj0,1440.0,5870.0,False
+timeoutmarket.com,True,MAIN,_gridWide_1exxm_12,1312.0,4367.0,False
+winery-sage.com,False,,,,,False
+winetourism.com,True,HTML,h-full antialiased texgyreheros_88ce649a-module__aS2yPa__variable source_serif_4_97de033f-module__BKRCbG__variable,1425.0,900.0,False
+decanter.com,True,DIV,clear-both widget widget-dynamic widget-takeover-i widget-dynamic-takeover-i sticky-hero flw-widget-title-border-color-premium-red flw-widget-hero-background-color-red flw-widget-hero-white-text flw-s,0.0,0.0,True
+winespectator.com,True,MAIN,main-layout,1440.0,7632.0,False
+rutadelvino.com,True,MAIN,mp-main,1440.0,652.0,False
+sonomacounty.com,True,BODY,home wp-singular page-template-default page page-id-23 wp-theme-bb-theme wp-child-theme-bb-theme-child fl-builder fl-builder-2-11-1-2 fl-themer-1-6-1 fl-theme-1-7-20 wp-schema-pro-2.12.3 hero-disabled,1440.0,5886.0,True
+bordeaux-tourisme.com,True,MAIN,,1440.0,10664.0,False
+riojawine.com,True,MAIN,site-main,1440.0,7581.0,False
+riberadelduero.es,True,DIV,homepage-hero,1440.0,810.0,True
+chianti.com,True,SECTION,hero,1440.0,576.0,True
+barossa.com,True,MAIN,site-main post-20 page type-page status-publish hentry,1440.0,7045.0,False
+marlboroughnz.com,True,MAIN,,1440.0,9007.0,False
+stellenbosch.travel,True,SECTION,banner-slider,1440.0,0.0,False

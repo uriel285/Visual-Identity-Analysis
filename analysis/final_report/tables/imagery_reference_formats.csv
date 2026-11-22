@@ -1,0 +1,22 @@
+﻿Reference asset,Attribute,Value,References (n),References (%),Sites (n),Base references (n)
+Favicon,Format,gif,1,0.12,1,828
+Favicon,Format,ico,365,44.08,365,828
+Favicon,Format,jpeg,9,1.09,9,828
+Favicon,Format,png,385,46.5,385,828
+Favicon,Format,svg,40,4.83,40,828
+Favicon,Format,unknown,19,2.29,19,828
+Favicon,Format,webp,9,1.09,9,828
+Favicon,Origin,embedded,2,0.24,2,828
+Favicon,Origin,external,142,17.15,142,828
+Favicon,Origin,internal,684,82.61,684,828
+Open Graph image,Format,gif,4,0.67,4,596
+Open Graph image,Format,ico,1,0.17,1,596
+Open Graph image,Format,jpeg,306,51.34,306,596
+Open Graph image,Format,png,202,33.89,202,596
+Open Graph image,Format,svg,10,1.68,10,596
+Open Graph image,Format,tiff,1,0.17,1,596
+Open Graph image,Format,unknown,42,7.05,42,596
+Open Graph image,Format,webp,30,5.03,30,596
+Open Graph image,Origin,external,186,31.21,186,596
+Open Graph image,Origin,internal,380,63.76,380,596
+Open Graph image,Origin,relative_or_unknown,30,5.03,30,596

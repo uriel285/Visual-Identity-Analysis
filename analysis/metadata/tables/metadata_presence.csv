@@ -1,0 +1,14 @@
+field,present_count,missing_count,present_pct,missing_pct
+title,901,6,99.34,0.66
+viewport,893,14,98.46,1.54
+language,867,40,95.59,4.41
+description,830,77,91.51,8.49
+favicon,828,79,91.29,8.71
+canonical,775,132,85.45,14.55
+og_title,688,219,75.85,24.15
+og_description,643,264,70.89,29.11
+og_type,597,310,65.82,34.18
+og_image,596,311,65.71,34.29
+twitter_card,511,396,56.34,43.66
+robots,430,477,47.41,52.59
+keywords,177,730,19.51,80.49

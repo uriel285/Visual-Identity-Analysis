@@ -1,0 +1,960 @@
+﻿font_family,site_count,element_count,font_type,site_percentage
+Arial,181,12199,Sans-serif,19.96
+Roboto,85,41043,Sans-serif,9.37
+Inter,84,57903,Sans-serif,9.26
+Open Sans,78,27457,Sans-serif,8.6
+Montserrat,67,26110,Sans-serif,7.39
+Poppins,60,36565,Sans-serif,6.62
+Helvetica Neue,32,10625,Sans-serif,3.53
+Lato,31,15870,Sans-serif,3.42
+Helvetica,26,5976,Unknown / Custom,2.87
+Source Sans Pro,18,10788,Unknown / Custom,1.98
+Verdana,17,3067,Unknown / Custom,1.87
+Work Sans,16,7159,Unknown / Custom,1.76
+DM Sans,14,8367,Sans-serif,1.54
+Nunito Sans,14,5544,Unknown / Custom,1.54
+Raleway,13,9477,Unknown / Custom,1.43
+proxima-nova,13,8681,Unknown / Custom,1.43
+Playfair Display,13,1233,Unknown / Custom,1.43
+Noto Sans,12,5169,Unknown / Custom,1.32
+Rubik,11,5169,Unknown / Custom,1.21
+Nunito,11,3978,Unknown / Custom,1.21
+Plus Jakarta Sans,11,3802,Unknown / Custom,1.21
+Barlow,10,8302,Unknown / Custom,1.1
+Manrope,10,6217,Unknown / Custom,1.1
+Figtree,10,6018,Unknown / Custom,1.1
+Oswald,9,416,Unknown / Custom,0.99
+Merriweather,8,732,Serif,0.88
+Cormorant Garamond,7,1112,Unknown / Custom,0.77
+Georgia,7,701,Unknown / Custom,0.77
+Jost,6,6156,Unknown / Custom,0.66
+Ubuntu,6,4322,Unknown / Custom,0.66
+Pretendard,5,4496,Unknown / Custom,0.55
+Archivo,5,3640,Unknown / Custom,0.55
+Proxima Nova,5,2717,Unknown / Custom,0.55
+futura-pt,5,2301,Unknown / Custom,0.55
+Gotham,5,1520,Sans-serif,0.55
+Segoe UI,5,375,Unknown / Custom,0.55
+Roboto Condensed,5,227,Unknown / Custom,0.55
+Larken,5,159,Serif,0.55
+Source Sans,4,3483,Unknown / Custom,0.44
+Noto Sans JP,4,3120,Unknown / Custom,0.44
+CeraPro,4,2919,Unknown / Custom,0.44
+Libre Franklin,4,2434,Unknown / Custom,0.44
+Outfit,4,1587,Unknown / Custom,0.44
+Prompt,4,1214,Unknown / Custom,0.44
+verdana,4,979,Unknown / Custom,0.44
+Avenir,4,951,Unknown / Custom,0.44
+Lora,4,858,Unknown / Custom,0.44
+Trebuchet MS,4,352,Unknown / Custom,0.44
+Google Sans,4,209,Sans-serif,0.44
+Libre Baskerville,4,172,Unknown / Custom,0.44
+object-fit: cover;,4,116,Unknown / Custom,0.44
+Barlow Semi Condensed,4,113,Unknown / Custom,0.44
+Roboto Slab,4,55,Unknown / Custom,0.44
+Averta,3,4542,Unknown / Custom,0.33
+HP Open Sans,3,4117,Unknown / Custom,0.33
+Public Sans,3,3444,Unknown / Custom,0.33
+Spectral,3,2205,Unknown / Custom,0.33
+museo-sans,3,2014,Unknown / Custom,0.33
+Swiss-721,3,1988,Unknown / Custom,0.33
+Calibre,3,1978,Unknown / Custom,0.33
+Hind,3,1717,Unknown / Custom,0.33
+MX Sans,3,1603,Unknown / Custom,0.33
+Assistant,3,954,Unknown / Custom,0.33
+Muli,3,933,Unknown / Custom,0.33
+Futura PT,3,820,Unknown / Custom,0.33
+Calibri,3,471,Unknown / Custom,0.33
+HP Bariol,3,418,Unknown / Custom,0.33
+PingFang SC,3,398,Unknown / Custom,0.33
+Geist,3,382,Unknown / Custom,0.33
+Circular,3,357,Unknown / Custom,0.33
+brandon-grotesque,3,214,Unknown / Custom,0.33
+museo-slab,3,25,Unknown / Custom,0.33
+Caveat,3,8,Unknown / Custom,0.33
+Satoshi,2,3541,Unknown / Custom,0.22
+halyard-text,2,3289,Unknown / Custom,0.22
+Instrument Sans,2,3047,Unknown / Custom,0.22
+Graphik,2,3020,Unknown / Custom,0.22
+Cabin,2,2849,Unknown / Custom,0.22
+ixi-sans,2,2540,Unknown / Custom,0.22
+DMSans,2,2146,Unknown / Custom,0.22
+BrandonGrotesque,2,2116,Unknown / Custom,0.22
+__Open_Sans_c9eab8,2,2081,Unknown / Custom,0.22
+aktivGrotesk,2,1973,Unknown / Custom,0.22
+Gabarito,2,1795,Unknown / Custom,0.22
+Twemoji Country Flags,2,1765,Unknown / Custom,0.22
+Mont,2,1762,Unknown / Custom,0.22
+Poppins Regular,2,1644,Unknown / Custom,0.22
+DroidSans,2,1555,Unknown / Custom,0.22
+メイリオ,2,1552,Unknown / Custom,0.22
+Roboto Flex,2,1528,Unknown / Custom,0.22
+Onest,2,1489,Unknown / Custom,0.22
+Hanken Grotesk,2,1442,Unknown / Custom,0.22
+FFMetaWebPro,2,1418,Unknown / Custom,0.22
+Franklin Gothic,2,1391,Unknown / Custom,0.22
+Titillium Web,2,1329,Unknown / Custom,0.22
+PP Mori,2,1322,Unknown / Custom,0.22
+SharpGrotesk Book 19,2,1310,Unknown / Custom,0.22
+mundial,2,1238,Unknown / Custom,0.22
+ProximaNova,2,1227,Unknown / Custom,0.22
+degular,2,1161,Unknown / Custom,0.22
+PT Sans,2,1122,Unknown / Custom,0.22
+Airbnb Cereal,2,1082,Sans-serif,0.22
+Graphik Web,2,1045,Unknown / Custom,0.22
+Gilroy,2,1033,Unknown / Custom,0.22
+Lucida Grande,2,1011,Unknown / Custom,0.22
+Merriweather Sans,2,921,Unknown / Custom,0.22
+Euclid Circular B,2,915,Unknown / Custom,0.22
+Fira Sans Regular,2,910,Unknown / Custom,0.22
+SuisseIntl,2,798,Unknown / Custom,0.22
+Sora,2,788,Sans-serif,0.22
+Maison Neue,2,775,Unknown / Custom,0.22
+DINWebPro,2,703,Unknown / Custom,0.22
+Gotham Rounded,2,667,Unknown / Custom,0.22
+ft-regola-neue,2,662,Unknown / Custom,0.22
+Meiryo,2,598,Unknown / Custom,0.22
+halyard-display,2,406,Unknown / Custom,0.22
+WorkSans,2,328,Unknown / Custom,0.22
+Poppins Medium,2,194,Unknown / Custom,0.22
+TLCircular,2,163,Sans-serif,0.22
+Monserrat,2,158,Unknown / Custom,0.22
+SharpGrotesk Semi Bold 19,2,158,Unknown / Custom,0.22
+filosofia,2,140,Unknown / Custom,0.22
+SharpGrotesk Book 23,2,134,Unknown / Custom,0.22
+Noto Sans Display,2,131,Unknown / Custom,0.22
+recoleta,2,102,Unknown / Custom,0.22
+Zilla Slab,2,88,Unknown / Custom,0.22
+Tahoma,2,87,Unknown / Custom,0.22
+EB Garamond,2,78,Unknown / Custom,0.22
+GD Sherpa,2,74,Unknown / Custom,0.22
+themify,2,67,Unknown / Custom,0.22
+TiemposHeadline,2,53,Unknown / Custom,0.22
+Stix Two Text,2,46,Unknown / Custom,0.22
+Barlow Condensed,2,45,Unknown / Custom,0.22
+Taviraj,2,41,Unknown / Custom,0.22
+object-fit:cover,2,31,Unknown / Custom,0.22
+Bebas Neue,2,30,Unknown / Custom,0.22
+franklin-gothic-urw-cond,2,29,Unknown / Custom,0.22
+Phosphor,2,18,Unknown / Custom,0.22
+Aleo,2,14,Unknown / Custom,0.22
+PingFangSC,2,13,Unknown / Custom,0.22
+Boyrun,2,12,Unknown / Custom,0.22
+no-custom,2,3,Unknown / Custom,0.22
+Kalam,2,2,Unknown / Custom,0.22
+HTGFellix,1,4000,Unknown / Custom,0.11
+SuitVariable,1,4000,Unknown / Custom,0.11
+oakesGrotesk,1,3559,Unknown / Custom,0.11
+fktGnarly,1,3415,Unknown / Custom,0.11
+The Future,1,2757,Unknown / Custom,0.11
+Averta CY,1,2602,Unknown / Custom,0.11
+aeonikPro,1,2598,Unknown / Custom,0.11
+MuseoSans,1,2370,Unknown / Custom,0.11
+functionalFont,1,2314,Unknown / Custom,0.11
+haboro-soft,1,2099,Unknown / Custom,0.11
+Sofia Pro,1,1971,Unknown / Custom,0.11
+ObjektivMk1,1,1926,Unknown / Custom,0.11
+sohne,1,1802,Unknown / Custom,0.11
+Poppins-300,1,1750,Unknown / Custom,0.11
+system,1,1746,Unknown / Custom,0.11
+Cera,1,1716,Unknown / Custom,0.11
+HCo Gotham SSm,1,1697,Unknown / Custom,0.11
+buloRounded,1,1660,Unknown / Custom,0.11
+Hiragino Sans,1,1654,Unknown / Custom,0.11
+TiketOdysseyText,1,1653,Unknown / Custom,0.11
+effra,1,1630,Unknown / Custom,0.11
+Moonpig,1,1596,Unknown / Custom,0.11
+Soleil,1,1527,Unknown / Custom,0.11
+Brandon Grotesque W01 Regular,1,1519,Unknown / Custom,0.11
+workSans,1,1511,Unknown / Custom,0.11
+Colfax,1,1492,Unknown / Custom,0.11
+Euclid Flex,1,1468,Unknown / Custom,0.11
+AllTrailsAeonik,1,1462,Unknown / Custom,0.11
+GeoBrandRegular,1,1454,Unknown / Custom,0.11
+visitBerlinVF,1,1436,Unknown / Custom,0.11
+IBM Plex Sans,1,1313,Unknown / Custom,0.11
+PT Root UI Web,1,1307,Unknown / Custom,0.11
+Founders Grotesk R,1,1257,Unknown / Custom,0.11
+Andada Pro,1,1251,Unknown / Custom,0.11
+DINNextLTPro,1,1218,Unknown / Custom,0.11
+europa,1,1201,Unknown / Custom,0.11
+cormorantGaramond,1,1198,Unknown / Custom,0.11
+Red Hat Text,1,1183,Unknown / Custom,0.11
+outfitFont,1,1166,Unknown / Custom,0.11
+reader,1,1158,Unknown / Custom,0.11
+calluna-sans,1,1155,Unknown / Custom,0.11
+EuclidFlex2,1,1116,Unknown / Custom,0.11
+Futura,1,1100,Unknown / Custom,0.11
+TT Hoves,1,1093,Sans-serif,0.11
+Farnham Display,1,1088,Unknown / Custom,0.11
+ZalandoSans,1,1081,Unknown / Custom,0.11
+hexFont,1,1064,Unknown / Custom,0.11
+NeuSans,1,1055,Unknown / Custom,0.11
+sf_pro_textregular,1,1037,Unknown / Custom,0.11
+ヒラギノ角ゴシック,1,1030,Unknown / Custom,0.11
+din-2014,1,1026,Unknown / Custom,0.11
+Brother-1816,1,1018,Unknown / Custom,0.11
+proximanova,1,1004,Unknown / Custom,0.11
+AtHauss,1,979,Unknown / Custom,0.11
+map,1,970,Unknown / Custom,0.11
+Exo 2.0,1,961,Unknown / Custom,0.11
+Nort W02,1,953,Unknown / Custom,0.11
+circular,1,935,Unknown / Custom,0.11
+serenity,1,924,Unknown / Custom,0.11
+Alliance,1,921,Unknown / Custom,0.11
+TTCommonsPro,1,914,Unknown / Custom,0.11
+GT-Walsheim,1,894,Unknown / Custom,0.11
+myriad-pro,1,880,Unknown / Custom,0.11
+Simples,1,878,Unknown / Custom,0.11
+Microsoft YaHei,1,874,Unknown / Custom,0.11
+HermitageGrotesque,1,873,Unknown / Custom,0.11
+system_ui,1,873,Unknown / Custom,0.11
+Metropolis,1,871,Unknown / Custom,0.11
+stolzl,1,871,Unknown / Custom,0.11
+Paleta,1,866,Unknown / Custom,0.11
+Test The Future Regular,1,861,Unknown / Custom,0.11
+gt-eesti,1,859,Unknown / Custom,0.11
+area-normal,1,858,Unknown / Custom,0.11
+Flynas,1,851,Unknown / Custom,0.11
+AcherusRegular,1,848,Unknown / Custom,0.11
+amsterdamSans,1,846,Unknown / Custom,0.11
+Ubuntu Regular,1,836,Unknown / Custom,0.11
+l15Font,1,826,Unknown / Custom,0.11
+Gibson,1,823,Unknown / Custom,0.11
+Alegreya Sans,1,821,Unknown / Custom,0.11
+tt_commons,1,807,Unknown / Custom,0.11
+Pingfang SC,1,792,Unknown / Custom,0.11
+Platform Web,1,792,Unknown / Custom,0.11
+Museo Sans,1,791,Unknown / Custom,0.11
+Spiller,1,784,Unknown / Custom,0.11
+ABC Monument Grotesk,1,769,Unknown / Custom,0.11
+RSG Variable,1,765,Unknown / Custom,0.11
+Microsoft JhengHei,1,761,Unknown / Custom,0.11
+InspireTWDC,1,736,Unknown / Custom,0.11
+RebelSansText,1,729,Unknown / Custom,0.11
+Wales Sans Body,1,711,Unknown / Custom,0.11
+primary-font-rtl,1,711,Unknown / Custom,0.11
+Suisse Regular,1,699,Unknown / Custom,0.11
+MPLUS2,1,694,Unknown / Custom,0.11
+UniversNext,1,687,Unknown / Custom,0.11
+Foco,1,685,Unknown / Custom,0.11
+ClanNews,1,684,Unknown / Custom,0.11
+Encode Sans,1,682,Unknown / Custom,0.11
+HalyardDisplay,1,673,Unknown / Custom,0.11
+pf-grand-gothik-variable,1,672,Unknown / Custom,0.11
+PP Nikkei Maru,1,670,Unknown / Custom,0.11
+averta,1,669,Unknown / Custom,0.11
+Apercu,1,660,Unknown / Custom,0.11
+jbklarheit,1,659,Unknown / Custom,0.11
+Akrobat,1,658,Unknown / Custom,0.11
+radioCanadaBig,1,658,Unknown / Custom,0.11
+PublicSans,1,651,Unknown / Custom,0.11
+gill-sans-nova,1,646,Unknown / Custom,0.11
+sofia-pro,1,642,Unknown / Custom,0.11
+Mulish,1,629,Unknown / Custom,0.11
+modified-characters,1,623,Unknown / Custom,0.11
+NexaText,1,618,Unknown / Custom,0.11
+DBOzoneX,1,616,Unknown / Custom,0.11
+Readex Pro,1,610,Unknown / Custom,0.11
+FedraSansVIE,1,605,Unknown / Custom,0.11
+Gotham A,1,605,Unknown / Custom,0.11
+Alto,1,578,Unknown / Custom,0.11
+Montserrat (local),1,577,Unknown / Custom,0.11
+robotoregular,1,576,Unknown / Custom,0.11
+PingFang TC,1,568,Unknown / Custom,0.11
+lexend,1,555,Unknown / Custom,0.11
+29LT Bukra,1,553,Unknown / Custom,0.11
+akkurat,1,551,Unknown / Custom,0.11
+allotrope,1,549,Unknown / Custom,0.11
+Avis Sans,1,548,Unknown / Custom,0.11
+Isidora Regular,1,547,Unknown / Custom,0.11
+Adelle,1,545,Unknown / Custom,0.11
+StagSansRoundBook,1,545,Unknown / Custom,0.11
+garnett,1,543,Unknown / Custom,0.11
+Inter_18pt,1,539,Unknown / Custom,0.11
+stena sans,1,531,Unknown / Custom,0.11
+Avenir Next W01,1,530,Unknown / Custom,0.11
+Vy Sans,1,527,Unknown / Custom,0.11
+FrutigerNextPaneuropeanRegular,1,526,Unknown / Custom,0.11
+AtlasGroteskRegular,1,525,Unknown / Custom,0.11
+Sunset Gothic Pro,1,525,Unknown / Custom,0.11
+NotoSans,1,521,Unknown / Custom,0.11
+Poppins v09,1,520,Unknown / Custom,0.11
+utile-reg,1,519,Unknown / Custom,0.11
+Brother 1816,1,516,Unknown / Custom,0.11
+MFAGarnett,1,516,Unknown / Custom,0.11
+interstate,1,516,Unknown / Custom,0.11
+National,1,515,Unknown / Custom,0.11
+GTA,1,512,Unknown / Custom,0.11
+Tate regular,1,502,Unknown / Custom,0.11
+quasimoda,1,502,Unknown / Custom,0.11
+Interstate,1,500,Unknown / Custom,0.11
+ESKlarheitGrotesk,1,497,Unknown / Custom,0.11
+Guggenheim Sans,1,495,Unknown / Custom,0.11
+Worksans,1,495,Unknown / Custom,0.11
+AllianzNeo,1,492,Unknown / Custom,0.11
+Be Vietnam Pro,1,486,Unknown / Custom,0.11
+Heebo,1,485,Unknown / Custom,0.11
+Skyscanner Relative,1,485,Sans-serif,0.11
+Verdigris Pro,1,485,Unknown / Custom,0.11
+Wales Sans Headline,1,483,Unknown / Custom,0.11
+Uncut Sans,1,475,Unknown / Custom,0.11
+Haffer,1,471,Unknown / Custom,0.11
+Claudian,1,470,Unknown / Custom,0.11
+Wicked Open Sans,1,463,Unknown / Custom,0.11
+SangBleuKingdom,1,462,Unknown / Custom,0.11
+Kumbh Sans,1,458,Unknown / Custom,0.11
+Helvetica Now for PANYNJ,1,456,Unknown / Custom,0.11
+Kufam,1,454,Unknown / Custom,0.11
+__Plus_Jakarta_Sans_3fae85,1,452,Unknown / Custom,0.11
+noto-sans,1,451,Unknown / Custom,0.11
+layGrotesk,1,444,Unknown / Custom,0.11
+SMGsans,1,442,Unknown / Custom,0.11
+Sohne,1,435,Unknown / Custom,0.11
+Glancyr,1,431,Unknown / Custom,0.11
+TUITypeLight,1,431,Unknown / Custom,0.11
+CVC Sans,1,424,Unknown / Custom,0.11
+fontText,1,424,Unknown / Custom,0.11
+sanomatSans,1,424,Unknown / Custom,0.11
+McQueen,1,423,Unknown / Custom,0.11
+Marianne,1,418,Unknown / Custom,0.11
+geograph,1,418,Unknown / Custom,0.11
+AntiqueLegacy,1,417,Unknown / Custom,0.11
+dfdsFont,1,416,Unknown / Custom,0.11
+Whitney,1,411,Unknown / Custom,0.11
+cresta,1,411,Unknown / Custom,0.11
+SourceSansPro,1,408,Unknown / Custom,0.11
+azo-sans-web,1,408,Unknown / Custom,0.11
+Mapfre,1,407,Unknown / Custom,0.11
+seasonSans,1,400,Unknown / Custom,0.11
+Godwit,1,399,Sans-serif,0.11
+Aeonik Pro,1,398,Unknown / Custom,0.11
+avenir-lt-pro,1,397,Unknown / Custom,0.11
+swiss721light,1,397,Unknown / Custom,0.11
+Zurich Haas,1,396,Unknown / Custom,0.11
+Roobert,1,394,Unknown / Custom,0.11
+Atyp display,1,393,Unknown / Custom,0.11
+gamay,1,393,Unknown / Custom,0.11
+Blinker,1,391,Unknown / Custom,0.11
+saa-primary-font,1,389,Unknown / Custom,0.11
+Afacad,1,387,Unknown / Custom,0.11
+DinPro,1,386,Unknown / Custom,0.11
+Axiforma,1,385,Unknown / Custom,0.11
+SiteFont,1,385,Unknown / Custom,0.11
+Regola Pro Book,1,384,Unknown / Custom,0.11
+Helsinki Grotesk,1,381,Unknown / Custom,0.11
+SaudiSans,1,378,Unknown / Custom,0.11
+haboro-contrast-condensed,1,377,Unknown / Custom,0.11
+FrutigerNextLight,1,365,Unknown / Custom,0.11
+RedHatRegular,1,362,Unknown / Custom,0.11
+DB Screen,1,361,Unknown / Custom,0.11
+vinci_sansmedium,1,359,Unknown / Custom,0.11
+Preston,1,348,Unknown / Custom,0.11
+Boing,1,341,Unknown / Custom,0.11
+SofiaPro,1,341,Unknown / Custom,0.11
+VisbyCF,1,338,Unknown / Custom,0.11
+Arsenal,1,331,Unknown / Custom,0.11
+Sofia Sans,1,326,Unknown / Custom,0.11
+Gotham Greek,1,323,Unknown / Custom,0.11
+YJTop Ellipsis,1,322,Unknown / Custom,0.11
+normalidad-wide,1,321,Unknown / Custom,0.11
+Overpass,1,320,Unknown / Custom,0.11
+itc-avant-garde-gothic-pro,1,320,Unknown / Custom,0.11
+SBSansText,1,318,Unknown / Custom,0.11
+Proxima nova,1,313,Unknown / Custom,0.11
+NS Sans,1,307,Unknown / Custom,0.11
+Italian Plate,1,306,Unknown / Custom,0.11
+Custom,1,304,Unknown / Custom,0.11
+LACMA,1,304,Unknown / Custom,0.11
+Renfe Sans,1,302,Unknown / Custom,0.11
+Isidora Medium,1,298,Unknown / Custom,0.11
+PingHL,1,297,Unknown / Custom,0.11
+Brandon Grotesque W01 Bold,1,293,Unknown / Custom,0.11
+DecimaMonoRound,1,293,Unknown / Custom,0.11
+LyonText,1,291,Unknown / Custom,0.11
+Clear sans,1,290,Unknown / Custom,0.11
+amnh-sans,1,287,Unknown / Custom,0.11
+Dax,1,286,Unknown / Custom,0.11
+HelveticaNowText,1,284,Unknown / Custom,0.11
+Suisse,1,276,Unknown / Custom,0.11
+roboto condensed,1,266,Unknown / Custom,0.11
+Nohemi,1,263,Unknown / Custom,0.11
+Source Han Sans CN,1,262,Unknown / Custom,0.11
+Baloo 2,1,260,Unknown / Custom,0.11
+Cabify Ciudad Text,1,256,Unknown / Custom,0.11
+Careem Sans,1,256,Unknown / Custom,0.11
+GT America,1,256,Unknown / Custom,0.11
+GT Walsheim Pro,1,256,Unknown / Custom,0.11
+GeoBrandBold,1,254,Unknown / Custom,0.11
+national-book,1,253,Unknown / Custom,0.11
+via_office,1,252,Unknown / Custom,0.11
+AvenirNext LT Pro,1,249,Unknown / Custom,0.11
+finnairtext,1,245,Unknown / Custom,0.11
+raleway,1,244,Unknown / Custom,0.11
+Adelle-sans,1,242,Unknown / Custom,0.11
+KievitSlab,1,239,Unknown / Custom,0.11
+proxima_nova_reg,1,239,Unknown / Custom,0.11
+Satoshi Variable,1,234,Unknown / Custom,0.11
+FrutigerNextPaneuropeanMedium,1,228,Unknown / Custom,0.11
+Exo 2,1,227,Unknown / Custom,0.11
+ABC Monument Grotesk Mono,1,220,Unknown / Custom,0.11
+Lexend,1,218,Unknown / Custom,0.11
+Pontano Sans,1,218,Unknown / Custom,0.11
+M PLUS 2,1,210,Unknown / Custom,0.11
+SFMOMASans,1,207,Unknown / Custom,0.11
+Louis George Cafe Regular,1,206,Unknown / Custom,0.11
+din,1,205,Unknown / Custom,0.11
+RijksText,1,204,Unknown / Custom,0.11
+MuseoSans-300,1,202,Unknown / Custom,0.11
+proximaNova,1,202,Unknown / Custom,0.11
+suisseIntl,1,202,Unknown / Custom,0.11
+ArialPlaceholderBeforeFiraIsLoaded,1,201,Unknown / Custom,0.11
+Akkurat Pro,1,198,Unknown / Custom,0.11
+Ambit,1,198,Unknown / Custom,0.11
+AmsterdamSans,1,197,Unknown / Custom,0.11
+Mundial,1,196,Unknown / Custom,0.11
+swiss721medium,1,196,Unknown / Custom,0.11
+Aeonik,1,195,Unknown / Custom,0.11
+mundial-demibold,1,190,Unknown / Custom,0.11
+Dubai,1,189,Unknown / Custom,0.11
+NationalTrustTT,1,189,Unknown / Custom,0.11
+Poppins SemiBold,1,182,Unknown / Custom,0.11
+RomainHeadline,1,180,Unknown / Custom,0.11
+BauOT,1,179,Unknown / Custom,0.11
+AcherusBold,1,178,Unknown / Custom,0.11
+p6abqqzZDL4u,1,178,Unknown / Custom,0.11
+Intro,1,175,Unknown / Custom,0.11
+Helvetica Now Regular,1,174,Unknown / Custom,0.11
+Boathouse,1,173,Unknown / Custom,0.11
+clearsansb,1,172,Unknown / Custom,0.11
+Visby CF,1,170,Unknown / Custom,0.11
+georgia,1,169,Unknown / Custom,0.11
+Apollon,1,168,Unknown / Custom,0.11
+Intelo,1,167,Unknown / Custom,0.11
+opensanscondensed,1,165,Unknown / Custom,0.11
+HelveticaNeueLight,1,164,Unknown / Custom,0.11
+GeoEditMedium,1,163,Unknown / Custom,0.11
+Magazine Grotesque,1,162,Unknown / Custom,0.11
+PierSans,1,162,Unknown / Custom,0.11
+Ftaktualmasp,1,160,Unknown / Custom,0.11
+ALSHauss,1,158,Unknown / Custom,0.11
+Ubuntu Bold,1,157,Unknown / Custom,0.11
+vinci_sansregular,1,156,Unknown / Custom,0.11
+Mona Sans,1,153,Unknown / Custom,0.11
+Lexend Exa,1,151,Unknown / Custom,0.11
+Bagoss,1,149,Unknown / Custom,0.11
+Test The Future Bold,1,148,Unknown / Custom,0.11
+HelveticaNow,1,145,Unknown / Custom,0.11
+ABC Social Regular,1,143,Unknown / Custom,0.11
+Bricolage Grotesque,1,143,Unknown / Custom,0.11
+Libre Caslon Text,1,143,Unknown / Custom,0.11
+SangBleu Sunrise,1,142,Unknown / Custom,0.11
+GT Walsheim,1,141,Unknown / Custom,0.11
+MuseoSansRounded,1,140,Unknown / Custom,0.11
+Katarine,1,138,Unknown / Custom,0.11
+VRSans,1,130,Unknown / Custom,0.11
+Grenette Pro,1,129,Unknown / Custom,0.11
+viamaaxregular,1,128,Unknown / Custom,0.11
+Poppins-700,1,124,Unknown / Custom,0.11
+Alegreya,1,122,Unknown / Custom,0.11
+Alverata,1,119,Unknown / Custom,0.11
+MapfreDisplay,1,118,Unknown / Custom,0.11
+proxima-nova-xbold,1,118,Unknown / Custom,0.11
+Poppins-500,1,116,Unknown / Custom,0.11
+Test The Future Medium,1,114,Unknown / Custom,0.11
+open_sansregular,1,114,Unknown / Custom,0.11
+ApercuProBold,1,113,Unknown / Custom,0.11
+Spaceship Sans,1,113,Unknown / Custom,0.11
+verdanaN,1,112,Unknown / Custom,0.11
+ABC Social Bold,1,110,Unknown / Custom,0.11
+MuseoSans-500,1,110,Unknown / Custom,0.11
+Butler,1,107,Unknown / Custom,0.11
+Fira Sans,1,104,Sans-serif,0.11
+Noto Sans KR,1,104,Unknown / Custom,0.11
+MuseoSlab,1,103,Unknown / Custom,0.11
+Alice,1,102,Unknown / Custom,0.11
+Express Display,1,102,Unknown / Custom,0.11
+funship,1,102,Unknown / Custom,0.11
+Krona One,1,98,Unknown / Custom,0.11
+Suez One,1,98,Unknown / Custom,0.11
+StagSansRoundMedium,1,97,Unknown / Custom,0.11
+OpenSans-CondensedBold,1,96,Unknown / Custom,0.11
+HeaderFont,1,95,Unknown / Custom,0.11
+Verlag,1,95,Unknown / Custom,0.11
+obviously_ttf,1,95,Unknown / Custom,0.11
+Arvo,1,94,Unknown / Custom,0.11
+Avenir LT W05_85 Heavy,1,93,Unknown / Custom,0.11
+puffin-display-soft,1,93,Unknown / Custom,0.11
+tiempos,1,92,Unknown / Custom,0.11
+source-sans-pro,1,91,Unknown / Custom,0.11
+Atyp text,1,89,Unknown / Custom,0.11
+Beatrice,1,88,Unknown / Custom,0.11
+Suisse Medium,1,88,Unknown / Custom,0.11
+displayFont,1,88,Unknown / Custom,0.11
+phosphor,1,88,Unknown / Custom,0.11
+Bourton Hand,1,86,Unknown / Custom,0.11
+Caslon540Std,1,86,Unknown / Custom,0.11
+Karla,1,85,Unknown / Custom,0.11
+Lato Bold,1,85,Unknown / Custom,0.11
+Miller Display Bold,1,85,Unknown / Custom,0.11
+Poppins Bold,1,85,Unknown / Custom,0.11
+Romelio,1,85,Unknown / Custom,0.11
+clearsans,1,84,Unknown / Custom,0.11
+rift,1,84,Unknown / Custom,0.11
+League Gothic,1,82,Unknown / Custom,0.11
+Staatliches,1,82,Unknown / Custom,0.11
+StyreneA,1,82,Unknown / Custom,0.11
+Chronicle Display,1,80,Unknown / Custom,0.11
+Suisse Semibold,1,79,Unknown / Custom,0.11
+UniversNextBold,1,79,Unknown / Custom,0.11
+fontello,1,79,Unknown / Custom,0.11
+Gotham Rounded SSm,1,78,Unknown / Custom,0.11
+HelveticaNowDisplay,1,77,Unknown / Custom,0.11
+Boogie school sans high,1,76,Unknown / Custom,0.11
+Hiragino Kaku Gothic ProN,1,76,Unknown / Custom,0.11
+SangBleuOGSans,1,76,Unknown / Custom,0.11
+Custom-Demi,1,75,Unknown / Custom,0.11
+TWK Lausanne Pan 300,1,75,Unknown / Custom,0.11
+FreightBigPro,1,73,Unknown / Custom,0.11
+Trade Gothic W01 Bold,1,73,Unknown / Custom,0.11
+Merriweather Sans Helix,1,72,Unknown / Custom,0.11
+Fira Sans Light,1,71,Unknown / Custom,0.11
+Fjalla One,1,71,Unknown / Custom,0.11
+icoajuntament,1,71,Unknown / Custom,0.11
+Isidora Bold,1,70,Unknown / Custom,0.11
+DroidSans Regular,1,68,Unknown / Custom,0.11
+Moonpig Bold,1,68,Unknown / Custom,0.11
+Flowing Font Regular,1,67,Unknown / Custom,0.11
+Galleria-Accademia-Firenze,1,67,Unknown / Custom,0.11
+Ginto Nord,1,67,Unknown / Custom,0.11
+MuseoSans-700,1,67,Unknown / Custom,0.11
+ivymode,1,66,Unknown / Custom,0.11
+Satoshi Variable Bold,1,65,Unknown / Custom,0.11
+Vesper Libre,1,64,Unknown / Custom,0.11
+Gravitica Mono,1,63,Unknown / Custom,0.11
+verdanaBold,1,63,Unknown / Custom,0.11
+DomaineDisplay,1,62,Unknown / Custom,0.11
+Regola Pro,1,62,Unknown / Custom,0.11
+SF Pro Text,1,62,Unknown / Custom,0.11
+Roboto Condensed v09,1,61,Unknown / Custom,0.11
+outfit,1,60,Unknown / Custom,0.11
+national,1,58,Unknown / Custom,0.11
+American Grotesk,1,57,Unknown / Custom,0.11
+Bitter,1,57,Unknown / Custom,0.11
+Perfectly Nineties,1,57,Unknown / Custom,0.11
+Knockout 26 A,1,56,Unknown / Custom,0.11
+mencken-std,1,56,Unknown / Custom,0.11
+Univers-Condensed,1,55,Unknown / Custom,0.11
+YanoneKaffeesatz,1,55,Unknown / Custom,0.11
+ABCProphet,1,54,Unknown / Custom,0.11
+fot-tsukuardgothic-std,1,53,Unknown / Custom,0.11
+DroidSans Bold,1,51,Unknown / Custom,0.11
+SchnyderM,1,51,Unknown / Custom,0.11
+outdooractive,1,51,Unknown / Custom,0.11
+GT Super Display,1,50,Unknown / Custom,0.11
+Suisse Works,1,50,Unknown / Custom,0.11
+moulin,1,49,Unknown / Custom,0.11
+FS Industrie Bold,1,48,Unknown / Custom,0.11
+open_sanssemibold,1,48,Unknown / Custom,0.11
+ivarHeadline,1,47,Unknown / Custom,0.11
+Moonpig Demi,1,46,Unknown / Custom,0.11
+UniversNextMedium,1,46,Unknown / Custom,0.11
+metropolisbold,1,46,Unknown / Custom,0.11
+nohemi,1,46,Unknown / Custom,0.11
+optimanormal,1,46,Unknown / Custom,0.11
+FrutigerNextRegular,1,45,Unknown / Custom,0.11
+MADEVoyager,1,45,Unknown / Custom,0.11
+ioi,1,45,Unknown / Custom,0.11
+Anton,1,44,Unknown / Custom,0.11
+Inter Tight,1,44,Unknown / Custom,0.11
+NoeDisplay,1,44,Unknown / Custom,0.11
+Playlist,1,44,Unknown / Custom,0.11
+SourceCodePro,1,44,Unknown / Custom,0.11
+Spoof,1,44,Unknown / Custom,0.11
+Vitesse SSm A,1,44,Unknown / Custom,0.11
+tarnac,1,44,Unknown / Custom,0.11
+AqvaSpirit,1,43,Unknown / Custom,0.11
+Geist Mono,1,43,Unknown / Custom,0.11
+LufgaBlack,1,43,Unknown / Custom,0.11
+Wicked Museo,1,43,Unknown / Custom,0.11
+omehxmsglfrptyagzgvlfexckbqifxvnrcpz,1,42,Unknown / Custom,0.11
+subway,1,42,Unknown / Custom,0.11
+Campton W00 SemiBold,1,41,Unknown / Custom,0.11
+object-fit: cover; object-position: 50% 50%,1,41,Unknown / Custom,0.11
+Fraunces Soft,1,40,Unknown / Custom,0.11
+P22Mackinac,1,40,Unknown / Custom,0.11
+intro,1,40,Unknown / Custom,0.11
+ヒラギノ角ゴ W4 JIS2004,1,40,Unknown / Custom,0.11
+ABC Arizona Flare Light,1,39,Unknown / Custom,0.11
+Aldus nova Pro,1,39,Unknown / Custom,0.11
+Korolev,1,39,Unknown / Custom,0.11
+DomaineDisplayNarrow,1,38,Unknown / Custom,0.11
+GeoEditRegular,1,38,Unknown / Custom,0.11
+RedHatMedium,1,38,Unknown / Custom,0.11
+SMGsansCascade,1,38,Unknown / Custom,0.11
+Tiempos Headline,1,37,Unknown / Custom,0.11
+Baloo Bhaina 2,1,36,Unknown / Custom,0.11
+ChaletNewYorkNineteenSixty,1,36,Unknown / Custom,0.11
+proxima-nova-smbd,1,36,Unknown / Custom,0.11
+tap,1,36,Unknown / Custom,0.11
+Panorama,1,35,Unknown / Custom,0.11
+Teko,1,35,Unknown / Custom,0.11
+VisbyCF-Heavy,1,35,Unknown / Custom,0.11
+alternate-gothic-condensed-a,1,35,Unknown / Custom,0.11
+Literata,1,34,Unknown / Custom,0.11
+Neue Haas Display Medium,1,34,Unknown / Custom,0.11
+StyreneB,1,34,Unknown / Custom,0.11
+Amsi Pro Narrow,1,33,Unknown / Custom,0.11
+IBM Plex Mono,1,33,Unknown / Custom,0.11
+IvyMode GHA Semi Bd,1,33,Unknown / Custom,0.11
+PortraitText,1,33,Unknown / Custom,0.11
+Clearface,1,32,Unknown / Custom,0.11
+Freight,1,32,Unknown / Custom,0.11
+Josefin Sans,1,32,Unknown / Custom,0.11
+MaisonNeue-Demi,1,32,Unknown / Custom,0.11
+Poppins Semi Bold,1,32,Unknown / Custom,0.11
+West Coast Headline,1,32,Unknown / Custom,0.11
+utile,1,32,Unknown / Custom,0.11
+ProximaNovaSbold,1,31,Unknown / Custom,0.11
+gellix,1,31,Unknown / Custom,0.11
+Avis Headline,1,30,Unknown / Custom,0.11
+Platypi,1,30,Unknown / Custom,0.11
+Souvenir,1,30,Unknown / Custom,0.11
+roboto-light,1,30,Unknown / Custom,0.11
+Futura PT Bold,1,29,Unknown / Custom,0.11
+PFDinTextPro,1,29,Unknown / Custom,0.11
+The Seasons,1,29,Unknown / Custom,0.11
+swiss721boldcondensed,1,29,Unknown / Custom,0.11
+AtlasGroteskMedium,1,28,Unknown / Custom,0.11
+DFDS Sans,1,28,Unknown / Custom,0.11
+Gelasio,1,28,Unknown / Custom,0.11
+Rhymes Display Light,1,28,Unknown / Custom,0.11
+fortescue,1,28,Unknown / Custom,0.11
+ArgentCF,1,27,Unknown / Custom,0.11
+Futura PT Medium,1,27,Unknown / Custom,0.11
+HermitageCelestial,1,27,Unknown / Custom,0.11
+Crimson Text,1,26,Unknown / Custom,0.11
+HelveticaNeue,1,26,Unknown / Custom,0.11
+IvyMode GHA Reg,1,26,Unknown / Custom,0.11
+p22-mackinac-pro,1,26,Unknown / Custom,0.11
+Assistant SemiBold,1,25,Unknown / Custom,0.11
+Carnival Instrument Sans,1,25,Unknown / Custom,0.11
+Italian Plate BlackItalic,1,25,Unknown / Custom,0.11
+Partiful Janky Inter Display Regular,1,25,Unknown / Custom,0.11
+Suedtirol Next,1,25,Unknown / Custom,0.11
+TradeGothicLTStd,1,25,Unknown / Custom,0.11
+haboro-soft-condensed,1,25,Unknown / Custom,0.11
+pc_home,1,24,Unknown / Custom,0.11
+BreeRegular,1,23,Unknown / Custom,0.11
+Cabify Ciudad,1,23,Unknown / Custom,0.11
+Dela Gothic One,1,23,Unknown / Custom,0.11
+MullerNarrow,1,23,Unknown / Custom,0.11
+Nunito-Sans-800,1,23,Unknown / Custom,0.11
+Abril-Titling,1,22,Unknown / Custom,0.11
+AcherusBlack,1,22,Unknown / Custom,0.11
+GraphikBold,1,22,Unknown / Custom,0.11
+Julius Sans One,1,22,Unknown / Custom,0.11
+RedHatBold,1,22,Unknown / Custom,0.11
+Tusker,1,22,Unknown / Custom,0.11
+bookmanOldStyle,1,22,Unknown / Custom,0.11
+Campton W00 Light,1,21,Unknown / Custom,0.11
+GTS,1,21,Unknown / Custom,0.11
+Lato Black,1,21,Unknown / Custom,0.11
+Neu Sans,1,21,Unknown / Custom,0.11
+Publico Headline Bold,1,21,Unknown / Custom,0.11
+Signifier,1,21,Unknown / Custom,0.11
+clearsansm,1,21,Unknown / Custom,0.11
+jadrolinija,1,21,Unknown / Custom,0.11
+ofelia,1,21,Unknown / Custom,0.11
+ヒラギノ角ゴ W7 JIS2004,1,21,Unknown / Custom,0.11
+Avenir-Book,1,20,Unknown / Custom,0.11
+TWK Lausanne Pan 500,1,20,Unknown / Custom,0.11
+redHatDisplay,1,20,Unknown / Custom,0.11
+Banana Grotesk,1,19,Unknown / Custom,0.11
+CrimsonPro,1,19,Unknown / Custom,0.11
+Fira Sans Medium,1,19,Unknown / Custom,0.11
+FreightBigBold,1,19,Unknown / Custom,0.11
+Simplon Mono,1,19,Unknown / Custom,0.11
+object-fit: cover,1,19,Unknown / Custom,0.11
+ABC Arizona Flare,1,18,Unknown / Custom,0.11
+Avenir LT W05 95 Black,1,18,Unknown / Custom,0.11
+Campton W00 Bold,1,18,Unknown / Custom,0.11
+Din-Cond,1,18,Unknown / Custom,0.11
+LufgaReg,1,18,Unknown / Custom,0.11
+Museo-900,1,18,Unknown / Custom,0.11
+NewSpirit,1,18,Unknown / Custom,0.11
+Publico Headline Web,1,18,Unknown / Custom,0.11
+Suwannaphum,1,18,Unknown / Custom,0.11
+TWK Lausanne Pan 400,1,18,Unknown / Custom,0.11
+ZalandoSansExpanded,1,18,Unknown / Custom,0.11
+ubuntu,1,18,Unknown / Custom,0.11
+Alvar Essential,1,17,Unknown / Custom,0.11
+athelas,1,17,Unknown / Custom,0.11
+carmel,1,17,Unknown / Custom,0.11
+hUUjJszu_wRW,1,17,Unknown / Custom,0.11
+infobus,1,17,Unknown / Custom,0.11
+rocky,1,17,Unknown / Custom,0.11
+AltoSemiBold,1,16,Unknown / Custom,0.11
+GothamRoundedMedium,1,16,Unknown / Custom,0.11
+metropolisregular,1,16,Unknown / Custom,0.11
+obviously,1,16,Unknown / Custom,0.11
+Denton,1,15,Unknown / Custom,0.11
+FFF Acid Grotesk Soft,1,15,Unknown / Custom,0.11
+Helvetica Now medium,1,15,Unknown / Custom,0.11
+Honey,1,15,Unknown / Custom,0.11
+La Pontaise Semi Bold,1,15,Unknown / Custom,0.11
+Poppins Semibold,1,15,Unknown / Custom,0.11
+Quincy,1,15,Unknown / Custom,0.11
+ffm,1,15,Unknown / Custom,0.11
+reimagine,1,15,Unknown / Custom,0.11
+DIN Pro,1,14,Unknown / Custom,0.11
+Exo20,1,14,Unknown / Custom,0.11
+GalanoGrotesque,1,14,Unknown / Custom,0.11
+Komplekt,1,14,Unknown / Custom,0.11
+Swiss 721 W01,1,14,Unknown / Custom,0.11
+Tiempos Text,1,14,Unknown / Custom,0.11
+flexa-compressedBold,1,14,Unknown / Custom,0.11
+fontDisplay,1,14,Unknown / Custom,0.11
+trade-gothic-next-condensed,1,14,Unknown / Custom,0.11
+Assistant Bold,1,13,Unknown / Custom,0.11
+Avenir-Roman,1,13,Unknown / Custom,0.11
+Bungee,1,13,Unknown / Custom,0.11
+Cabrito Flare,1,13,Unknown / Custom,0.11
+Campton W00 Medium,1,13,Unknown / Custom,0.11
+Euclid,1,13,Unknown / Custom,0.11
+FS Industrie Black,1,13,Unknown / Custom,0.11
+Fira Sans Bold,1,13,Unknown / Custom,0.11
+MaisonNeueExtended,1,13,Unknown / Custom,0.11
+PP-Hatton Medium,1,13,Unknown / Custom,0.11
+StagSansRoundLight,1,13,Unknown / Custom,0.11
+Tirol Sans,1,13,Unknown / Custom,0.11
+adr-ico-23,1,13,Unknown / Custom,0.11
+metropolismedium,1,13,Unknown / Custom,0.11
+minion-3-display,1,13,Unknown / Custom,0.11
+Bobs Pen Regular,1,12,Unknown / Custom,0.11
+Des Montilles,1,12,Unknown / Custom,0.11
+Futura W01,1,12,Unknown / Custom,0.11
+Newsreader,1,12,Unknown / Custom,0.11
+Noto Sans Condensed,1,12,Unknown / Custom,0.11
+Simplon BP,1,12,Unknown / Custom,0.11
+fairway,1,12,Unknown / Custom,0.11
+merriweather Medium,1,12,Unknown / Custom,0.11
+object-fit: cover; object-position: center center,1,12,Unknown / Custom,0.11
+Avenir Next,1,11,Unknown / Custom,0.11
+AvenirNext LT Pro Bold,1,11,Unknown / Custom,0.11
+Baltiholm,1,11,Unknown / Custom,0.11
+DearJoe,1,11,Unknown / Custom,0.11
+MuseoSans-900,1,11,Unknown / Custom,0.11
+Poppins Lite,1,11,Unknown / Custom,0.11
+RomainText,1,11,Unknown / Custom,0.11
+Sansa Pro,1,11,Unknown / Custom,0.11
+Tiempos Fine,1,11,Unknown / Custom,0.11
+cdc-fa,1,11,Unknown / Custom,0.11
+guia-rio,1,11,Unknown / Custom,0.11
+Besley,1,10,Unknown / Custom,0.11
+Campton W00 Book,1,10,Unknown / Custom,0.11
+Crimson Pro,1,10,Unknown / Custom,0.11
+Helvetica Now Display,1,10,Unknown / Custom,0.11
+Lustria,1,10,Unknown / Custom,0.11
+TWK Lausanne Pan 600,1,10,Unknown / Custom,0.11
+cymru sans headline,1,10,Unknown / Custom,0.11
+Inter Display,1,9,Unknown / Custom,0.11
+TWK Lausanne Pan 750,1,9,Unknown / Custom,0.11
+sa,1,9,Unknown / Custom,0.11
+stena sans display,1,9,Unknown / Custom,0.11
+Coco Gothic,1,8,Unknown / Custom,0.11
+FFMetaWebProItalic,1,8,Unknown / Custom,0.11
+Fragment Mono,1,8,Unknown / Custom,0.11
+Freight Pro,1,8,Unknown / Custom,0.11
+Golos Text,1,8,Unknown / Custom,0.11
+Lato-Black,1,8,Unknown / Custom,0.11
+Mr Dafoe,1,8,Unknown / Custom,0.11
+PierSans-Semi,1,8,Unknown / Custom,0.11
+TWK Lausanne Pan 700,1,8,Unknown / Custom,0.11
+Ubuntu Medium,1,8,Unknown / Custom,0.11
+object-fit: fill,1,8,Unknown / Custom,0.11
+reklame-script,1,8,Unknown / Custom,0.11
+Briston,1,7,Unknown / Custom,0.11
+Isidora Black,1,7,Unknown / Custom,0.11
+Museo-700,1,7,Unknown / Custom,0.11
+Simsun,1,7,Unknown / Custom,0.11
+StagSemiBold,1,7,Unknown / Custom,0.11
+TakeFlight,1,7,Unknown / Custom,0.11
+XuntaSans,1,7,Unknown / Custom,0.11
+haboro-soft-extended,1,7,Unknown / Custom,0.11
+kyaniAkti,1,7,Unknown / Custom,0.11
+metropolissemi,1,7,Unknown / Custom,0.11
+object-fit: contain,1,7,Unknown / Custom,0.11
+turbinado-pro,1,7,Unknown / Custom,0.11
+Aptos,1,6,Unknown / Custom,0.11
+Chinese Quote,1,6,Unknown / Custom,0.11
+Curious,1,6,Unknown / Custom,0.11
+Domine,1,6,Unknown / Custom,0.11
+FrutigerNextPaneuropeanLight,1,6,Unknown / Custom,0.11
+HalloSans,1,6,Unknown / Custom,0.11
+MaisonNeue,1,6,Unknown / Custom,0.11
+MaisonNeue-Book,1,6,Unknown / Custom,0.11
+Nunito-Sans-Black-900,1,6,Unknown / Custom,0.11
+Phetsarath_OT,1,6,Unknown / Custom,0.11
+Playlist-Script,1,6,Unknown / Custom,0.11
+Rhymes Display Light Italic,1,6,Unknown / Custom,0.11
+Vanitas,1,6,Unknown / Custom,0.11
+Visby,1,6,Unknown / Custom,0.11
+aph-webfont,1,6,Unknown / Custom,0.11
+bcferries,1,6,Unknown / Custom,0.11
+eater,1,6,Unknown / Custom,0.11
+golf,1,6,Unknown / Custom,0.11
+plutoSansMedium,1,6,Unknown / Custom,0.11
+American Grotesk Compressed,1,5,Unknown / Custom,0.11
+Avinor,1,5,Unknown / Custom,0.11
+ClanBold,1,5,Unknown / Custom,0.11
+FA5-S,1,5,Unknown / Custom,0.11
+Formata,1,5,Unknown / Custom,0.11
+FrutigerNextBold,1,5,Unknown / Custom,0.11
+Noto Sans TC,1,5,Unknown / Custom,0.11
+PP Fragment,1,5,Unknown / Custom,0.11
+Panama,1,5,Unknown / Custom,0.11
+PingFang HK,1,5,Unknown / Custom,0.11
+RLDRegular,1,5,Unknown / Custom,0.11
+Sharp Grotesk Semibold,1,5,Unknown / Custom,0.11
+akbar,1,5,Unknown / Custom,0.11
+boldenVan,1,5,Unknown / Custom,0.11
+mega_freshregular,1,5,Unknown / Custom,0.11
+mrs-eaves-roman-lining,1,5,Unknown / Custom,0.11
+object-fit: cover; parent-fit: cover,1,5,Unknown / Custom,0.11
+seasonMix,1,5,Unknown / Custom,0.11
+A1明朝,1,4,Unknown / Custom,0.11
+AustinTextRoman,1,4,Unknown / Custom,0.11
+BreeBold,1,4,Unknown / Custom,0.11
+Cinzel,1,4,Unknown / Custom,0.11
+High Tide,1,4,Unknown / Custom,0.11
+Last Minute Sans,1,4,Unknown / Custom,0.11
+PortraitText-RegularItalic,1,4,Unknown / Custom,0.11
+Rhymes Display Regular,1,4,Unknown / Custom,0.11
+Vy Display,1,4,Unknown / Custom,0.11
+cruise-america,1,4,Unknown / Custom,0.11
+ft-regola-neue-semi,1,4,Unknown / Custom,0.11
+hnt-font,1,4,Unknown / Custom,0.11
+icoajuntament-v2,1,4,Unknown / Custom,0.11
+lfm_fontregular,1,4,Unknown / Custom,0.11
+primary-font,1,4,Unknown / Custom,0.11
+quiZ3vdMCLMf,1,4,Unknown / Custom,0.11
+qybhddsjsppjhctqvvoswqwwwxggacsatysc,1,4,Unknown / Custom,0.11
+scale-variable,1,4,Unknown / Custom,0.11
+sustainability,1,4,Unknown / Custom,0.11
+viamaaxbold,1,4,Unknown / Custom,0.11
+Aktiv Grotesk,1,3,Unknown / Custom,0.11
+Autography,1,3,Unknown / Custom,0.11
+BrandonGrotesque-Black,1,3,Unknown / Custom,0.11
+EKRoumaldBold,1,3,Unknown / Custom,0.11
+Fira Sans Semi Bold,1,3,Unknown / Custom,0.11
+GT-America,1,3,Unknown / Custom,0.11
+Gotham (local),1,3,Unknown / Custom,0.11
+HanWang Ming,1,3,Unknown / Custom,0.11
+HeroicCondensed,1,3,Unknown / Custom,0.11
+JOST,1,3,Unknown / Custom,0.11
+Millik_ttf,1,3,Unknown / Custom,0.11
+Monologue,1,3,Unknown / Custom,0.11
+MuseoSans-100,1,3,Unknown / Custom,0.11
+Phosphor-Fill,1,3,Unknown / Custom,0.11
+Publico Headline,1,3,Unknown / Custom,0.11
+SF Pro Text Regular,1,3,Unknown / Custom,0.11
+Suedtirol Pro,1,3,Unknown / Custom,0.11
+americana,1,3,Unknown / Custom,0.11
+atrapaloico,1,3,Unknown / Custom,0.11
+axafont,1,3,Unknown / Custom,0.11
+booking-banner-promotion,1,3,Unknown / Custom,0.11
+plutoSans,1,3,Unknown / Custom,0.11
+plutoSansLight,1,3,Unknown / Custom,0.11
+qePhillips,1,3,Unknown / Custom,0.11
+xdjqclzinwasixtmecxmlstvflftcybeslpp,1,3,Unknown / Custom,0.11
+ヒラギノ明朝 W5 JIS2004,1,3,Unknown / Custom,0.11
+AIOA Rubik,1,2,Unknown / Custom,0.11
+ApexSansBoldT,1,2,Unknown / Custom,0.11
+Campton W00 ExtraBold,1,2,Unknown / Custom,0.11
+Campton W00 ExtraLight,1,2,Unknown / Custom,0.11
+FA5-R,1,2,Unknown / Custom,0.11
+Georama,1,2,Unknown / Custom,0.11
+HermitageGrotesque-RegularSC,1,2,Unknown / Custom,0.11
+Indie Flower,1,2,Unknown / Custom,0.11
+Lucida Console,1,2,Unknown / Custom,0.11
+Onefam Montserrat,1,2,Unknown / Custom,0.11
+SF Pro Text Semibold,1,2,Unknown / Custom,0.11
+Sharp Sans,1,2,Unknown / Custom,0.11
+SharpGrotesk,1,2,Unknown / Custom,0.11
+Swiss721BT-LightItalic,1,2,Unknown / Custom,0.11
+aall,1,2,Unknown / Custom,0.11
+aktiv-grotesk,1,2,Unknown / Custom,0.11
+antology,1,2,Unknown / Custom,0.11
+aqxwziisamdbdqrwebvjfvvbrlnufcfedjlf,1,2,Unknown / Custom,0.11
+atlasobscura,1,2,Unknown / Custom,0.11
+elementskit,1,2,Unknown / Custom,0.11
+empty,1,2,Unknown / Custom,0.11
+evelethclean,1,2,Unknown / Custom,0.11
+fc,1,2,Unknown / Custom,0.11
+fleur,1,2,Unknown / Custom,0.11
+futura-pt-condensed,1,2,Unknown / Custom,0.11
+object-fit: contain;,1,2,Unknown / Custom,0.11
+object-fit: contain; parent-fit: contain,1,2,Unknown / Custom,0.11
+Amiri,1,1,Unknown / Custom,0.11
+Arimo,1,1,Unknown / Custom,0.11
+AustinTextRoman2,1,1,Unknown / Custom,0.11
+BeachDay,1,1,Unknown / Custom,0.11
+CHANEWEI,1,1,Unknown / Custom,0.11
+Catull,1,1,Unknown / Custom,0.11
+Caveat Brush,1,1,Unknown / Custom,0.11
+ClanBook,1,1,Unknown / Custom,0.11
+Claudion,1,1,Unknown / Custom,0.11
+Courier New,1,1,Unknown / Custom,0.11
+Cymru Sans Headline,1,1,Unknown / Custom,0.11
+DinPro Condensed,1,1,Unknown / Custom,0.11
+FS Industrie Condensed,1,1,Unknown / Custom,0.11
+Fira Sans SemiBold,1,1,Unknown / Custom,0.11
+FreightBigBoldItalic,1,1,Unknown / Custom,0.11
+Funship,1,1,Unknown / Custom,0.11
+GeoEditRegularItalic,1,1,Unknown / Custom,0.11
+Geogrotesque,1,1,Unknown / Custom,0.11
+GothamGD,1,1,Unknown / Custom,0.11
+GothamRoundedBook,1,1,Unknown / Custom,0.11
+Impact,1,1,Unknown / Custom,0.11
+Intelo-Extra,1,1,Unknown / Custom,0.11
+Judge Bold,1,1,Unknown / Custom,0.11
+Just Another Hand,1,1,Unknown / Custom,0.11
+Lato Semibold,1,1,Unknown / Custom,0.11
+MO Exceptional,1,1,Unknown / Custom,0.11
+Marr Sans,1,1,Unknown / Custom,0.11
+Nunito-Sans,1,1,Unknown / Custom,0.11
+Nunito-Sans-600,1,1,Unknown / Custom,0.11
+Nunito-Sans-Klaviyo-Hosted,1,1,Unknown / Custom,0.11
+Ortica Linear,1,1,Unknown / Custom,0.11
+Pacifico,1,1,Unknown / Custom,0.11
+ProximaNova-Regular-select,1,1,Unknown / Custom,0.11
+Questrial,1,1,Unknown / Custom,0.11
+RLDBold,1,1,Unknown / Custom,0.11
+RebelSansDisplay,1,1,Unknown / Custom,0.11
+SFMono,1,1,Unknown / Custom,0.11
+Salvatore,1,1,Unknown / Custom,0.11
+Segoe Print,1,1,Unknown / Custom,0.11
+Stapel,1,1,Unknown / Custom,0.11
+SwisspostersVAR-Black,1,1,Unknown / Custom,0.11
+TWK Lausanne Pan,1,1,Unknown / Custom,0.11
+Zeyada,1,1,Unknown / Custom,0.11
+affirm,1,1,Unknown / Custom,0.11
+americane,1,1,Unknown / Custom,0.11
+cleartrip,1,1,Unknown / Custom,0.11
+cursive,1,1,Unknown / Custom,0.11
+efteling,1,1,Unknown / Custom,0.11
+finnairheadlinepro,1,1,Unknown / Custom,0.11
+have_heart_one,1,1,Unknown / Custom,0.11
+heldane-display,1,1,Unknown / Custom,0.11
+mencken-std-head-compress,1,1,Unknown / Custom,0.11
+neighbor,1,1,Unknown / Custom,0.11
+object-fit: cover; object-position: bottom center,1,1,Unknown / Custom,0.11
+object-fit: cover; object-position: center left,1,1,Unknown / Custom,0.11
+object-fit: cover; object-position: center;,1,1,Unknown / Custom,0.11
+object-fit: cover; object-position: top center,1,1,Unknown / Custom,0.11
+page-builder-framework,1,1,Unknown / Custom,0.11
+swiss721condensed,1,1,Unknown / Custom,0.11
+trade-gothic-next,1,1,Unknown / Custom,0.11
+trade-gothic-next-compressed,1,1,Unknown / Custom,0.11
+viamaaxmedium,1,1,Unknown / Custom,0.11

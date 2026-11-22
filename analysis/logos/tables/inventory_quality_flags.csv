@@ -1,0 +1,9 @@
+﻿Quality flag,Assets (n),Assets (%),Base analysed assets (n)
+load_failed,524,71.39,734
+complex_background,97,13.22,734
+not_downloaded,93,12.67,734
+photographic_or_complex,21,2.86,734
+very_large_original,9,1.23,734
+tiny_original,2,0.27,734
+extreme_aspect,1,0.14,734
+empty_mask,1,0.14,734

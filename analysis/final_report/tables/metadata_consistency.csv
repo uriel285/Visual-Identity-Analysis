@@ -1,0 +1,3 @@
+﻿Comparison,Valid pairs (n),Mean Jaccard similarity,Median Jaccard similarity
+Title vs Open Graph title,688,0.83,1.0
+Description vs Open Graph description,629,0.91,1.0
